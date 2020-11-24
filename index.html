@@ -3,19 +3,23 @@
 <head>
     <link rel="icon" href="favicon.ico" />
     <meta charset="utf-8" />
-    <script type="text/javascript" src="lightweight-charts.standalone.production.js"></script>
     <script type="text/javascript" src="labeledData.js"></script>
+    <script type="text/javascript" src="lightweight-charts.standalone.production.js"></script>
     <title>Vraid Systems LLC - ml_timeseries_predictions</title>
 </head>
 
 <body>
 
 <script type="text/javascript">
-    const dataLabels = ['BTC/USD actual', 'BTC/USD predicted']
-    const dataVisibility = [true, true]
+    const firstElementIndex = 0
+    const lastElementIndex = labeledData.length - 1
+    const dataLabels = Object.keys(labeledData[firstElementIndex][1]).concat(Object.keys(labeledData[lastElementIndex][1]))
+
+    const viewHeight = Math.floor(Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0) * 0.98)
+    const viewWidth = Math.floor(Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0) * 0.98)
 
     const chart = LightweightCharts.createChart(document.body, {
-        height: 600,
+        height: viewHeight,
         leftPriceScale: {
             visible: true,
         },
@@ -26,14 +30,10 @@
             secondsVisible: true,
             timeVisible: true,
         },
-        width: 800,
+        width: viewWidth,
     })
 
     for (let labelIndex = 0; labelIndex < dataLabels.length; labelIndex += 1) {
-        if (!dataVisibility[labelIndex]) {
-            continue
-        }
-
         const chartSeries = chart.addLineSeries({
             title: dataLabels[labelIndex],
         })
