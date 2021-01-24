@@ -4545,119 +4545,119 @@ const labeledData = [
     [
         1513123200000,
         {
-            "BTC/USD actual": 16536.51053938588,
+            "BTC/USD actual": 16536.510539385294,
             "ETH/USD actual": 619.2426396294118
         }
     ],
     [
         1513209600000,
         {
-            "BTC/USD actual": 16654.160047101177,
+            "BTC/USD actual": 16654.160047100588,
             "ETH/USD actual": 631.2400697082353
         }
     ],
     [
         1513296000000,
         {
-            "BTC/USD actual": 16703.66097757706,
+            "BTC/USD actual": 16703.66097757647,
             "ETH/USD actual": 648.1877070429412
         }
     ],
     [
         1513382400000,
         {
-            "BTC/USD actual": 16520.50605200882,
+            "BTC/USD actual": 16520.506052008233,
             "ETH/USD actual": 664.154496617647
         }
     ],
     [
         1513468800000,
         {
-            "BTC/USD actual": 16355.595868859999,
+            "BTC/USD actual": 16355.595868859413,
             "ETH/USD actual": 680.7235883629412
         }
     ],
     [
         1513555200000,
         {
-            "BTC/USD actual": 16362.37357656294,
+            "BTC/USD actual": 16362.373576562355,
             "ETH/USD actual": 697.0664679176471
         }
     ],
     [
         1513641600000,
         {
-            "BTC/USD actual": 16378.816295487646,
+            "BTC/USD actual": 16378.81629548706,
             "ETH/USD actual": 714.7066243235294
         }
     ],
     [
         1513728000000,
         {
-            "BTC/USD actual": 16244.29360913412,
+            "BTC/USD actual": 16244.29360913353,
             "ETH/USD actual": 726.5298352817647
         }
     ],
     [
         1513814400000,
         {
-            "BTC/USD actual": 16075.162507633531,
+            "BTC/USD actual": 16075.162507632942,
             "ETH/USD actual": 731.1006888388235
         }
     ],
     [
         1513900800000,
         {
-            "BTC/USD actual": 15851.097817777645,
+            "BTC/USD actual": 15851.097817777058,
             "ETH/USD actual": 730.6278215982353
         }
     ],
     [
         1513987200000,
         {
-            "BTC/USD actual": 15691.000642795294,
+            "BTC/USD actual": 15691.000642794708,
             "ETH/USD actual": 733.0649710411764
         }
     ],
     [
         1514073600000,
         {
-            "BTC/USD actual": 15445.48310214706,
+            "BTC/USD actual": 15445.48310214647,
             "ETH/USD actual": 737.1231323082352
         }
     ],
     [
         1514160000000,
         {
-            "BTC/USD actual": 15174.633665195883,
+            "BTC/USD actual": 15174.633665195297,
             "ETH/USD actual": 746.9746691282353
         }
     ],
     [
         1514246400000,
         {
-            "BTC/USD actual": 14941.795931957648,
+            "BTC/USD actual": 14941.795931957064,
             "ETH/USD actual": 759.9457693176472
         }
     ],
     [
         1514332800000,
         {
-            "BTC/USD actual": 14717.955689619412,
+            "BTC/USD actual": 14717.955689618824,
             "ETH/USD actual": 769.5818845988236
         }
     ],
     [
         1514419200000,
         {
-            "BTC/USD actual": 14680.489197176472,
+            "BTC/USD actual": 14680.489197175884,
             "ETH/USD actual": 778.7661659917649
         }
     ],
     [
         1514505600000,
         {
-            "BTC/USD actual": 14720.16076859,
+            "BTC/USD actual": 14720.160768589412,
             "ETH/USD actual": 790.8923080017647
         }
     ],
@@ -12329,218 +12329,477 @@ const labeledData = [
     [
         1609200000000,
         {
-            "BTC/USD actual": 28277.945858841762,
-            "ETH/USD actual": 775.4914753970588
+            "BTC/USD actual": 28276.328067357055,
+            "ETH/USD actual": 775.4214526923529
         }
     ],
     [
         1609286400000,
         {
-            "BTC/USD actual": 29264.349028870005,
-            "ETH/USD actual": 811.8682451599999
+            "BTC/USD actual": 29261.85840187353,
+            "ETH/USD actual": 811.7565789388236
         }
     ],
     [
         1609372800000,
         {
-            "BTC/USD actual": 29604.55182281813,
-            "ETH/USD actual": 822.8093307562499
+            "BTC/USD actual": 30250.422841118238,
+            "ETH/USD actual": 845.8881881488235
         }
     ],
     [
         1609459200000,
         {
-            "BTC/USD actual": 30028.946314068675,
-            "ETH/USD actual": 838.6048600266665
+            "BTC/USD actual": 31252.332598877645,
+            "ETH/USD actual": 886.7926797529411
         }
     ],
     [
         1609545600000,
         {
-            "BTC/USD actual": 30479.350422071435,
-            "ETH/USD actual": 854.7642742535714
+            "BTC/USD actual": 32102.599126511184,
+            "ETH/USD actual": 924.6125630482353
         }
     ],
     [
         1609632000000,
         {
-            "BTC/USD actual": 30923.26517956539,
-            "ETH/USD actual": 872.2871524938461
+            "BTC/USD actual": 32734.057927890004,
+            "ETH/USD actual": 951.7524116664707
         }
     ],
     [
         1609718400000,
         {
-            "BTC/USD actual": 31295.90524316084,
-            "ETH/USD actual": 891.9641520408333
+            "BTC/USD actual": 33181.49580044706,
+            "ETH/USD actual": 976.1152009011763
         }
     ],
     [
         1609804800000,
         {
-            "BTC/USD actual": 31754.39840335364,
-            "ETH/USD actual": 910.8769850081818
+            "BTC/USD actual": 33836.503737991756,
+            "ETH/USD actual": 1002.3561696258824
         }
     ],
     [
         1609891200000,
         {
-            "BTC/USD actual": 32225.531080075005,
-            "ETH/USD actual": 928.971675236
+            "BTC/USD actual": 34547.72301255412,
+            "ETH/USD actual": 1031.8234303264708
         }
     ],
     [
         1609977600000,
         {
-            "BTC/USD actual": 32769.89629200778,
-            "ETH/USD actual": 950.97659601
+            "BTC/USD actual": 35102.19034998235,
+            "ETH/USD actual": 1057.5465904876473
         }
     ],
     [
         1610064000000,
         {
-            "BTC/USD predicted": 33747.690601773545,
-            "ETH/USD predicted": 966.2368124740742
+            "BTC/USD actual": 35521.538232215295,
+            "ETH/USD actual": 1085.504999514118
         }
     ],
     [
         1610150400000,
         {
-            "BTC/USD predicted": 34970.70289143341,
-            "ETH/USD predicted": 975.6813810170029
+            "BTC/USD actual": 35925.482880077645,
+            "ETH/USD actual": 1114.7014291276473
         }
     ],
     [
         1610236800000,
         {
-            "BTC/USD predicted": 36248.45882473524,
-            "ETH/USD predicted": 985.2507560954481
+            "BTC/USD actual": 36349.80067131,
+            "ETH/USD actual": 1145.698226652353
         }
     ],
     [
         1610323200000,
         {
-            "BTC/USD predicted": 37583.40879939337,
-            "ETH/USD predicted": 994.9465869823476
+            "BTC/USD actual": 36567.54969618059,
+            "ETH/USD actual": 1180.587805415294
         }
     ],
     [
         1610409600000,
         {
-            "BTC/USD predicted": 38978.11289615673,
-            "ETH/USD predicted": 1004.770544745181
+            "BTC/USD actual": 36710.42655780059,
+            "ETH/USD actual": 1203.9636265829413
         }
     ],
     [
         1610496000000,
         {
-            "BTC/USD predicted": 40435.24578836614,
-            "ETH/USD predicted": 1014.7243225339762
+            "BTC/USD actual": 36642.74101062236,
+            "ETH/USD actual": 1208.0468001711763
         }
     ],
     [
         1610582400000,
         {
-            "BTC/USD predicted": 41957.60187126997,
-            "ETH/USD predicted": 1024.8096358731225
+            "BTC/USD actual": 36582.61654775529,
+            "ETH/USD actual": 1215.7504574947059
         }
     ],
     [
         1610668800000,
         {
-            "BTC/USD predicted": 43548.100620934594,
-            "ETH/USD predicted": 1035.0282229570391
+            "BTC/USD actual": 36305.15260889588,
+            "ETH/USD actual": 1217.1341229023526
         }
     ],
     [
         1610755200000,
         {
-            "BTC/USD predicted": 45209.79219302691,
-            "ETH/USD predicted": 1045.3818449497523
+            "BTC/USD actual": 36106.944176343124,
+            "ETH/USD actual": 1216.5998161518746
         }
     ],
     [
         1610841600000,
         {
-            "BTC/USD predicted": 46945.86327220558,
-            "ETH/USD predicted": 1055.87228628843
+            "BTC/USD actual": 35805.627135242,
+            "ETH/USD actual": 1216.5699217493332
         }
     ],
     [
         1610928000000,
         {
-            "BTC/USD predicted": 48759.64318333891,
-            "ETH/USD predicted": 1066.5013549909272
+            "BTC/USD actual": 35486.66476376143,
+            "ETH/USD actual": 1211.9497198049996
         }
     ],
     [
         1611014400000,
         {
-            "BTC/USD predicted": 50654.610276268795,
-            "ETH/USD predicted": 1077.2708829673973
+            "BTC/USD actual": 35279.652840066155,
+            "ETH/USD actual": 1208.6142307999996
         }
     ],
     [
         1611100800000,
         {
-            "BTC/USD predicted": 52634.39859636512,
-            "ETH/USD predicted": 1088.1827263360192
+            "BTC/USD actual": 35266.019060230836,
+            "ETH/USD actual": 1218.6367263966665
         }
     ],
     [
         1611187200000,
         {
-            "BTC/USD predicted": 54702.80485366305,
-            "ETH/USD predicted": 1099.2387657428983
+            "BTC/USD actual": 35375.83640662545,
+            "ETH/USD actual": 1233.937285621818
         }
     ],
     [
         1611273600000,
         {
-            "BTC/USD predicted": 56863.795703948024,
-            "ETH/USD predicted": 1110.440906686193
+            "BTC/USD actual": 35174.658505358,
+            "ETH/USD actual": 1244.3290684119997
         }
     ],
     [
         1611360000000,
         {
-            "BTC/USD predicted": 59121.51535575178,
-            "ETH/USD predicted": 1121.7910798445273
+            "BTC/USD actual": 34734.75397220889,
+            "ETH/USD actual": 1245.824129942222
         }
     ],
     [
         1611446400000,
         {
-            "BTC/USD predicted": 61480.2935178475,
-            "ETH/USD predicted": 1133.2912414097395
+            "BTC/USD predicted": 34276.605819429984,
+            "ETH/USD predicted": 1246.7469406302073
         }
     ],
     [
         1611532800000,
         {
-            "BTC/USD predicted": 63944.653702485375,
-            "ETH/USD predicted": 1144.943373424032
+            "BTC/USD predicted": 33842.05522095793,
+            "ETH/USD predicted": 1248.301303485697
         }
     ],
     [
         1611619200000,
         {
-            "BTC/USD predicted": 66519.32190029194,
-            "ETH/USD predicted": 1156.749484121572
+            "BTC/USD predicted": 33430.415528877835,
+            "ETH/USD predicted": 1249.6881662169028
         }
     ],
     [
         1611705600000,
         {
-            "BTC/USD predicted": 69209.23564346925,
-            "ETH/USD predicted": 1168.711608274612
+            "BTC/USD predicted": 33040.18470657145,
+            "ETH/USD predicted": 1251.0170805505813
         }
     ],
     [
         1611792000000,
         {
-            "BTC/USD predicted": 72019.55347467505,
-            "ETH/USD predicted": 1180.8318075441775
+            "BTC/USD predicted": 32670.4130905559,
+            "ETH/USD predicted": 1252.277630819036
+        }
+    ],
+    [
+        1611878400000,
+        {
+            "BTC/USD predicted": 32319.936892013204,
+            "ETH/USD predicted": 1253.4750108369897
+        }
+    ],
+    [
+        1611964800000,
+        {
+            "BTC/USD predicted": 31987.799980285745,
+            "ETH/USD predicted": 1254.612164978394
+        }
+    ],
+    [
+        1612051200000,
+        {
+            "BTC/USD predicted": 31673.01447718779,
+            "ETH/USD predicted": 1255.6921516485713
+        }
+    ],
+    [
+        1612137600000,
+        {
+            "BTC/USD predicted": 31374.68963683371,
+            "ETH/USD predicted": 1256.7178409501018
+        }
+    ],
+    [
+        1612224000000,
+        {
+            "BTC/USD predicted": 31091.95595243248,
+            "ETH/USD predicted": 1257.6919632420038
+        }
+    ],
+    [
+        1612310400000,
+        {
+            "BTC/USD predicted": 30824.003464892452,
+            "ETH/USD predicted": 1258.6171110130501
+        }
+    ],
+    [
+        1612396800000,
+        {
+            "BTC/USD predicted": 30570.056708003176,
+            "ETH/USD predicted": 1259.4957464923527
+        }
+    ],
+    [
+        1612483200000,
+        {
+            "BTC/USD predicted": 30329.38511919679,
+            "ETH/USD predicted": 1260.3302081087309
+        }
+    ],
+    [
+        1612569600000,
+        {
+            "BTC/USD predicted": 30101.293893603626,
+            "ETH/USD predicted": 1261.1227167266343
+        }
+    ],
+    [
+        1612656000000,
+        {
+            "BTC/USD predicted": 29885.12589929836,
+            "ETH/USD predicted": 1261.875381555198
+        }
+    ],
+    [
+        1612742400000,
+        {
+            "BTC/USD predicted": 29680.257601460893,
+            "ETH/USD predicted": 1262.5902057619776
+        }
+    ],
+    [
+        1612828800000,
+        {
+            "BTC/USD predicted": 29486.09847873843,
+            "ETH/USD predicted": 1263.2690918042192
+        }
+    ],
+    [
+        1612915200000,
+        {
+            "BTC/USD predicted": 29302.08864481626,
+            "ETH/USD predicted": 1263.913846492126
+        }
+    ],
+    [
+        1613001600000,
+        {
+            "BTC/USD predicted": 29127.697610350013,
+            "ETH/USD predicted": 1264.5261857975638
+        }
+    ],
+    [
+        1613088000000,
+        {
+            "BTC/USD predicted": 28962.422544051748,
+            "ETH/USD predicted": 1265.1077394210072
+        }
+    ],
+    [
+        1613174400000,
+        {
+            "BTC/USD predicted": 28805.786939489648,
+            "ETH/USD predicted": 1265.660055128878
+        }
+    ],
+    [
+        1613260800000,
+        {
+            "BTC/USD predicted": 28657.33917634001,
+            "ETH/USD predicted": 1266.184602872824
+        }
+    ],
+    [
+        1613347200000,
+        {
+            "BTC/USD predicted": 28516.65125439172,
+            "ETH/USD predicted": 1266.6827787018972
+        }
+    ],
+    [
+        1613433600000,
+        {
+            "BTC/USD predicted": 28383.317539431264,
+            "ETH/USD predicted": 1267.1559084780467
+        }
+    ],
+    [
+        1613520000000,
+        {
+            "BTC/USD predicted": 28256.953604908234,
+            "ETH/USD predicted": 1267.6052514048117
+        }
+    ],
+    [
+        1613606400000,
+        {
+            "BTC/USD predicted": 28137.19511732689,
+            "ETH/USD predicted": 1268.0320033786081
+        }
+    ],
+    [
+        1613692800000,
+        {
+            "BTC/USD predicted": 28023.696789266643,
+            "ETH/USD predicted": 1268.4373001715282
+        }
+    ],
+    [
+        1613779200000,
+        {
+            "BTC/USD predicted": 27916.131381918727,
+            "ETH/USD predicted": 1268.8222204541223
+        }
+    ],
+    [
+        1613865600000,
+        {
+            "BTC/USD predicted": 27814.18876266509,
+            "ETH/USD predicted": 1269.1877886662091
+        }
+    ],
+    [
+        1613952000000,
+        {
+            "BTC/USD predicted": 27717.575010305503,
+            "ETH/USD predicted": 1269.5349777433544
+        }
+    ],
+    [
+        1614038400000,
+        {
+            "BTC/USD predicted": 27626.01156795638,
+            "ETH/USD predicted": 1269.8647117062744
+        }
+    ],
+    [
+        1614124800000,
+        {
+            "BTC/USD predicted": 27539.234439729807,
+            "ETH/USD predicted": 1270.177868120056
+        }
+    ],
+    [
+        1614211200000,
+        {
+            "BTC/USD predicted": 27456.993429683338,
+            "ETH/USD predicted": 1270.4752804297377
+        }
+    ],
+    [
+        1614297600000,
+        {
+            "BTC/USD predicted": 27379.05142039722,
+            "ETH/USD predicted": 1270.7577401784686
+        }
+    ],
+    [
+        1614384000000,
+        {
+            "BTC/USD predicted": 27305.183689349036,
+            "ETH/USD predicted": 1271.0259991141477
+        }
+    ],
+    [
+        1614470400000,
+        {
+            "BTC/USD predicted": 27235.17726097557,
+            "ETH/USD predicted": 1271.2807711901517
+        }
+    ],
+    [
+        1614556800000,
+        {
+            "BTC/USD predicted": 27168.83029263124,
+            "ETH/USD predicted": 1271.5227344654738
+        }
+    ],
+    [
+        1614643200000,
+        {
+            "BTC/USD predicted": 27105.951492629516,
+            "ETH/USD predicted": 1271.7525329093337
+        }
+    ],
+    [
+        1614729600000,
+        {
+            "BTC/USD predicted": 27046.359568713524,
+            "ETH/USD predicted": 1271.970778115058
+        }
+    ],
+    [
+        1614816000000,
+        {
+            "BTC/USD predicted": 26989.88270535218,
+            "ETH/USD predicted": 1272.1780509277958
+        }
+    ],
+    [
+        1614902400000,
+        {
+            "BTC/USD predicted": 26936.358068362355,
+            "ETH/USD predicted": 1272.3749029903997
+        }
+    ],
+    [
+        1614988800000,
+        {
+            "BTC/USD predicted": 26885.63133542454,
+            "ETH/USD predicted": 1272.5618582115867
         }
     ]
 ]
