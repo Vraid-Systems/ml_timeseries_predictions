@@ -2,12804 +2,12860 @@ const labeledData = [
     [
         1457049600000,
         {
-            "BTC/USD actual": 419.53876686705877,
-            "ETH/USD actual": 11.611992702222222
+            "BTC/USD actual": 419.99052784606056,
+            "ETH/USD actual": 11.739794397647058
         }
     ],
     [
         1457136000000,
         {
-            "BTC/USD actual": 418.79756111117644,
-            "ETH/USD actual": 11.866384439
+            "BTC/USD actual": 419.9091999712121,
+            "ETH/USD actual": 11.743139153333335
         }
     ],
     [
         1457222400000,
         {
-            "BTC/USD actual": 417.6903925782353,
-            "ETH/USD actual": 11.917149941818183
+            "BTC/USD actual": 419.78963913696964,
+            "ETH/USD actual": 11.71460551368421
         }
     ],
     [
         1457308800000,
         {
-            "BTC/USD actual": 416.60235632470585,
-            "ETH/USD actual": 12.015742584166668
+            "BTC/USD actual": 419.71469057666667,
+            "ETH/USD actual": 11.749875238
         }
     ],
     [
         1457395200000,
         {
-            "BTC/USD actual": 415.56570297529413,
-            "ETH/USD actual": 12.056685462307694
+            "BTC/USD actual": 418.992986500303,
+            "ETH/USD actual": 11.72273832190476
         }
     ],
     [
         1457481600000,
         {
-            "BTC/USD actual": 414.4063098905882,
-            "ETH/USD actual": 11.985508535
+            "BTC/USD actual": 418.2703962448484,
+            "ETH/USD actual": 11.678992316818182
         }
     ],
     [
         1457568000000,
         {
-            "BTC/USD actual": 412.88239396941174,
-            "ETH/USD actual": 11.917354648666667
+            "BTC/USD actual": 417.5788645721213,
+            "ETH/USD actual": 11.649913688695651
         }
     ],
     [
         1457654400000,
         {
-            "BTC/USD actual": 412.10235818000007,
-            "ETH/USD actual": 11.8317815475
+            "BTC/USD actual": 417.7499481812121,
+            "ETH/USD actual": 11.598125618333333
         }
     ],
     [
         1457740800000,
         {
-            "BTC/USD actual": 411.5697327447059,
-            "ETH/USD actual": 11.739794397647058
+            "BTC/USD actual": 417.6958236018181,
+            "ETH/USD actual": 11.602200593599997
         }
     ],
     [
         1457827200000,
         {
-            "BTC/USD actual": 411.76626663647056,
-            "ETH/USD actual": 11.580970868235296
+            "BTC/USD actual": 417.4438577936363,
+            "ETH/USD actual": 11.604346724615384
         }
     ],
     [
         1457913600000,
         {
-            "BTC/USD actual": 412.9401946858823,
-            "ETH/USD actual": 11.38691204470588
+            "BTC/USD actual": 416.8139574493939,
+            "ETH/USD actual": 11.61337092
         }
     ],
     [
         1458000000000,
         {
-            "BTC/USD actual": 413.8598012858824,
-            "ETH/USD actual": 11.429264985882353
+            "BTC/USD actual": 416.2701019148485,
+            "ETH/USD actual": 11.605250529999998
         }
     ],
     [
         1458086400000,
         {
-            "BTC/USD actual": 414.05351454882356,
-            "ETH/USD actual": 11.398676750588235
+            "BTC/USD actual": 415.7740427451515,
+            "ETH/USD actual": 11.605896710689652
         }
     ],
     [
         1458172800000,
         {
-            "BTC/USD actual": 414.34331633294113,
-            "ETH/USD actual": 11.47281358647059
+            "BTC/USD actual": 415.2216080566667,
+            "ETH/USD actual": 11.607633486999998
         }
     ],
     [
         1458259200000,
         {
-            "BTC/USD actual": 414.57700390235294,
-            "ETH/USD actual": 11.537200519411765
+            "BTC/USD actual": 414.80286469848494,
+            "ETH/USD actual": 11.607709826129032
         }
     ],
     [
         1458345600000,
         {
-            "BTC/USD actual": 415.2112067247058,
-            "ETH/USD actual": 11.56105475352941
+            "BTC/USD actual": 414.74440813030304,
+            "ETH/USD actual": 11.593406394062498
         }
     ],
     [
         1458432000000,
         {
-            "BTC/USD actual": 415.43355941529404,
-            "ETH/USD actual": 11.599564749999999
+            "BTC/USD actual": 414.838310069394,
+            "ETH/USD actual": 11.559303169999998
         }
     ],
     [
         1458518400000,
         {
-            "BTC/USD actual": 415.77002786588235,
-            "ETH/USD actual": 11.600298854117646
+            "BTC/USD actual": 415.250260569394,
+            "ETH/USD actual": 11.440138912727273
         }
     ],
     [
         1458604800000,
         {
-            "BTC/USD actual": 415.8566407041176,
-            "ETH/USD actual": 11.464539438235292
+            "BTC/USD actual": 416.0092610890909,
+            "ETH/USD actual": 11.309164753939392
         }
     ],
     [
         1458691200000,
         {
-            "BTC/USD actual": 415.8909507541177,
-            "ETH/USD actual": 11.403433263529411
+            "BTC/USD actual": 416.54778030090915,
+            "ETH/USD actual": 11.272016625757573
         }
     ],
     [
         1458777600000,
         {
-            "BTC/USD actual": 416.0344403947059,
-            "ETH/USD actual": 11.316593741176472
+            "BTC/USD actual": 416.8325058509091,
+            "ETH/USD actual": 11.197691257878787
         }
     ],
     [
         1458864000000,
         {
-            "BTC/USD actual": 416.2330019052941,
-            "ETH/USD actual": 11.264240800000001
+            "BTC/USD actual": 417.1929216345455,
+            "ETH/USD actual": 11.180814816060606
         }
     ],
     [
         1458950400000,
         {
-            "BTC/USD actual": 416.3550835288236,
-            "ETH/USD actual": 11.29658147764706
+            "BTC/USD actual": 417.52276781878794,
+            "ETH/USD actual": 11.132215246060605
         }
     ],
     [
         1459036800000,
         {
-            "BTC/USD actual": 417.0359208941177,
-            "ETH/USD actual": 11.30756969882353
+            "BTC/USD actual": 417.8632484790908,
+            "ETH/USD actual": 11.057018942424245
         }
     ],
     [
         1459123200000,
         {
-            "BTC/USD actual": 417.87660287235303,
-            "ETH/USD actual": 11.302852932352941
+            "BTC/USD actual": 418.054021830303,
+            "ETH/USD actual": 10.966281010303032
         }
     ],
     [
         1459209600000,
         {
-            "BTC/USD actual": 418.53793520882357,
-            "ETH/USD actual": 11.320475256470587
+            "BTC/USD actual": 418.5320279878788,
+            "ETH/USD actual": 10.870053124545457
         }
     ],
     [
         1459296000000,
         {
-            "BTC/USD actual": 419.14721725352945,
-            "ETH/USD actual": 11.225054830588235
+            "BTC/USD actual": 419.08687885939383,
+            "ETH/USD actual": 10.693204334545456
         }
     ],
     [
         1459382400000,
         {
-            "BTC/USD actual": 419.31053533764725,
-            "ETH/USD actual": 11.182296699411763
+            "BTC/USD actual": 419.6361843493939,
+            "ETH/USD actual": 10.579392062727276
         }
     ],
     [
         1459468800000,
         {
-            "BTC/USD actual": 419.47510627882366,
-            "ETH/USD actual": 10.995665102941174
+            "BTC/USD actual": 420.1451586569696,
+            "ETH/USD actual": 10.46392958848485
         }
     ],
     [
         1459555200000,
         {
-            "BTC/USD actual": 419.9904159088236,
-            "ETH/USD actual": 10.864081421764705
+            "BTC/USD actual": 420.5680686933333,
+            "ETH/USD actual": 10.357323527878789
         }
     ],
     [
         1459641600000,
         {
-            "BTC/USD actual": 420.431656972353,
-            "ETH/USD actual": 10.720051656470588
+            "BTC/USD actual": 421.0956772281817,
+            "ETH/USD actual": 10.28792327090909
         }
     ],
     [
         1459728000000,
         {
-            "BTC/USD actual": 421.0507402947058,
-            "ETH/USD actual": 10.514746722941178
+            "BTC/USD actual": 422.13109788606056,
+            "ETH/USD actual": 10.21344447575758
         }
     ],
     [
         1459814400000,
         {
-            "BTC/USD actual": 421.01419665705885,
-            "ETH/USD actual": 10.376157211176471
+            "BTC/USD actual": 423.3410866109091,
+            "ETH/USD actual": 10.141954020303032
         }
     ],
     [
         1459900800000,
         {
-            "BTC/USD actual": 421.16198714588234,
-            "ETH/USD actual": 10.186157211176472
+            "BTC/USD actual": 424.5314384157576,
+            "ETH/USD actual": 10.070548516363637
         }
     ],
     [
         1459987200000,
         {
-            "BTC/USD actual": 421.9869549447058,
-            "ETH/USD actual": 9.98979838764706
+            "BTC/USD actual": 425.8538533257576,
+            "ETH/USD actual": 9.967469346363636
         }
     ],
     [
         1460073600000,
         {
-            "BTC/USD actual": 423.16883303117646,
-            "ETH/USD actual": 9.802798387647059
+            "BTC/USD actual": 427.1092363,
+            "ETH/USD actual": 9.874723891818181
         }
     ],
     [
         1460160000000,
         {
-            "BTC/USD actual": 424.1245252947059,
-            "ETH/USD actual": 9.679504269999999
+            "BTC/USD actual": 428.47323561030305,
+            "ETH/USD actual": 9.727451164545453
         }
     ],
     [
         1460246400000,
         {
-            "BTC/USD actual": 424.8717533452941,
-            "ETH/USD actual": 9.526916636470588
+            "BTC/USD actual": 429.9983811115152,
+            "ETH/USD actual": 9.61351177060606
         }
     ],
     [
         1460332800000,
         {
-            "BTC/USD actual": 425.8089147529412,
-            "ETH/USD actual": 9.357034283529412
+            "BTC/USD actual": 431.1471001075758,
+            "ETH/USD actual": 9.52492612787879
         }
     ],
     [
         1460419200000,
         {
-            "BTC/USD actual": 427.1077878041176,
-            "ETH/USD actual": 9.174410754117647
+            "BTC/USD actual": 432.1468850118182,
+            "ETH/USD actual": 9.408375101515153
         }
     ],
     [
         1460505600000,
         {
-            "BTC/USD actual": 428.79002817176473,
-            "ETH/USD actual": 9.000234283529412
+            "BTC/USD actual": 432.9828717381818,
+            "ETH/USD actual": 9.31731337909091
         }
     ],
     [
         1460592000000,
         {
-            "BTC/USD actual": 430.3858054170588,
-            "ETH/USD actual": 8.849858893529412
+            "BTC/USD actual": 433.7620113972727,
+            "ETH/USD actual": 9.227922374545455
         }
     ],
     [
         1460678400000,
         {
-            "BTC/USD actual": 432.34971139882356,
-            "ETH/USD actual": 8.722259357058824
+            "BTC/USD actual": 434.863566089697,
+            "ETH/USD actual": 9.1410466169697
         }
     ],
     [
         1460764800000,
         {
-            "BTC/USD actual": 434.4872053894118,
-            "ETH/USD actual": 8.602409194705883
+            "BTC/USD actual": 435.80207574878784,
+            "ETH/USD actual": 9.087440556363639
         }
     ],
     [
         1460851200000,
         {
-            "BTC/USD actual": 437.0092145335294,
-            "ETH/USD actual": 8.430990855294118
+            "BTC/USD actual": 436.85559823999995,
+            "ETH/USD actual": 9.026379950303031
         }
     ],
     [
         1460937600000,
         {
-            "BTC/USD actual": 439.6108018194118,
-            "ETH/USD actual": 8.323504804705882
+            "BTC/USD actual": 437.7694927169696,
+            "ETH/USD actual": 8.957804502727273
         }
     ],
     [
         1461024000000,
         {
-            "BTC/USD actual": 441.4308392511765,
-            "ETH/USD actual": 8.258441427058825
+            "BTC/USD actual": 438.64274637181813,
+            "ETH/USD actual": 8.899986320909093
         }
     ],
     [
         1461110400000,
         {
-            "BTC/USD actual": 442.9649961005883,
-            "ETH/USD actual": 8.190922591764705
+            "BTC/USD actual": 439.86815934757567,
+            "ETH/USD actual": 8.834531775454545
         }
     ],
     [
         1461196800000,
         {
-            "BTC/USD actual": 444.5610636394118,
-            "ETH/USD actual": 8.183979248235293
+            "BTC/USD actual": 441.1042280387878,
+            "ETH/USD actual": 8.781743896666667
         }
     ],
     [
         1461283200000,
         {
-            "BTC/USD actual": 445.9255391629413,
-            "ETH/USD actual": 8.225103868823528
+            "BTC/USD actual": 442.24866659727263,
+            "ETH/USD actual": 8.752713593636363
         }
     ],
     [
         1461369600000,
         {
-            "BTC/USD actual": 447.4724253576471,
-            "ETH/USD actual": 8.243992104117646
+            "BTC/USD actual": 443.4630999539393,
+            "ETH/USD actual": 8.716150503030303
         }
     ],
     [
         1461456000000,
         {
-            "BTC/USD actual": 448.30378760705884,
-            "ETH/USD actual": 8.347468574705882
+            "BTC/USD actual": 444.346192300606,
+            "ETH/USD actual": 8.692579207272727
         }
     ],
     [
         1461542400000,
         {
-            "BTC/USD actual": 449.3168718358824,
-            "ETH/USD actual": 8.388762692352941
+            "BTC/USD actual": 445.336540880606,
+            "ETH/USD actual": 8.676090971818182
         }
     ],
     [
         1461628800000,
         {
-            "BTC/USD actual": 450.24638298176467,
-            "ETH/USD actual": 8.392939162941175
+            "BTC/USD actual": 446.38424340333324,
+            "ETH/USD actual": 8.679658763939393
         }
     ],
     [
         1461715200000,
         {
-            "BTC/USD actual": 451.31914092823524,
-            "ETH/USD actual": 8.435292104117648
+            "BTC/USD actual": 447.3911783378787,
+            "ETH/USD actual": 8.717747326969697
         }
     ],
     [
         1461801600000,
         {
-            "BTC/USD actual": 452.79578411352935,
-            "ETH/USD actual": 8.475292104117647
+            "BTC/USD actual": 448.40338905454536,
+            "ETH/USD actual": 8.770873987575758
         }
     ],
     [
         1461888000000,
         {
-            "BTC/USD actual": 453.8661147199999,
-            "ETH/USD actual": 8.528386221764706
+            "BTC/USD actual": 449.3643976130303,
+            "ETH/USD actual": 8.847995199696971
         }
     ],
     [
         1461974400000,
         {
-            "BTC/USD actual": 454.579552257647,
-            "ETH/USD actual": 8.60609210411765
+            "BTC/USD actual": 450.20532622030305,
+            "ETH/USD actual": 8.909026160303032
         }
     ],
     [
         1462060800000,
         {
-            "BTC/USD actual": 455.2876311358823,
-            "ETH/USD actual": 8.69134970117647
+            "BTC/USD actual": 451.0330575575758,
+            "ETH/USD actual": 8.957359493636364
         }
     ],
     [
         1462147200000,
         {
-            "BTC/USD actual": 455.044110557647,
-            "ETH/USD actual": 8.75026809
+            "BTC/USD actual": 451.7627374030303,
+            "ETH/USD actual": 9.10463525121212
         }
     ],
     [
         1462233600000,
         {
-            "BTC/USD actual": 454.69295011176473,
-            "ETH/USD actual": 8.855538678235293
+            "BTC/USD actual": 451.8433096584849,
+            "ETH/USD actual": 9.269251274848484
         }
     ],
     [
         1462320000000,
         {
-            "BTC/USD actual": 454.24353317117647,
-            "ETH/USD actual": 8.96171514882353
+            "BTC/USD actual": 452.1513887615152,
+            "ETH/USD actual": 9.413834567575755
         }
     ],
     [
         1462406400000,
         {
-            "BTC/USD actual": 453.7529046423529,
-            "ETH/USD actual": 9.125244560588234
+            "BTC/USD actual": 452.5119761169697,
+            "ETH/USD actual": 9.525046688787878
         }
     ],
     [
         1462492800000,
         {
-            "BTC/USD actual": 453.9291590458824,
-            "ETH/USD actual": 9.256303384117647
+            "BTC/USD actual": 452.6101423739394,
+            "ETH/USD actual": 9.622925476666666
         }
     ],
     [
         1462579200000,
         {
-            "BTC/USD actual": 454.4729706382354,
-            "ETH/USD actual": 9.426950442941179
+            "BTC/USD actual": 452.6510125063637,
+            "ETH/USD actual": 9.774560543333333
         }
     ],
     [
         1462665600000,
         {
-            "BTC/USD actual": 454.4460200635295,
-            "ETH/USD actual": 9.583599668823531
+            "BTC/USD actual": 452.5575457603031,
+            "ETH/USD actual": 9.9142683930303
         }
     ],
     [
         1462752000000,
         {
-            "BTC/USD actual": 454.68813557470594,
-            "ETH/USD actual": 9.660946912941178
+            "BTC/USD actual": 452.5429874436365,
+            "ETH/USD actual": 10.054293031212117
         }
     ],
     [
         1462838400000,
         {
-            "BTC/USD actual": 454.7912286705882,
-            "ETH/USD actual": 9.919117501176471
+            "BTC/USD actual": 452.4971747481819,
+            "ETH/USD actual": 10.176055864242421
         }
     ],
     [
         1462924800000,
         {
-            "BTC/USD actual": 454.30769885588234,
-            "ETH/USD actual": 10.155725076470587
+            "BTC/USD actual": 452.88873458666677,
+            "ETH/USD actual": 10.269855217272726
         }
     ],
     [
         1463011200000,
         {
-            "BTC/USD actual": 453.8163539541177,
-            "ETH/USD actual": 10.431622056470585
+            "BTC/USD actual": 454.5591148321213,
+            "ETH/USD actual": 10.401484774242421
         }
     ],
     [
         1463097600000,
         {
-            "BTC/USD actual": 453.4895152394118,
-            "ETH/USD actual": 10.62803382117647
+            "BTC/USD actual": 456.4908837551516,
+            "ETH/USD actual": 10.553806145757575
         }
     ],
     [
         1463184000000,
         {
-            "BTC/USD actual": 452.9220952276471,
-            "ETH/USD actual": 10.76038676235294
+            "BTC/USD actual": 458.7621977724243,
+            "ETH/USD actual": 10.702971938787877
         }
     ],
     [
         1463270400000,
         {
-            "BTC/USD actual": 451.9215615829412,
-            "ETH/USD actual": 10.99917248
+            "BTC/USD actual": 461.2357666381819,
+            "ETH/USD actual": 10.914034149696967
         }
     ],
     [
         1463356800000,
         {
-            "BTC/USD actual": 451.02293904294123,
-            "ETH/USD actual": 11.198664188235295
+            "BTC/USD actual": 463.6688875987879,
+            "ETH/USD actual": 11.111848829393935
         }
     ],
     [
         1463443200000,
         {
-            "BTC/USD actual": 450.368898824706,
-            "ETH/USD actual": 11.376454272352943
+            "BTC/USD actual": 466.3566587609091,
+            "ETH/USD actual": 11.265015407272728
         }
     ],
     [
         1463529600000,
         {
-            "BTC/USD actual": 449.88644482294126,
-            "ETH/USD actual": 11.556193293529413
+            "BTC/USD actual": 469.8762090572727,
+            "ETH/USD actual": 11.421200199090908
         }
     ],
     [
         1463616000000,
         {
-            "BTC/USD actual": 451.0697874741177,
-            "ETH/USD actual": 11.664180272941177
+            "BTC/USD actual": 473.773236869091,
+            "ETH/USD actual": 11.531961587878786
         }
     ],
     [
         1463702400000,
         {
-            "BTC/USD actual": 454.91185808647066,
-            "ETH/USD actual": 11.780284707058824
+            "BTC/USD actual": 477.5283927218182,
+            "ETH/USD actual": 11.669507596363635
         }
     ],
     [
         1463788800000,
         {
-            "BTC/USD actual": 459.2295742670588,
-            "ETH/USD actual": 11.96155560470588
+            "BTC/USD actual": 481.6459172357576,
+            "ETH/USD actual": 11.816419661818179
         }
     ],
     [
         1463875200000,
         {
-            "BTC/USD actual": 463.50399462411764,
-            "ETH/USD actual": 12.11211273235294
+            "BTC/USD actual": 485.599247899697,
+            "ETH/USD actual": 11.960756070303031
         }
     ],
     [
         1463961600000,
         {
-            "BTC/USD actual": 467.87490552764706,
-            "ETH/USD actual": 12.35117467117647
+            "BTC/USD actual": 489.2373036903031,
+            "ETH/USD actual": 12.11682313030303
         }
     ],
     [
         1464048000000,
         {
-            "BTC/USD actual": 472.32860302352935,
-            "ETH/USD actual": 12.578518647058822
+            "BTC/USD actual": 492.7620134212122,
+            "ETH/USD actual": 12.276294232424243
         }
     ],
     [
         1464134400000,
         {
-            "BTC/USD actual": 477.2781258594117,
-            "ETH/USD actual": 12.798494759999999
+            "BTC/USD actual": 496.359666988788,
+            "ETH/USD actual": 12.409627565757576
         }
     ],
     [
         1464220800000,
         {
-            "BTC/USD actual": 484.0503076805881,
-            "ETH/USD actual": 13.026741708823529
+            "BTC/USD actual": 500.7799241006061,
+            "ETH/USD actual": 12.553233701515152
         }
     ],
     [
         1464307200000,
         {
-            "BTC/USD actual": 491.0300512764706,
-            "ETH/USD actual": 13.059337345882353
+            "BTC/USD actual": 507.4246415969697,
+            "ETH/USD actual": 12.740506428787882
         }
     ],
     [
         1464393600000,
         {
-            "BTC/USD actual": 499.1761507235293,
-            "ETH/USD actual": 13.048083787058822
+            "BTC/USD actual": 514.9540167957576,
+            "ETH/USD actual": 12.981646051212122
         }
     ],
     [
         1464480000000,
         {
-            "BTC/USD actual": 507.5004676670588,
-            "ETH/USD actual": 13.056780816470587
+            "BTC/USD actual": 522.0469915496969,
+            "ETH/USD actual": 13.265396027878788
         }
     ],
     [
         1464566400000,
         {
-            "BTC/USD actual": 515.5473743888235,
-            "ETH/USD actual": 13.163433844705885
+            "BTC/USD actual": 529.2672820275756,
+            "ETH/USD actual": 13.514006690303031
         }
     ],
     [
         1464652800000,
         {
-            "BTC/USD actual": 523.8955678452941,
-            "ETH/USD actual": 13.316387549411766
+            "BTC/USD actual": 538.5791401493939,
+            "ETH/USD actual": 13.84427889909091
         }
     ],
     [
         1464739200000,
         {
-            "BTC/USD actual": 531.728645907647,
-            "ETH/USD actual": 13.384692794705884
+            "BTC/USD actual": 547.5769804715152,
+            "ETH/USD actual": 14.010665507575759
         }
     ],
     [
         1464825600000,
         {
-            "BTC/USD actual": 539.6071993482353,
-            "ETH/USD actual": 13.450024615882356
+            "BTC/USD actual": 556.634879179394,
+            "ETH/USD actual": 14.052124910909093
         }
     ],
     [
         1464912000000,
         {
-            "BTC/USD actual": 548.924037587647,
-            "ETH/USD actual": 13.542234531764706
+            "BTC/USD actual": 566.0566519518183,
+            "ETH/USD actual": 14.114937495151517
         }
     ],
     [
         1464998400000,
         {
-            "BTC/USD actual": 561.6680167935293,
-            "ETH/USD actual": 13.728319185882356
+            "BTC/USD actual": 574.7587166278787,
+            "ETH/USD actual": 14.074845020303032
         }
     ],
     [
         1465084800000,
         {
-            "BTC/USD actual": 575.1726155764704,
-            "ETH/USD actual": 14.119603238235296
+            "BTC/USD actual": 582.1045520560604,
+            "ETH/USD actual": 14.047899023030304
         }
     ],
     [
         1465171200000,
         {
-            "BTC/USD actual": 585.249411505294,
-            "ETH/USD actual": 14.521072288235295
+            "BTC/USD actual": 587.4480548039392,
+            "ETH/USD actual": 14.029215475454546
         }
     ],
     [
         1465257600000,
         {
-            "BTC/USD actual": 595.024736582941,
-            "ETH/USD actual": 14.871516205882353
+            "BTC/USD actual": 592.879330351818,
+            "ETH/USD actual": 14.049177059696971
         }
     ],
     [
         1465344000000,
         {
-            "BTC/USD actual": 608.8679295423528,
-            "ETH/USD actual": 15.354134542352941
+            "BTC/USD actual": 599.4809553166666,
+            "ETH/USD actual": 14.11492654787879
         }
     ],
     [
         1465430400000,
         {
-            "BTC/USD actual": 622.0765033735295,
-            "ETH/USD actual": 15.438058372941176
+            "BTC/USD actual": 606.1972205545454,
+            "ETH/USD actual": 14.13958993090909
         }
     ],
     [
         1465516800000,
         {
-            "BTC/USD actual": 634.909415484706,
-            "ETH/USD actual": 15.291194415294118
+            "BTC/USD actual": 611.9353597984848,
+            "ETH/USD actual": 14.170472747272726
         }
     ],
     [
         1465603200000,
         {
-            "BTC/USD actual": 648.223416474706,
-            "ETH/USD actual": 15.19314861294118
+            "BTC/USD actual": 618.164955529394,
+            "ETH/USD actual": 14.218554587575758
         }
     ],
     [
         1465689600000,
         {
-            "BTC/USD actual": 658.3866845429412,
-            "ETH/USD actual": 15.070310389411766
+            "BTC/USD actual": 624.1003826196969,
+            "ETH/USD actual": 14.210327436363638
         }
     ],
     [
         1465776000000,
         {
-            "BTC/USD actual": 664.5978989247059,
-            "ETH/USD actual": 15.039603627058824
+            "BTC/USD actual": 629.2329285775759,
+            "ETH/USD actual": 14.252076931212123
         }
     ],
     [
         1465862400000,
         {
-            "BTC/USD actual": 667.1898156429411,
-            "ETH/USD actual": 15.01223146882353
+            "BTC/USD actual": 633.8563974051515,
+            "ETH/USD actual": 14.268266232424242
         }
     ],
     [
         1465948800000,
         {
-            "BTC/USD actual": 669.4131995235292,
-            "ETH/USD actual": 14.96220994647059
+            "BTC/USD actual": 638.3058219112121,
+            "ETH/USD actual": 14.261397478484847
         }
     ],
     [
         1466035200000,
         {
-            "BTC/USD actual": 673.9865860958823,
-            "ETH/USD actual": 14.942011807058826
+            "BTC/USD actual": 643.4149338124241,
+            "ETH/USD actual": 14.242009924848483
         }
     ],
     [
         1466121600000,
         {
-            "BTC/USD actual": 678.9614002017646,
-            "ETH/USD actual": 14.925719798823529
+            "BTC/USD actual": 647.4096351148485,
+            "ETH/USD actual": 14.171641034242423
         }
     ],
     [
         1466208000000,
         {
-            "BTC/USD actual": 682.3594349517646,
-            "ETH/USD actual": 14.875598952352943
+            "BTC/USD actual": 651.5796592439393,
+            "ETH/USD actual": 14.097160114545455
         }
     ],
     [
         1466294400000,
         {
-            "BTC/USD actual": 686.8144589329412,
-            "ETH/USD actual": 14.887900844117649
+            "BTC/USD actual": 655.6859913551514,
+            "ETH/USD actual": 14.000831558484848
         }
     ],
     [
         1466380800000,
         {
-            "BTC/USD actual": 689.2732172423529,
-            "ETH/USD actual": 14.772904661176472
+            "BTC/USD actual": 658.8822331136362,
+            "ETH/USD actual": 13.899064957272726
         }
     ],
     [
         1466467200000,
         {
-            "BTC/USD actual": 687.5211680835295,
-            "ETH/USD actual": 14.598405365882355
+            "BTC/USD actual": 661.0136345333331,
+            "ETH/USD actual": 13.790225805151515
         }
     ],
     [
         1466553600000,
         {
-            "BTC/USD actual": 685.7223616223529,
-            "ETH/USD actual": 14.277841529411766
+            "BTC/USD actual": 663.6151362236361,
+            "ETH/USD actual": 13.712749733939393
         }
     ],
     [
         1466640000000,
         {
-            "BTC/USD actual": 684.9084802629412,
-            "ETH/USD actual": 13.894970185294119
+            "BTC/USD actual": 665.6367262196967,
+            "ETH/USD actual": 13.613433964242423
         }
     ],
     [
         1466726400000,
         {
-            "BTC/USD actual": 685.0847304417647,
-            "ETH/USD actual": 13.525295481764706
+            "BTC/USD actual": 667.7525808863635,
+            "ETH/USD actual": 13.506106273030303
         }
     ],
     [
         1466812800000,
         {
-            "BTC/USD actual": 679.1341016370588,
-            "ETH/USD actual": 12.986642345294118
+            "BTC/USD actual": 669.8100695693938,
+            "ETH/USD actual": 13.383093474545456
         }
     ],
     [
         1466899200000,
         {
-            "BTC/USD actual": 674.2161559347059,
-            "ETH/USD actual": 12.746419942941177
+            "BTC/USD actual": 672.4568938609091,
+            "ETH/USD actual": 13.258179538181817
         }
     ],
     [
         1466985600000,
         {
-            "BTC/USD actual": 669.5538142005882,
-            "ETH/USD actual": 12.69892531117647
+            "BTC/USD actual": 674.7675798221212,
+            "ETH/USD actual": 13.153836108787878
         }
     ],
     [
         1467072000000,
         {
-            "BTC/USD actual": 664.2411417005882,
-            "ETH/USD actual": 12.607695017647059
+            "BTC/USD actual": 676.3158407506061,
+            "ETH/USD actual": 13.070386261515152
         }
     ],
     [
         1467158400000,
         {
-            "BTC/USD actual": 658.4660683870587,
-            "ETH/USD actual": 12.506841222352941
+            "BTC/USD actual": 676.1259516409092,
+            "ETH/USD actual": 12.957578644545455
         }
     ],
     [
         1467244800000,
         {
-            "BTC/USD actual": 657.4025788135293,
-            "ETH/USD actual": 12.397499872941175
+            "BTC/USD actual": 675.049494488788,
+            "ETH/USD actual": 12.776549452424241
         }
     ],
     [
         1467331200000,
         {
-            "BTC/USD actual": 659.2784768858822,
-            "ETH/USD actual": 12.24967553
+            "BTC/USD actual": 674.8006043266669,
+            "ETH/USD actual": 12.554010482424243
         }
     ],
     [
         1467417600000,
         {
-            "BTC/USD actual": 660.8895666029412,
-            "ETH/USD actual": 12.109237611764705
+            "BTC/USD actual": 674.2462886572728,
+            "ETH/USD actual": 12.333345062424241
         }
     ],
     [
         1467504000000,
         {
-            "BTC/USD actual": 660.4167896299999,
-            "ETH/USD actual": 11.895770407058823
+            "BTC/USD actual": 671.5234169157576,
+            "ETH/USD actual": 12.04892459181818
         }
     ],
     [
         1467590400000,
         {
-            "BTC/USD actual": 660.3503646788234,
-            "ETH/USD actual": 11.673719679411763
+            "BTC/USD actual": 668.8240454903031,
+            "ETH/USD actual": 11.953051853939394
         }
     ],
     [
         1467676800000,
         {
-            "BTC/USD actual": 661.575626452941,
-            "ETH/USD actual": 11.476553494117645
+            "BTC/USD actual": 666.1892797924244,
+            "ETH/USD actual": 11.987324774848485
         }
     ],
     [
         1467763200000,
         {
-            "BTC/USD actual": 661.8051677229411,
-            "ETH/USD actual": 11.313437192941178
+            "BTC/USD actual": 662.7500467545455,
+            "ETH/USD actual": 12.056464211515152
         }
     ],
     [
         1467849600000,
         {
-            "BTC/USD actual": 662.6588272464707,
-            "ETH/USD actual": 11.296512707647059
+            "BTC/USD actual": 660.0659598866667,
+            "ETH/USD actual": 12.134900511212122
         }
     ],
     [
         1467936000000,
         {
-            "BTC/USD actual": 664.1106552864707,
-            "ETH/USD actual": 11.255344014705882
+            "BTC/USD actual": 659.5250025521214,
+            "ETH/USD actual": 12.12605433878788
         }
     ],
     [
         1468022400000,
         {
-            "BTC/USD actual": 664.7293425882353,
-            "ETH/USD actual": 11.193399361764707
+            "BTC/USD actual": 660.6542474851516,
+            "ETH/USD actual": 12.13030138090909
         }
     ],
     [
         1468108800000,
         {
-            "BTC/USD actual": 664.7915249723529,
-            "ETH/USD actual": 11.128826221764704
+            "BTC/USD actual": 661.5184034890909,
+            "ETH/USD actual": 12.085295852727272
         }
     ],
     [
         1468195200000,
         {
-            "BTC/USD actual": 663.4314555664706,
-            "ETH/USD actual": 11.096968895882354
+            "BTC/USD actual": 661.4245589054545,
+            "ETH/USD actual": 12.04992999181818
         }
     ],
     [
         1468281600000,
         {
-            "BTC/USD actual": 663.6456529258824,
-            "ETH/USD actual": 11.131385258235293
+            "BTC/USD actual": 661.1148267081818,
+            "ETH/USD actual": 12.011389865454545
         }
     ],
     [
         1468368000000,
         {
-            "BTC/USD actual": 663.2692671376471,
-            "ETH/USD actual": 11.195631697058825
+            "BTC/USD actual": 661.7902131748484,
+            "ETH/USD actual": 11.981843256666668
         }
     ],
     [
         1468454400000,
         {
-            "BTC/USD actual": 661.9359946029412,
-            "ETH/USD actual": 11.41878846882353
+            "BTC/USD actual": 661.7980576763637,
+            "ETH/USD actual": 11.933187067575759
         }
     ],
     [
         1468540800000,
         {
-            "BTC/USD actual": 660.684507102353,
-            "ETH/USD actual": 11.645755876470588
+            "BTC/USD actual": 661.0451094630301,
+            "ETH/USD actual": 11.930666372424241
         }
     ],
     [
         1468627200000,
         {
-            "BTC/USD actual": 661.7082015494117,
-            "ETH/USD actual": 11.809153133529414
+            "BTC/USD actual": 660.0830189778786,
+            "ETH/USD actual": 11.882387738484848
         }
     ],
     [
         1468713600000,
         {
-            "BTC/USD actual": 661.4422080917648,
-            "ETH/USD actual": 11.940419960000002
+            "BTC/USD actual": 657.3933435915151,
+            "ETH/USD actual": 11.79510110181818
         }
     ],
     [
         1468800000000,
         {
-            "BTC/USD actual": 661.4188083405883,
-            "ETH/USD actual": 11.995824200588238
+            "BTC/USD actual": 653.2868920584848,
+            "ETH/USD actual": 11.742272036969695
         }
     ],
     [
         1468886400000,
         {
-            "BTC/USD actual": 661.7027787211765,
-            "ETH/USD actual": 12.115316672941177
+            "BTC/USD actual": 649.8989658675757,
+            "ETH/USD actual": 11.718203754545453
         }
     ],
     [
         1468972800000,
         {
-            "BTC/USD actual": 662.0823993535296,
-            "ETH/USD actual": 12.263001028235296
+            "BTC/USD actual": 647.406526110909,
+            "ETH/USD actual": 11.699336271515149
         }
     ],
     [
         1469059200000,
         {
-            "BTC/USD actual": 661.653525384706,
-            "ETH/USD actual": 12.398004994117647
+            "BTC/USD actual": 644.9119059227271,
+            "ETH/USD actual": 11.685349184848485
         }
     ],
     [
         1469145600000,
         {
-            "BTC/USD actual": 661.6383277088236,
-            "ETH/USD actual": 12.518405646470589
+            "BTC/USD actual": 642.3358690096969,
+            "ETH/USD actual": 11.69640374151515
         }
     ],
     [
         1469232000000,
         {
-            "BTC/USD actual": 659.6300329782352,
-            "ETH/USD actual": 12.560507229411764
+            "BTC/USD actual": 639.8495051660605,
+            "ETH/USD actual": 11.71936027242424
         }
     ],
     [
         1469318400000,
         {
-            "BTC/USD actual": 656.3790046788234,
-            "ETH/USD actual": 12.511270077647058
+            "BTC/USD actual": 638.1298384303029,
+            "ETH/USD actual": 11.784270547272726
         }
     ],
     [
         1469404800000,
         {
-            "BTC/USD actual": 651.4486569394118,
-            "ETH/USD actual": 12.372677084117646
+            "BTC/USD actual": 636.0480674315152,
+            "ETH/USD actual": 11.806062798181816
         }
     ],
     [
         1469491200000,
         {
-            "BTC/USD actual": 643.1465682129411,
-            "ETH/USD actual": 12.319242614705882
+            "BTC/USD actual": 634.2836833939394,
+            "ETH/USD actual": 11.82986847151515
         }
     ],
     [
         1469577600000,
         {
-            "BTC/USD actual": 637.8222803205882,
-            "ETH/USD actual": 12.331197648823528
+            "BTC/USD actual": 632.4148396172728,
+            "ETH/USD actual": 11.852810344848486
         }
     ],
     [
         1469664000000,
         {
-            "BTC/USD actual": 632.3189606629412,
-            "ETH/USD actual": 12.308029723529408
+            "BTC/USD actual": 630.4660193309091,
+            "ETH/USD actual": 11.88319105181818
         }
     ],
     [
         1469750400000,
         {
-            "BTC/USD actual": 627.7984732447057,
-            "ETH/USD actual": 12.226761820588234
+            "BTC/USD actual": 627.6696879009091,
+            "ETH/USD actual": 11.902918533333331
         }
     ],
     [
         1469836800000,
         {
-            "BTC/USD actual": 623.2501344458823,
-            "ETH/USD actual": 12.134196246470585
+            "BTC/USD actual": 625.1609103748486,
+            "ETH/USD actual": 11.92543089242424
         }
     ],
     [
         1469923200000,
         {
-            "BTC/USD actual": 619.787149205294,
-            "ETH/USD actual": 11.953316782941174
+            "BTC/USD actual": 622.7072776648486,
+            "ETH/USD actual": 11.919053100303028
         }
     ],
     [
         1470009600000,
         {
-            "BTC/USD actual": 615.8841855600001,
-            "ETH/USD actual": 11.826206586470587
+            "BTC/USD actual": 619.9891994666668,
+            "ETH/USD actual": 11.885098023939392
         }
     ],
     [
         1470096000000,
         {
-            "BTC/USD actual": 611.8297047558824,
-            "ETH/USD actual": 11.776339823529412
+            "BTC/USD actual": 617.221481377879,
+            "ETH/USD actual": 11.84914324090909
         }
     ],
     [
         1470182400000,
         {
-            "BTC/USD actual": 608.0885583558824,
-            "ETH/USD actual": 11.666482235294117
+            "BTC/USD actual": 613.9702487815152,
+            "ETH/USD actual": 11.828977468181817
         }
     ],
     [
         1470268800000,
         {
-            "BTC/USD actual": 604.3944132047061,
-            "ETH/USD actual": 11.65794221411765
+            "BTC/USD actual": 611.0958616509092,
+            "ETH/USD actual": 11.833060227272728
         }
     ],
     [
         1470355200000,
         {
-            "BTC/USD actual": 600.3208010441177,
-            "ETH/USD actual": 11.572100700000002
+            "BTC/USD actual": 608.277029789697,
+            "ETH/USD actual": 11.82092651030303
         }
     ],
     [
         1470441600000,
         {
-            "BTC/USD actual": 595.4274481705883,
-            "ETH/USD actual": 11.463157681764708
+            "BTC/USD actual": 605.79934361,
+            "ETH/USD actual": 11.781908396666667
         }
     ],
     [
         1470528000000,
         {
-            "BTC/USD actual": 590.4716857235295,
-            "ETH/USD actual": 11.36704714
+            "BTC/USD actual": 603.281374591212,
+            "ETH/USD actual": 11.734781903333335
         }
     ],
     [
         1470614400000,
         {
-            "BTC/USD actual": 585.923065347647,
-            "ETH/USD actual": 11.286000668235294
+            "BTC/USD actual": 601.0995168251516,
+            "ETH/USD actual": 11.631886601212123
         }
     ],
     [
         1470700800000,
         {
-            "BTC/USD actual": 582.9620607829411,
-            "ETH/USD actual": 11.208056501764707
+            "BTC/USD actual": 598.7654571154544,
+            "ETH/USD actual": 11.537223966969698
         }
     ],
     [
         1470787200000,
         {
-            "BTC/USD actual": 580.9088470041177,
-            "ETH/USD actual": 11.190810578235293
+            "BTC/USD actual": 596.2845646248484,
+            "ETH/USD actual": 11.487112466666668
         }
     ],
     [
         1470873600000,
         {
-            "BTC/USD actual": 580.4374526629412,
-            "ETH/USD actual": 11.259159367058823
+            "BTC/USD actual": 593.7284891981817,
+            "ETH/USD actual": 11.41406605090909
         }
     ],
     [
         1470960000000,
         {
-            "BTC/USD actual": 582.8912894752941,
-            "ETH/USD actual": 11.305062120588234
+            "BTC/USD actual": 591.425041209394,
+            "ETH/USD actual": 11.387046545454544
         }
     ],
     [
         1471046400000,
         {
-            "BTC/USD actual": 582.6359325917647,
-            "ETH/USD actual": 11.296371892352942
+            "BTC/USD actual": 588.9711420424243,
+            "ETH/USD actual": 11.32511114878788
         }
     ],
     [
         1471132800000,
         {
-            "BTC/USD actual": 582.878769247647,
-            "ETH/USD actual": 11.291672324705885
+            "BTC/USD actual": 586.5412444200001,
+            "ETH/USD actual": 11.270174062727271
         }
     ],
     [
         1471219200000,
         {
-            "BTC/USD actual": 582.4570592588234,
-            "ETH/USD actual": 11.291589327058825
+            "BTC/USD actual": 584.0343022742425,
+            "ETH/USD actual": 11.235348248787878
         }
     ],
     [
         1471305600000,
         {
-            "BTC/USD actual": 581.8889580094118,
-            "ETH/USD actual": 11.29354931411765
+            "BTC/USD actual": 581.5338365621212,
+            "ETH/USD actual": 11.221664104545454
         }
     ],
     [
         1471392000000,
         {
-            "BTC/USD actual": 580.93311971,
-            "ETH/USD actual": 11.292197165882353
+            "BTC/USD actual": 580.0364418760606,
+            "ETH/USD actual": 11.225951472727271
         }
     ],
     [
         1471478400000,
         {
-            "BTC/USD actual": 580.4791406329413,
-            "ETH/USD actual": 11.232316859411766
+            "BTC/USD actual": 579.6849196942424,
+            "ETH/USD actual": 11.252805244848481
         }
     ],
     [
         1471564800000,
         {
-            "BTC/USD actual": 579.29243858,
-            "ETH/USD actual": 11.17948509764706
+            "BTC/USD actual": 580.4930256130302,
+            "ETH/USD actual": 11.319408315454542
         }
     ],
     [
         1471651200000,
         {
-            "BTC/USD actual": 578.2226205705882,
-            "ETH/USD actual": 11.136228697058824
+            "BTC/USD actual": 582.4584108890908,
+            "ETH/USD actual": 11.359113829696968
         }
     ],
     [
         1471737600000,
         {
-            "BTC/USD actual": 577.3708951935295,
-            "ETH/USD actual": 11.090959409999998
+            "BTC/USD actual": 583.2198783554546,
+            "ETH/USD actual": 11.371770191818179
         }
     ],
     [
         1471824000000,
         {
-            "BTC/USD actual": 576.8166598205883,
-            "ETH/USD actual": 11.073026872941176
+            "BTC/USD actual": 584.2178405763638,
+            "ETH/USD actual": 11.383985911818181
         }
     ],
     [
         1471910400000,
         {
-            "BTC/USD actual": 576.9495415211765,
-            "ETH/USD actual": 11.102133265294118
+            "BTC/USD actual": 585.3772312469698,
+            "ETH/USD actual": 11.396792572727268
         }
     ],
     [
         1471996800000,
         {
-            "BTC/USD actual": 576.9504785429413,
-            "ETH/USD actual": 11.152270117058823
+            "BTC/USD actual": 586.4395385766668,
+            "ETH/USD actual": 11.418332085454542
         }
     ],
     [
         1472083200000,
         {
-            "BTC/USD actual": 576.7984105647059,
-            "ETH/USD actual": 11.215074658235295
+            "BTC/USD actual": 587.454925569394,
+            "ETH/USD actual": 11.445266499090904
         }
     ],
     [
         1472169600000,
         {
-            "BTC/USD actual": 578.1412851205883,
-            "ETH/USD actual": 11.283878212352942
+            "BTC/USD actual": 588.2105276763635,
+            "ETH/USD actual": 11.426476666969693
         }
     ],
     [
         1472256000000,
         {
-            "BTC/USD actual": 580.1522428076471,
-            "ETH/USD actual": 11.34436811117647
+            "BTC/USD actual": 588.7210893636363,
+            "ETH/USD actual": 11.423328087878785
         }
     ],
     [
         1472342400000,
         {
-            "BTC/USD actual": 581.9765299511764,
-            "ETH/USD actual": 11.407154375294118
+            "BTC/USD actual": 589.2786879587877,
+            "ETH/USD actual": 11.43196484424242
         }
     ],
     [
         1472428800000,
         {
-            "BTC/USD actual": 583.7100774529412,
-            "ETH/USD actual": 11.435752285882353
+            "BTC/USD actual": 589.981529241212,
+            "ETH/USD actual": 11.438144699696968
         }
     ],
     [
         1472515200000,
         {
-            "BTC/USD actual": 585.6158286605882,
-            "ETH/USD actual": 11.459850914705882
+            "BTC/USD actual": 590.7155974178787,
+            "ETH/USD actual": 11.455348152727272
         }
     ],
     [
         1472601600000,
         {
-            "BTC/USD actual": 588.1555492458823,
-            "ETH/USD actual": 11.479184044705882
+            "BTC/USD actual": 591.8296435699999,
+            "ETH/USD actual": 11.497584433636364
         }
     ],
     [
         1472688000000,
         {
-            "BTC/USD actual": 590.5571586529412,
-            "ETH/USD actual": 11.519911305882355
+            "BTC/USD actual": 592.8910507251514,
+            "ETH/USD actual": 11.545458269393938
         }
     ],
     [
         1472774400000,
         {
-            "BTC/USD actual": 593.3005897088236,
-            "ETH/USD actual": 11.591054231764705
+            "BTC/USD actual": 593.9029387375758,
+            "ETH/USD actual": 11.587205444545452
         }
     ],
     [
         1472860800000,
         {
-            "BTC/USD actual": 595.3952048841177,
-            "ETH/USD actual": 11.611226533529411
+            "BTC/USD actual": 594.9541313636364,
+            "ETH/USD actual": 11.66191624818182
         }
     ],
     [
         1472947200000,
         {
-            "BTC/USD actual": 597.1476645429412,
-            "ETH/USD actual": 11.652523088235291
+            "BTC/USD actual": 595.8327833412121,
+            "ETH/USD actual": 11.773422383636365
         }
     ],
     [
         1473033600000,
         {
-            "BTC/USD actual": 599.4507088911765,
-            "ETH/USD actual": 11.701226951764703
+            "BTC/USD actual": 596.5435699909091,
+            "ETH/USD actual": 11.865666332121213
         }
     ],
     [
         1473120000000,
         {
-            "BTC/USD actual": 601.5923017370588,
-            "ETH/USD actual": 11.757132748823526
+            "BTC/USD actual": 597.0078313106061,
+            "ETH/USD actual": 11.92656478878788
         }
     ],
     [
         1473206400000,
         {
-            "BTC/USD actual": 603.7070967729412,
-            "ETH/USD actual": 11.824913707647054
+            "BTC/USD actual": 597.6220987469698,
+            "ETH/USD actual": 11.993220557575759
         }
     ],
     [
         1473292800000,
         {
-            "BTC/USD actual": 605.6931641676471,
-            "ETH/USD actual": 11.904601342941175
+            "BTC/USD actual": 598.1741663275758,
+            "ETH/USD actual": 12.048534442727272
         }
     ],
     [
         1473379200000,
         {
-            "BTC/USD actual": 607.664197422353,
-            "ETH/USD actual": 11.969025415294114
+            "BTC/USD actual": 598.7197347742424,
+            "ETH/USD actual": 12.112050848181818
         }
     ],
     [
         1473465600000,
         {
-            "BTC/USD actual": 609.9336754529412,
-            "ETH/USD actual": 11.995580916470585
+            "BTC/USD actual": 599.5750437051516,
+            "ETH/USD actual": 12.167637332727272
         }
     ],
     [
         1473552000000,
         {
-            "BTC/USD actual": 611.9199286117647,
-            "ETH/USD actual": 12.054341065882351
+            "BTC/USD actual": 600.4753234115152,
+            "ETH/USD actual": 12.221067933636364
         }
     ],
     [
         1473638400000,
         {
-            "BTC/USD actual": 612.2546999658823,
-            "ETH/USD actual": 12.201420318235293
+            "BTC/USD actual": 601.2707061906061,
+            "ETH/USD actual": 12.282746638181818
         }
     ],
     [
         1473724800000,
         {
-            "BTC/USD actual": 611.5943917494118,
-            "ETH/USD actual": 12.319542575882352
+            "BTC/USD actual": 602.28957101697,
+            "ETH/USD actual": 12.34101528030303
         }
     ],
     [
         1473811200000,
         {
-            "BTC/USD actual": 611.1342820582353,
-            "ETH/USD actual": 12.406584570588235
+            "BTC/USD actual": 603.3497227878788,
+            "ETH/USD actual": 12.409594897272727
         }
     ],
     [
         1473897600000,
         {
-            "BTC/USD actual": 610.59318394,
-            "ETH/USD actual": 12.502716719999999
+            "BTC/USD actual": 604.6085441939393,
+            "ETH/USD actual": 12.477782566969696
         }
     ],
     [
         1473984000000,
         {
-            "BTC/USD actual": 609.9704604117647,
-            "ETH/USD actual": 12.581678296470587
+            "BTC/USD actual": 605.6913127130302,
+            "ETH/USD actual": 12.538239091515154
         }
     ],
     [
         1474070400000,
         {
-            "BTC/USD actual": 608.357213164706,
-            "ETH/USD actual": 12.680031861764705
+            "BTC/USD actual": 606.842477210303,
+            "ETH/USD actual": 12.592683209090909
         }
     ],
     [
         1474156800000,
         {
-            "BTC/USD actual": 607.3872914941176,
-            "ETH/USD actual": 12.748083029411765
+            "BTC/USD actual": 607.9873230360605,
+            "ETH/USD actual": 12.630509116666667
         }
     ],
     [
         1474243200000,
         {
-            "BTC/USD actual": 606.2080096388236,
-            "ETH/USD actual": 12.798164656470588
+            "BTC/USD actual": 609.1103054103029,
+            "ETH/USD actual": 12.65669970636364
         }
     ],
     [
         1474329600000,
         {
-            "BTC/USD actual": 605.8312518664707,
-            "ETH/USD actual": 12.89448798
+            "BTC/USD actual": 609.5579526584847,
+            "ETH/USD actual": 12.685674275151515
         }
     ],
     [
         1474416000000,
         {
-            "BTC/USD actual": 605.6312559070589,
-            "ETH/USD actual": 12.960877882941176
+            "BTC/USD actual": 609.8486737721211,
+            "ETH/USD actual": 12.714431050909093
         }
     ],
     [
         1474502400000,
         {
-            "BTC/USD actual": 605.5369822976471,
-            "ETH/USD actual": 13.033981152941179
+            "BTC/USD actual": 610.2905179448485,
+            "ETH/USD actual": 12.727966834848484
         }
     ],
     [
         1474588800000,
         {
-            "BTC/USD actual": 605.7645124547058,
-            "ETH/USD actual": 13.109079975882354
+            "BTC/USD actual": 610.4871727330301,
+            "ETH/USD actual": 12.737113668484849
         }
     ],
     [
         1474675200000,
         {
-            "BTC/USD actual": 605.8871659817646,
-            "ETH/USD actual": 13.175109283529412
+            "BTC/USD actual": 610.6067892081818,
+            "ETH/USD actual": 12.742026220303032
         }
     ],
     [
         1474761600000,
         {
-            "BTC/USD actual": 606.0921009405881,
-            "ETH/USD actual": 13.22791324117647
+            "BTC/USD actual": 610.9163938339393,
+            "ETH/USD actual": 12.75298304272727
         }
     ],
     [
         1474848000000,
         {
-            "BTC/USD actual": 606.2550071464706,
-            "ETH/USD actual": 13.258545291176473
+            "BTC/USD actual": 611.3508477157575,
+            "ETH/USD actual": 12.759489764545455
         }
     ],
     [
         1474934400000,
         {
-            "BTC/USD actual": 606.3185929294117,
-            "ETH/USD actual": 13.291151754705885
+            "BTC/USD actual": 611.6767708436364,
+            "ETH/USD actual": 12.749743705151515
         }
     ],
     [
         1475020800000,
         {
-            "BTC/USD actual": 606.4898793988236,
-            "ETH/USD actual": 13.271173205882354
+            "BTC/USD actual": 612.5248445760607,
+            "ETH/USD actual": 12.757537162424242
         }
     ],
     [
         1475107200000,
         {
-            "BTC/USD actual": 607.3595595264707,
-            "ETH/USD actual": 13.171031994705883
+            "BTC/USD actual": 613.4978293578789,
+            "ETH/USD actual": 12.757657566666666
         }
     ],
     [
         1475193600000,
         {
-            "BTC/USD actual": 608.6617818617648,
-            "ETH/USD actual": 13.081031821764707
+            "BTC/USD actual": 614.3720920127273,
+            "ETH/USD actual": 12.75669496121212
         }
     ],
     [
         1475280000000,
         {
-            "BTC/USD actual": 609.8758578611764,
-            "ETH/USD actual": 13.009170699411765
+            "BTC/USD actual": 615.241202249091,
+            "ETH/USD actual": 12.75816475212121
         }
     ],
     [
         1475366400000,
         {
-            "BTC/USD actual": 610.8214042617647,
-            "ETH/USD actual": 12.913414848235293
+            "BTC/USD actual": 616.090322358788,
+            "ETH/USD actual": 12.77239873090909
         }
     ],
     [
         1475452800000,
         {
-            "BTC/USD actual": 612.8904614641176,
-            "ETH/USD actual": 12.846643091764706
+            "BTC/USD actual": 616.7527984999999,
+            "ETH/USD actual": 12.754332150000002
         }
     ],
     [
         1475539200000,
         {
-            "BTC/USD actual": 615.0763778923529,
-            "ETH/USD actual": 12.77670449647059
+            "BTC/USD actual": 617.4148411724242,
+            "ETH/USD actual": 12.73344446727273
         }
     ],
     [
         1475625600000,
         {
-            "BTC/USD actual": 616.7921776835294,
-            "ETH/USD actual": 12.721025425294117
+            "BTC/USD actual": 618.0854672572727,
+            "ETH/USD actual": 12.720678466060606
         }
     ],
     [
         1475712000000,
         {
-            "BTC/USD actual": 618.7854518505882,
-            "ETH/USD actual": 12.652607977647058
+            "BTC/USD actual": 619.595245270606,
+            "ETH/USD actual": 12.686036771212123
         }
     ],
     [
         1475798400000,
         {
-            "BTC/USD actual": 620.8826683382354,
-            "ETH/USD actual": 12.574409008235294
+            "BTC/USD actual": 621.1796736506058,
+            "ETH/USD actual": 12.612544377272727
         }
     ],
     [
         1475884800000,
         {
-            "BTC/USD actual": 622.9050143535294,
-            "ETH/USD actual": 12.508134567647058
+            "BTC/USD actual": 622.9396823266666,
+            "ETH/USD actual": 12.557537014545455
         }
     ],
     [
         1475971200000,
         {
-            "BTC/USD actual": 624.675761867647,
-            "ETH/USD actual": 12.433768349411762
+            "BTC/USD actual": 624.7389224772726,
+            "ETH/USD actual": 12.500104334545455
         }
     ],
     [
         1476057600000,
         {
-            "BTC/USD actual": 625.9952543870588,
-            "ETH/USD actual": 12.396815672941175
+            "BTC/USD actual": 626.9538196403028,
+            "ETH/USD actual": 12.44323449030303
         }
     ],
     [
         1476144000000,
         {
-            "BTC/USD actual": 627.1654601070588,
-            "ETH/USD actual": 12.32407610352941
+            "BTC/USD actual": 629.4985922787877,
+            "ETH/USD actual": 12.39956111878788
         }
     ],
     [
         1476230400000,
         {
-            "BTC/USD actual": 628.1870215841177,
-            "ETH/USD actual": 12.24226785764706
+            "BTC/USD actual": 632.2302464457575,
+            "ETH/USD actual": 12.339947032424242
         }
     ],
     [
         1476316800000,
         {
-            "BTC/USD actual": 629.5359554117647,
-            "ETH/USD actual": 12.170615535882352
+            "BTC/USD actual": 635.4105132863637,
+            "ETH/USD actual": 12.266129117878787
         }
     ],
     [
         1476403200000,
         {
-            "BTC/USD actual": 632.2730471641177,
-            "ETH/USD actual": 12.111289485882352
+            "BTC/USD actual": 638.6089200618181,
+            "ETH/USD actual": 12.209583086969696
         }
     ],
     [
         1476489600000,
         {
-            "BTC/USD actual": 634.8145113035292,
-            "ETH/USD actual": 12.059462281176469
+            "BTC/USD actual": 641.6256534421212,
+            "ETH/USD actual": 12.139477893333332
         }
     ],
     [
         1476576000000,
         {
-            "BTC/USD actual": 637.0063495317647,
-            "ETH/USD actual": 12.01498356411765
+            "BTC/USD actual": 645.4374142833334,
+            "ETH/USD actual": 12.070850379696967
         }
     ],
     [
         1476662400000,
         {
-            "BTC/USD actual": 639.1811849741176,
-            "ETH/USD actual": 11.964263246470587
+            "BTC/USD actual": 649.5347940269698,
+            "ETH/USD actual": 11.997941811515151
         }
     ],
     [
         1476748800000,
         {
-            "BTC/USD actual": 642.5578514658822,
-            "ETH/USD actual": 11.932245374117649
+            "BTC/USD actual": 651.965108777576,
+            "ETH/USD actual": 11.926928185757575
         }
     ],
     [
         1476835200000,
         {
-            "BTC/USD actual": 646.6427840194117,
-            "ETH/USD actual": 11.916893099411766
+            "BTC/USD actual": 654.7504541781818,
+            "ETH/USD actual": 11.864104761818181
         }
     ],
     [
         1476921600000,
         {
-            "BTC/USD actual": 649.731162352353,
-            "ETH/USD actual": 11.878256077058822
+            "BTC/USD actual": 657.6719882163638,
+            "ETH/USD actual": 11.793494970909089
         }
     ],
     [
         1477008000000,
         {
-            "BTC/USD actual": 654.09134819,
-            "ETH/USD actual": 11.790382950588237
+            "BTC/USD actual": 660.8123698345455,
+            "ETH/USD actual": 11.72326659090909
         }
     ],
     [
         1477094400000,
         {
-            "BTC/USD actual": 658.4880640035294,
-            "ETH/USD actual": 11.749617574117648
+            "BTC/USD actual": 663.7329649372728,
+            "ETH/USD actual": 11.658082576666663
         }
     ],
     [
         1477180800000,
         {
-            "BTC/USD actual": 662.321057312353,
-            "ETH/USD actual": 11.694725869411766
+            "BTC/USD actual": 666.7875559369699,
+            "ETH/USD actual": 11.597379943636362
         }
     ],
     [
         1477267200000,
         {
-            "BTC/USD actual": 667.631626644706,
-            "ETH/USD actual": 11.627663931764706
+            "BTC/USD actual": 669.9581702345456,
+            "ETH/USD actual": 11.534597846969696
         }
     ],
     [
         1477353600000,
         {
-            "BTC/USD actual": 673.7939920900001,
-            "ETH/USD actual": 11.561107391764708
+            "BTC/USD actual": 673.1430890412121,
+            "ETH/USD actual": 11.482457885151513
         }
     ],
     [
         1477440000000,
         {
-            "BTC/USD actual": 677.0520957158824,
-            "ETH/USD actual": 11.495503111764705
+            "BTC/USD actual": 676.2606257139395,
+            "ETH/USD actual": 11.429197027878786
         }
     ],
     [
         1477526400000,
         {
-            "BTC/USD actual": 680.9333042194116,
-            "ETH/USD actual": 11.41195040235294
+            "BTC/USD actual": 679.0777399430305,
+            "ETH/USD actual": 11.373549659393937
         }
     ],
     [
         1477612800000,
         {
-            "BTC/USD actual": 685.5234692135294,
-            "ETH/USD actual": 11.362758717058822
+            "BTC/USD actual": 681.1994278766667,
+            "ETH/USD actual": 11.323419325454545
         }
     ],
     [
         1477699200000,
         {
-            "BTC/USD actual": 690.4972686670587,
-            "ETH/USD actual": 11.297611766470586
+            "BTC/USD actual": 683.3243930603031,
+            "ETH/USD actual": 11.265738976969695
         }
     ],
     [
         1477785600000,
         {
-            "BTC/USD actual": 694.9284413670587,
-            "ETH/USD actual": 11.228465616470586
+            "BTC/USD actual": 685.60004643,
+            "ETH/USD actual": 11.216009473333335
         }
     ],
     [
         1477872000000,
         {
-            "BTC/USD actual": 698.0984824570587,
-            "ETH/USD actual": 11.157898187647058
+            "BTC/USD actual": 688.5035476481819,
+            "ETH/USD actual": 11.158295756666668
         }
     ],
     [
         1477958400000,
         {
-            "BTC/USD actual": 702.0472293658825,
-            "ETH/USD actual": 11.078547553529413
+            "BTC/USD actual": 691.7331052054545,
+            "ETH/USD actual": 11.096476877878791
         }
     ],
     [
         1478044800000,
         {
-            "BTC/USD actual": 706.1154537194117,
-            "ETH/USD actual": 10.994113511764708
+            "BTC/USD actual": 694.9855559160605,
+            "ETH/USD actual": 11.022036704848487
         }
     ],
     [
         1478131200000,
         {
-            "BTC/USD actual": 709.8885759088234,
-            "ETH/USD actual": 10.930350633529413
+            "BTC/USD actual": 698.526668558788,
+            "ETH/USD actual": 10.952608036363637
         }
     ],
     [
         1478217600000,
         {
-            "BTC/USD actual": 712.0031319082353,
-            "ETH/USD actual": 10.836967823529411
+            "BTC/USD actual": 701.725613850303,
+            "ETH/USD actual": 10.862022229090911
         }
     ],
     [
         1478304000000,
         {
-            "BTC/USD actual": 713.2509070364706,
-            "ETH/USD actual": 10.757661963529413
+            "BTC/USD actual": 704.9515253130302,
+            "ETH/USD actual": 10.787775085757577
         }
     ],
     [
         1478390400000,
         {
-            "BTC/USD actual": 714.2591330852941,
-            "ETH/USD actual": 10.691477094705883
+            "BTC/USD actual": 708.5530492269696,
+            "ETH/USD actual": 10.720272447272727
         }
     ],
     [
         1478476800000,
         {
-            "BTC/USD actual": 714.2189184917647,
-            "ETH/USD actual": 10.682557880000003
+            "BTC/USD actual": 711.9964863112119,
+            "ETH/USD actual": 10.650196709696973
         }
     ],
     [
         1478563200000,
         {
-            "BTC/USD actual": 715.6397289299999,
-            "ETH/USD actual": 10.611873748235297
+            "BTC/USD actual": 714.6346427581816,
+            "ETH/USD actual": 10.56320819090909
         }
     ],
     [
         1478649600000,
         {
-            "BTC/USD actual": 718.1500747023529,
-            "ETH/USD actual": 10.549759978235297
+            "BTC/USD actual": 717.3491875166666,
+            "ETH/USD actual": 10.485458294545452
         }
     ],
     [
         1478736000000,
         {
-            "BTC/USD actual": 719.0867010523529,
-            "ETH/USD actual": 10.47220214
+            "BTC/USD actual": 719.8819413051515,
+            "ETH/USD actual": 10.406883647575757
         }
     ],
     [
         1478822400000,
         {
-            "BTC/USD actual": 719.7776359588236,
-            "ETH/USD actual": 10.40459102117647
+            "BTC/USD actual": 722.3254004242423,
+            "ETH/USD actual": 10.334404570303029
         }
     ],
     [
         1478908800000,
         {
-            "BTC/USD actual": 722.5891759988235,
-            "ETH/USD actual": 10.329645286470587
+            "BTC/USD actual": 724.1775884563635,
+            "ETH/USD actual": 10.24860579212121
         }
     ],
     [
         1478995200000,
         {
-            "BTC/USD actual": 724.6145981923529,
-            "ETH/USD actual": 10.234730261764705
+            "BTC/USD actual": 725.7221802021211,
+            "ETH/USD actual": 10.147499506666666
         }
     ],
     [
         1479081600000,
         {
-            "BTC/USD actual": 726.9561400164704,
-            "ETH/USD actual": 10.15895354705882
+            "BTC/USD actual": 727.3600223078787,
+            "ETH/USD actual": 10.070114408787878
         }
     ],
     [
         1479168000000,
         {
-            "BTC/USD actual": 728.8933579841175,
-            "ETH/USD actual": 10.087597531176469
+            "BTC/USD actual": 728.6512184848483,
+            "ETH/USD actual": 10.010056256969696
         }
     ],
     [
         1479254400000,
         {
-            "BTC/USD actual": 731.0821864635293,
-            "ETH/USD actual": 9.985945089999998
+            "BTC/USD actual": 730.3379586118181,
+            "ETH/USD actual": 9.904174336969698
         }
     ],
     [
         1479340800000,
         {
-            "BTC/USD actual": 732.9635608405881,
-            "ETH/USD actual": 9.901026138823527
+            "BTC/USD actual": 732.8218192984847,
+            "ETH/USD actual": 9.810158429696969
         }
     ],
     [
         1479427200000,
         {
-            "BTC/USD actual": 733.9171992570587,
-            "ETH/USD actual": 9.825891294705881
+            "BTC/USD actual": 734.3731863187877,
+            "ETH/USD actual": 9.705539923030303
         }
     ],
     [
         1479513600000,
         {
-            "BTC/USD actual": 734.6527305999998,
-            "ETH/USD actual": 9.735689164705882
+            "BTC/USD actual": 734.6563701127272,
+            "ETH/USD actual": 9.582121216969696
         }
     ],
     [
         1479600000000,
         {
-            "BTC/USD actual": 735.5731320835293,
-            "ETH/USD actual": 9.640509445882353
+            "BTC/USD actual": 736.8801654624242,
+            "ETH/USD actual": 9.487693580606061
         }
     ],
     [
         1479686400000,
         {
-            "BTC/USD actual": 737.1878739341175,
-            "ETH/USD actual": 9.536913391176471
+            "BTC/USD actual": 738.8255026300001,
+            "ETH/USD actual": 9.40182854121212
         }
     ],
     [
         1479772800000,
         {
-            "BTC/USD actual": 739.337022130588,
-            "ETH/USD actual": 9.445370062352943
+            "BTC/USD actual": 740.6241270272727,
+            "ETH/USD actual": 9.31168159090909
         }
     ],
     [
         1479859200000,
         {
-            "BTC/USD actual": 742.0787151905881,
-            "ETH/USD actual": 9.352881199999999
+            "BTC/USD actual": 742.3937918284848,
+            "ETH/USD actual": 9.235075425151514
         }
     ],
     [
         1479945600000,
         {
-            "BTC/USD actual": 745.3322464741176,
-            "ETH/USD actual": 9.203114074117646
+            "BTC/USD actual": 744.4100334296971,
+            "ETH/USD actual": 9.150973229090908
         }
     ],
     [
         1480032000000,
         {
-            "BTC/USD actual": 748.3506434570587,
-            "ETH/USD actual": 9.077753411176468
+            "BTC/USD actual": 746.1972918918182,
+            "ETH/USD actual": 9.071304123939393
         }
     ],
     [
         1480118400000,
         {
-            "BTC/USD actual": 750.4035488058823,
-            "ETH/USD actual": 8.927609842941175
+            "BTC/USD actual": 747.9226815072727,
+            "ETH/USD actual": 9.00672559242424
         }
     ],
     [
         1480204800000,
         {
-            "BTC/USD actual": 750.802043177647,
-            "ETH/USD actual": 8.765977327058822
+            "BTC/USD actual": 749.557776640303,
+            "ETH/USD actual": 8.943048329090907
         }
     ],
     [
         1480291200000,
         {
-            "BTC/USD actual": 751.5030014700001,
-            "ETH/USD actual": 8.651845638823529
+            "BTC/USD actual": 751.3641488996969,
+            "ETH/USD actual": 8.881268266060605
         }
     ],
     [
         1480377600000,
         {
-            "BTC/USD actual": 752.95073538,
-            "ETH/USD actual": 8.577456772941176
+            "BTC/USD actual": 753.348840019394,
+            "ETH/USD actual": 8.81808668090909
         }
     ],
     [
         1480464000000,
         {
-            "BTC/USD actual": 754.7702843058822,
-            "ETH/USD actual": 8.497400756470586
+            "BTC/USD actual": 755.5779872645454,
+            "ETH/USD actual": 8.748940256060605
         }
     ],
     [
         1480550400000,
         {
-            "BTC/USD actual": 756.1881219523527,
-            "ETH/USD actual": 8.414582252941175
+            "BTC/USD actual": 758.0446796096969,
+            "ETH/USD actual": 8.683162533333332
         }
     ],
     [
         1480636800000,
         {
-            "BTC/USD actual": 757.8488563617645,
-            "ETH/USD actual": 8.318208271764707
+            "BTC/USD actual": 760.4332200666668,
+            "ETH/USD actual": 8.61186708060606
         }
     ],
     [
         1480723200000,
         {
-            "BTC/USD actual": 759.3671543047058,
-            "ETH/USD actual": 8.26184911647059
+            "BTC/USD actual": 762.1022123981818,
+            "ETH/USD actual": 8.539729032121212
         }
     ],
     [
         1480809600000,
         {
-            "BTC/USD actual": 761.3957765241175,
-            "ETH/USD actual": 8.208066425882354
+            "BTC/USD actual": 763.6475763984847,
+            "ETH/USD actual": 8.47073140909091
         }
     ],
     [
         1480896000000,
         {
-            "BTC/USD actual": 763.7214870170587,
-            "ETH/USD actual": 8.152550834705881
+            "BTC/USD actual": 766.1135073115151,
+            "ETH/USD actual": 8.421809197878787
         }
     ],
     [
         1480982400000,
         {
-            "BTC/USD actual": 766.2579111847058,
-            "ETH/USD actual": 8.10955663117647
+            "BTC/USD actual": 768.8000351275756,
+            "ETH/USD actual": 8.35754909030303
         }
     ],
     [
         1481068800000,
         {
-            "BTC/USD actual": 768.62967906,
-            "ETH/USD actual": 8.060077784117645
+            "BTC/USD actual": 773.8677568687878,
+            "ETH/USD actual": 8.283161949090909
         }
     ],
     [
         1481155200000,
         {
-            "BTC/USD actual": 771.2062972164705,
-            "ETH/USD actual": 8.04281165352941
+            "BTC/USD actual": 778.9038137715149,
+            "ETH/USD actual": 8.212840326060608
         }
     ],
     [
         1481241600000,
         {
-            "BTC/USD actual": 773.8234678476471,
-            "ETH/USD actual": 7.999158748235294
+            "BTC/USD actual": 783.3663676318181,
+            "ETH/USD actual": 8.131548566363639
         }
     ],
     [
         1481328000000,
         {
-            "BTC/USD actual": 775.9133921505883,
-            "ETH/USD actual": 7.968425949411763
+            "BTC/USD actual": 788.0674992142423,
+            "ETH/USD actual": 8.055193152121216
         }
     ],
     [
         1481414400000,
         {
-            "BTC/USD actual": 777.2997509858824,
-            "ETH/USD actual": 7.963244627058824
+            "BTC/USD actual": 793.4623267315148,
+            "ETH/USD actual": 7.993990869090911
         }
     ],
     [
         1481500800000,
         {
-            "BTC/USD actual": 777.9883090729411,
-            "ETH/USD actual": 7.949695761764707
+            "BTC/USD actual": 800.412739133939,
+            "ETH/USD actual": 7.940594776363639
         }
     ],
     [
         1481587200000,
         {
-            "BTC/USD actual": 780.700265332353,
-            "ETH/USD actual": 7.980254261764706
+            "BTC/USD actual": 807.494072673333,
+            "ETH/USD actual": 7.908107166969699
         }
     ],
     [
         1481673600000,
         {
-            "BTC/USD actual": 786.0565151052941,
-            "ETH/USD actual": 8.02748042235294
+            "BTC/USD actual": 814.2862078603027,
+            "ETH/USD actual": 7.884534898484851
         }
     ],
     [
         1481760000000,
         {
-            "BTC/USD actual": 794.3886181405882,
-            "ETH/USD actual": 7.991436825294119
+            "BTC/USD actual": 821.1899763587876,
+            "ETH/USD actual": 7.866322764848486
         }
     ],
     [
         1481846400000,
         {
-            "BTC/USD actual": 802.4136727611764,
-            "ETH/USD actual": 7.926694314705882
+            "BTC/USD actual": 828.9023030203026,
+            "ETH/USD actual": 7.86740660636364
         }
     ],
     [
         1481932800000,
         {
-            "BTC/USD actual": 809.9263717782353,
-            "ETH/USD actual": 7.8681070876470605
+            "BTC/USD actual": 837.0997389866661,
+            "ETH/USD actual": 7.8613856787878795
         }
     ],
     [
         1482019200000,
         {
-            "BTC/USD actual": 817.5540840858824,
-            "ETH/USD actual": 7.797237824705883
+            "BTC/USD actual": 845.3254860966663,
+            "ETH/USD actual": 7.8964192148484855
         }
     ],
     [
         1482105600000,
         {
-            "BTC/USD actual": 826.3013440494118,
-            "ETH/USD actual": 7.7400381558823526
+            "BTC/USD actual": 856.3437823503027,
+            "ETH/USD actual": 8.000870008181819
         }
     ],
     [
         1482192000000,
         {
-            "BTC/USD actual": 838.2053113694118,
-            "ETH/USD actual": 7.706119758235295
+            "BTC/USD actual": 863.6518412687876,
+            "ETH/USD actual": 8.072001395454548
         }
     ],
     [
         1482278400000,
         {
-            "BTC/USD actual": 849.5557821088235,
-            "ETH/USD actual": 7.693279057058825
+            "BTC/USD actual": 868.5473904754544,
+            "ETH/USD actual": 8.155665755454546
         }
     ],
     [
         1482364800000,
         {
-            "BTC/USD actual": 860.302038262353,
-            "ETH/USD actual": 7.680927799411766
+            "BTC/USD actual": 872.9678384733331,
+            "ETH/USD actual": 8.251482395757575
         }
     ],
     [
         1482451200000,
         {
-            "BTC/USD actual": 871.1173853864707,
-            "ETH/USD actual": 7.670321120000001
+            "BTC/USD actual": 877.3002708496969,
+            "ETH/USD actual": 8.334588558484848
         }
     ],
     [
         1482537600000,
         {
-            "BTC/USD actual": 883.8504785829412,
-            "ETH/USD actual": 7.691475599411766
+            "BTC/USD actual": 881.493028630606,
+            "ETH/USD actual": 8.397095271515152
         }
     ],
     [
         1482624000000,
         {
-            "BTC/USD actual": 897.5851284147058,
-            "ETH/USD actual": 7.722470000588235
+            "BTC/USD actual": 885.5959076566667,
+            "ETH/USD actual": 8.469805924242422
         }
     ],
     [
         1482710400000,
         {
-            "BTC/USD actual": 911.5061630770588,
-            "ETH/USD actual": 7.825673581764706
+            "BTC/USD actual": 886.241404491818,
+            "ETH/USD actual": 8.512637334545452
         }
     ],
     [
         1482796800000,
         {
-            "BTC/USD actual": 931.51157326,
-            "ETH/USD actual": 8.017060933529413
+            "BTC/USD actual": 886.6094769533331,
+            "ETH/USD actual": 8.561403326363635
         }
     ],
     [
         1482883200000,
         {
-            "BTC/USD actual": 945.476393617647,
-            "ETH/USD actual": 8.169811528235295
+            "BTC/USD actual": 887.9266990912121,
+            "ETH/USD actual": 8.609846226666665
         }
     ],
     [
         1482969600000,
         {
-            "BTC/USD actual": 954.0325996611765,
-            "ETH/USD actual": 8.316011809411762
+            "BTC/USD actual": 889.1617257345453,
+            "ETH/USD actual": 8.649463123333334
         }
     ],
     [
         1483056000000,
         {
-            "BTC/USD actual": 958.2251566094119,
-            "ETH/USD actual": 8.435342946470586
+            "BTC/USD actual": 890.3718363151515,
+            "ETH/USD actual": 8.693750067272727
         }
     ],
     [
         1483142400000,
         {
-            "BTC/USD actual": 962.1211061070587,
-            "ETH/USD actual": 8.607275194705881
+            "BTC/USD actual": 891.8803518681818,
+            "ETH/USD actual": 8.736007969393938
         }
     ],
     [
         1483228800000,
         {
-            "BTC/USD actual": 961.8703805647059,
-            "ETH/USD actual": 8.798621457647059
+            "BTC/USD actual": 895.6564818451517,
+            "ETH/USD actual": 8.81069037272727
         }
     ],
     [
         1483315200000,
         {
-            "BTC/USD actual": 961.8784665535293,
-            "ETH/USD actual": 8.996216329411764
+            "BTC/USD actual": 898.948883369091,
+            "ETH/USD actual": 8.883647054545452
         }
     ],
     [
         1483401600000,
         {
-            "BTC/USD actual": 955.8867229158822,
-            "ETH/USD actual": 9.154342802941175
+            "BTC/USD actual": 902.2252033215152,
+            "ETH/USD actual": 8.961948697575757
         }
     ],
     [
         1483488000000,
         {
-            "BTC/USD actual": 949.1362249141175,
-            "ETH/USD actual": 9.300851551176471
+            "BTC/USD actual": 905.4308934400001,
+            "ETH/USD actual": 9.044039958787877
         }
     ],
     [
         1483574400000,
         {
-            "BTC/USD actual": 942.7391712382353,
-            "ETH/USD actual": 9.457333045882352
+            "BTC/USD actual": 909.4233550030303,
+            "ETH/USD actual": 9.143974218484848
         }
     ],
     [
         1483660800000,
         {
-            "BTC/USD actual": 933.6732211017645,
-            "ETH/USD actual": 9.584104981764705
+            "BTC/USD actual": 913.2501179657576,
+            "ETH/USD actual": 9.237016525454546
         }
     ],
     [
         1483747200000,
         {
-            "BTC/USD actual": 924.6018517335294,
-            "ETH/USD actual": 9.677622347058824
+            "BTC/USD actual": 915.86036917,
+            "ETH/USD actual": 9.325055568484848
         }
     ],
     [
         1483833600000,
         {
-            "BTC/USD actual": 916.8818377882352,
-            "ETH/USD actual": 9.762416121764705
+            "BTC/USD actual": 917.1390866484849,
+            "ETH/USD actual": 9.415777491818183
         }
     ],
     [
         1483920000000,
         {
-            "BTC/USD actual": 913.1823073570588,
-            "ETH/USD actual": 9.893261964117647
+            "BTC/USD actual": 916.6634769130303,
+            "ETH/USD actual": 9.518893646060604
         }
     ],
     [
         1484006400000,
         {
-            "BTC/USD actual": 907.1790708347061,
-            "ETH/USD actual": 10.0155137
+            "BTC/USD actual": 916.9619649581819,
+            "ETH/USD actual": 9.62076495121212
         }
     ],
     [
         1484092800000,
         {
-            "BTC/USD actual": 900.2434868505883,
-            "ETH/USD actual": 10.135545784705883
+            "BTC/USD actual": 917.6564140336363,
+            "ETH/USD actual": 9.72266247848485
         }
     ],
     [
         1484179200000,
         {
-            "BTC/USD actual": 892.5885946405882,
-            "ETH/USD actual": 10.19616033470588
+            "BTC/USD actual": 918.2061760863637,
+            "ETH/USD actual": 9.822249565151516
         }
     ],
     [
         1484265600000,
         {
-            "BTC/USD actual": 880.3365684882352,
-            "ETH/USD actual": 10.18221162352941
+            "BTC/USD actual": 917.9171435942426,
+            "ETH/USD actual": 9.92245983939394
         }
     ],
     [
         1484352000000,
         {
-            "BTC/USD actual": 874.2673167788234,
-            "ETH/USD actual": 10.21119572
+            "BTC/USD actual": 916.2864015436365,
+            "ETH/USD actual": 10.011063284848484
         }
     ],
     [
         1484438400000,
         {
-            "BTC/USD actual": 872.543106327647,
-            "ETH/USD actual": 10.250246251764706
+            "BTC/USD actual": 916.1124172372728,
+            "ETH/USD actual": 10.083214066363638
         }
     ],
     [
         1484524800000,
         {
-            "BTC/USD actual": 871.8007027394117,
-            "ETH/USD actual": 10.287582667647062
+            "BTC/USD actual": 916.786460901818,
+            "ETH/USD actual": 10.158908715757576
         }
     ],
     [
         1484611200000,
         {
-            "BTC/USD actual": 870.799547557647,
-            "ETH/USD actual": 10.29038199529412
+            "BTC/USD actual": 917.9927672815152,
+            "ETH/USD actual": 10.241380288484848
         }
     ],
     [
         1484697600000,
         {
-            "BTC/USD actual": 871.2651373970588,
-            "ETH/USD actual": 10.302053104705882
+            "BTC/USD actual": 918.6749738345454,
+            "ETH/USD actual": 10.326403784242425
         }
     ],
     [
         1484784000000,
         {
-            "BTC/USD actual": 872.161472392353,
-            "ETH/USD actual": 10.300122751764706
+            "BTC/USD actual": 919.1103294469697,
+            "ETH/USD actual": 10.416865343333335
         }
     ],
     [
         1484870400000,
         {
-            "BTC/USD actual": 879.6033465929412,
-            "ETH/USD actual": 10.339426272352943
+            "BTC/USD actual": 918.7119094330303,
+            "ETH/USD actual": 10.466344586666668
         }
     ],
     [
         1484956800000,
         {
-            "BTC/USD actual": 887.0750498817647,
-            "ETH/USD actual": 10.382089034117648
+            "BTC/USD actual": 915.4680744733333,
+            "ETH/USD actual": 10.470835358181821
         }
     ],
     [
         1485043200000,
         {
-            "BTC/USD actual": 893.2564984829413,
-            "ETH/USD actual": 10.426129341764707
+            "BTC/USD actual": 916.1655800624243,
+            "ETH/USD actual": 10.508426806060609
         }
     ],
     [
         1485129600000,
         {
-            "BTC/USD actual": 901.87183032,
-            "ETH/USD actual": 10.47644265235294
+            "BTC/USD actual": 919.4275648960607,
+            "ETH/USD actual": 10.546089371515155
         }
     ],
     [
         1485216000000,
         {
-            "BTC/USD actual": 911.5774859894117,
-            "ETH/USD actual": 10.525059293529411
+            "BTC/USD actual": 922.2284949315153,
+            "ETH/USD actual": 10.577669518787879
         }
     ],
     [
         1485302400000,
         {
-            "BTC/USD actual": 921.8061917770589,
-            "ETH/USD actual": 10.592514445294114
+            "BTC/USD actual": 924.7672928545455,
+            "ETH/USD actual": 10.604092808484852
         }
     ],
     [
         1485388800000,
         {
-            "BTC/USD actual": 928.5334336211765,
-            "ETH/USD actual": 10.633742809999998
+            "BTC/USD actual": 927.6876477448486,
+            "ETH/USD actual": 10.635928972424242
         }
     ],
     [
         1485475200000,
         {
-            "BTC/USD actual": 936.7220531541177,
-            "ETH/USD actual": 10.698717267058823
+            "BTC/USD actual": 930.6258633136365,
+            "ETH/USD actual": 10.661161706969699
         }
     ],
     [
         1485561600000,
         {
-            "BTC/USD actual": 943.5097690582353,
-            "ETH/USD actual": 10.745971484117646
+            "BTC/USD actual": 936.8256704057577,
+            "ETH/USD actual": 10.706668108484852
         }
     ],
     [
         1485648000000,
         {
-            "BTC/USD actual": 950.9955129129412,
-            "ETH/USD actual": 10.786722591176472
+            "BTC/USD actual": 943.6005611548484,
+            "ETH/USD actual": 10.808944103030306
         }
     ],
     [
         1485734400000,
         {
-            "BTC/USD actual": 958.5642422623529,
-            "ETH/USD actual": 10.818454786470587
+            "BTC/USD actual": 949.6102411757577,
+            "ETH/USD actual": 10.90393518030303
         }
     ],
     [
         1485820800000,
         {
-            "BTC/USD actual": 966.0241142905883,
-            "ETH/USD actual": 10.857153216470591
+            "BTC/USD actual": 956.1532262751516,
+            "ETH/USD actual": 10.9992567069697
         }
     ],
     [
         1485907200000,
         {
-            "BTC/USD actual": 970.586812499412,
-            "ETH/USD actual": 10.866887673529412
+            "BTC/USD actual": 963.2991242072728,
+            "ETH/USD actual": 11.086325590909091
         }
     ],
     [
         1485993600000,
         {
-            "BTC/USD actual": 976.9288005070589,
-            "ETH/USD actual": 10.914004927058825
+            "BTC/USD actual": 970.273747971818,
+            "ETH/USD actual": 11.183335384242422
         }
     ],
     [
         1486080000000,
         {
-            "BTC/USD actual": 983.2702415911767,
-            "ETH/USD actual": 10.96698415
+            "BTC/USD actual": 975.0644737148484,
+            "ETH/USD actual": 11.260691246363637
         }
     ],
     [
         1486166400000,
         {
-            "BTC/USD actual": 988.4025045376472,
-            "ETH/USD actual": 11.015810031764707
+            "BTC/USD actual": 980.9235962863635,
+            "ETH/USD actual": 11.329549816969697
         }
     ],
     [
         1486252800000,
         {
-            "BTC/USD actual": 993.0976323441178,
-            "ETH/USD actual": 11.06447137882353
+            "BTC/USD actual": 987.6676551060605,
+            "ETH/USD actual": 11.402098362121212
         }
     ],
     [
         1486339200000,
         {
-            "BTC/USD actual": 998.4312076941176,
-            "ETH/USD actual": 11.216199771764707
+            "BTC/USD actual": 994.7388021842423,
+            "ETH/USD actual": 11.465873142121213
         }
     ],
     [
         1486425600000,
         {
-            "BTC/USD actual": 1004.2610665435294,
-            "ETH/USD actual": 11.362549884117648
+            "BTC/USD actual": 1002.3238780606059,
+            "ETH/USD actual": 11.534671267878789
         }
     ],
     [
         1486512000000,
         {
-            "BTC/USD actual": 1011.061763227647,
-            "ETH/USD actual": 11.502362801176472
+            "BTC/USD actual": 1010.1489047060606,
+            "ETH/USD actual": 11.608160820909092
         }
     ],
     [
         1486598400000,
         {
-            "BTC/USD actual": 1016.1995770282352,
-            "ETH/USD actual": 11.624838835882352
+            "BTC/USD actual": 1018.1276657248485,
+            "ETH/USD actual": 11.692948856060607
         }
     ],
     [
         1486684800000,
         {
-            "BTC/USD actual": 1020.7101009241175,
-            "ETH/USD actual": 11.751009066470587
+            "BTC/USD actual": 1026.6403715442423,
+            "ETH/USD actual": 11.815124724545454
         }
     ],
     [
         1486771200000,
         {
-            "BTC/USD actual": 1023.9685610217646,
-            "ETH/USD actual": 11.871924411764708
+            "BTC/USD actual": 1035.6609535245454,
+            "ETH/USD actual": 11.967354293333333
         }
     ],
     [
         1486857600000,
         {
-            "BTC/USD actual": 1028.0146320647057,
-            "ETH/USD actual": 11.962797175294117
+            "BTC/USD actual": 1044.1400175775755,
+            "ETH/USD actual": 12.13361487909091
         }
     ],
     [
         1486944000000,
         {
-            "BTC/USD actual": 1033.3253543064704,
-            "ETH/USD actual": 12.048056938823528
+            "BTC/USD actual": 1053.1007302699998,
+            "ETH/USD actual": 12.346358297272726
         }
     ],
     [
         1487030400000,
         {
-            "BTC/USD actual": 1040.1702099811764,
-            "ETH/USD actual": 12.136421648235295
+            "BTC/USD actual": 1063.2987957454543,
+            "ETH/USD actual": 12.607981038484848
         }
     ],
     [
         1487116800000,
         {
-            "BTC/USD actual": 1048.9390107458823,
-            "ETH/USD actual": 12.24730486
+            "BTC/USD actual": 1074.3336902678786,
+            "ETH/USD actual": 12.88196107757576
         }
     ],
     [
         1487203200000,
         {
-            "BTC/USD actual": 1056.705535204706,
-            "ETH/USD actual": 12.345973513529412
+            "BTC/USD actual": 1085.1981914881815,
+            "ETH/USD actual": 13.126145143333332
         }
     ],
     [
         1487289600000,
         {
-            "BTC/USD actual": 1064.1374197011767,
-            "ETH/USD actual": 12.476502898235294
+            "BTC/USD actual": 1094.545571751515,
+            "ETH/USD actual": 13.387824232727272
         }
     ],
     [
         1487376000000,
         {
-            "BTC/USD actual": 1074.4825808699998,
-            "ETH/USD actual": 12.689701596470586
+            "BTC/USD actual": 1103.5826723381815,
+            "ETH/USD actual": 13.663428603333333
         }
     ],
     [
         1487462400000,
         {
-            "BTC/USD actual": 1086.063712387647,
-            "ETH/USD actual": 12.936713112941174
+            "BTC/USD actual": 1110.5974221963631,
+            "ETH/USD actual": 13.91014835727273
         }
     ],
     [
         1487548800000,
         {
-            "BTC/USD actual": 1097.319737660588,
-            "ETH/USD actual": 13.209325747058822
+            "BTC/USD actual": 1115.595210343636,
+            "ETH/USD actual": 14.080424891818181
         }
     ],
     [
         1487635200000,
         {
-            "BTC/USD actual": 1109.9068023664706,
-            "ETH/USD actual": 13.571386721176468
+            "BTC/USD actual": 1120.1872689693935,
+            "ETH/USD actual": 14.273653685757576
         }
     ],
     [
         1487721600000,
         {
-            "BTC/USD actual": 1125.1100016641174,
-            "ETH/USD actual": 14.030210195294117
+            "BTC/USD actual": 1123.4958217278786,
+            "ETH/USD actual": 14.514249061818179
         }
     ],
     [
         1487808000000,
         {
-            "BTC/USD actual": 1140.851124042353,
-            "ETH/USD actual": 14.406180808235295
+            "BTC/USD actual": 1127.0973974369697,
+            "ETH/USD actual": 14.823204379999998
         }
     ],
     [
         1487894400000,
         {
-            "BTC/USD actual": 1156.4566373247058,
-            "ETH/USD actual": 14.739831034705885
+            "BTC/USD actual": 1131.7996524433331,
+            "ETH/USD actual": 15.183857107575756
         }
     ],
     [
         1487980800000,
         {
-            "BTC/USD actual": 1170.515795068235,
-            "ETH/USD actual": 15.113073731764707
+            "BTC/USD actual": 1137.4587713436363,
+            "ETH/USD actual": 15.704126146060602
         }
     ],
     [
         1488067200000,
         {
-            "BTC/USD actual": 1183.8926088317646,
-            "ETH/USD actual": 15.527671023529411
+            "BTC/USD actual": 1145.1272826951515,
+            "ETH/USD actual": 16.23932642909091
         }
     ],
     [
         1488153600000,
         {
-            "BTC/USD actual": 1194.199206448235,
-            "ETH/USD actual": 15.885739628235296
+            "BTC/USD actual": 1153.0931375966668,
+            "ETH/USD actual": 16.966402336666672
         }
     ],
     [
         1488240000000,
         {
-            "BTC/USD actual": 1201.3283929594118,
-            "ETH/USD actual": 16.10734341588235
+            "BTC/USD actual": 1158.4503147515154,
+            "ETH/USD actual": 18.002954247878787
         }
     ],
     [
         1488326400000,
         {
-            "BTC/USD actual": 1207.0574177741173,
-            "ETH/USD actual": 16.413742424117647
+            "BTC/USD actual": 1161.2677232433336,
+            "ETH/USD actual": 18.992995406363633
         }
     ],
     [
         1488412800000,
         {
-            "BTC/USD actual": 1207.176210147647,
-            "ETH/USD actual": 16.787205195294113
+            "BTC/USD actual": 1161.820950108182,
+            "ETH/USD actual": 19.665986596060602
         }
     ],
     [
         1488499200000,
         {
-            "BTC/USD actual": 1207.926903697647,
-            "ETH/USD actual": 17.303894994117645
+            "BTC/USD actual": 1161.0654475778786,
+            "ETH/USD actual": 20.570345622424238
         }
     ],
     [
         1488585600000,
         {
-            "BTC/USD actual": 1209.899569005294,
-            "ETH/USD actual": 17.90216847529412
+            "BTC/USD actual": 1161.933379058485,
+            "ETH/USD actual": 21.456217516969694
         }
     ],
     [
         1488672000000,
         {
-            "BTC/USD actual": 1213.1550318811765,
-            "ETH/USD actual": 18.80814473
+            "BTC/USD actual": 1164.131875121818,
+            "ETH/USD actual": 22.34851210636364
         }
     ],
     [
         1488758400000,
         {
-            "BTC/USD actual": 1217.1154807358823,
-            "ETH/USD actual": 19.69220884470588
+            "BTC/USD actual": 1163.8843028836363,
+            "ETH/USD actual": 23.215180987878796
         }
     ],
     [
         1488844800000,
         {
-            "BTC/USD actual": 1222.3959346088236,
-            "ETH/USD actual": 20.91354382117647
+            "BTC/USD actual": 1163.1592835772722,
+            "ETH/USD actual": 24.12746392575758
         }
     ],
     [
         1488931200000,
         {
-            "BTC/USD actual": 1221.6260604435295,
-            "ETH/USD actual": 22.683148767647058
+            "BTC/USD actual": 1159.7260520106056,
+            "ETH/USD actual": 25.336078599393943
         }
     ],
     [
         1489017600000,
         {
-            "BTC/USD actual": 1215.76805083,
-            "ETH/USD actual": 24.331078114117645
+            "BTC/USD actual": 1156.0699354469698,
+            "ETH/USD actual": 26.48310868242425
         }
     ],
     [
         1489104000000,
         {
-            "BTC/USD actual": 1204.1427649711766,
-            "ETH/USD actual": 25.273161605882354
+            "BTC/USD actual": 1151.5150978160607,
+            "ETH/USD actual": 27.62495719515152
         }
     ],
     [
         1489190400000,
         {
-            "BTC/USD actual": 1188.2135318394119,
-            "ETH/USD actual": 26.672554552352942
+            "BTC/USD actual": 1148.4314254790909,
+            "ETH/USD actual": 28.721316637272732
         }
     ],
     [
         1489276800000,
         {
-            "BTC/USD actual": 1174.307521254706,
-            "ETH/USD actual": 28.006694737058826
+            "BTC/USD actual": 1144.5449988951516,
+            "ETH/USD actual": 29.84342467606061
         }
     ],
     [
         1489363200000,
         {
-            "BTC/USD actual": 1164.2859726341176,
-            "ETH/USD actual": 29.40460455294118
+            "BTC/USD actual": 1140.3051722242424,
+            "ETH/USD actual": 31.051466945454553
         }
     ],
     [
         1489449600000,
         {
-            "BTC/USD actual": 1150.798290402353,
-            "ETH/USD actual": 30.70147253705883
+            "BTC/USD actual": 1136.178848755455,
+            "ETH/USD actual": 32.20883210454546
         }
     ],
     [
         1489536000000,
         {
-            "BTC/USD actual": 1136.3588168588233,
-            "ETH/USD actual": 32.063548221764705
+            "BTC/USD actual": 1133.4999225924244,
+            "ETH/USD actual": 33.277721509696974
         }
     ],
     [
         1489622400000,
         {
-            "BTC/USD actual": 1119.3359012494116,
-            "ETH/USD actual": 34.05167135235293
+            "BTC/USD actual": 1130.4233401672727,
+            "ETH/USD actual": 34.34133160545455
         }
     ],
     [
         1489708800000,
         {
-            "BTC/USD actual": 1106.5832160888235,
-            "ETH/USD actual": 36.03859512176471
+            "BTC/USD actual": 1127.8272745563636,
+            "ETH/USD actual": 35.32806738636364
         }
     ],
     [
         1489795200000,
         {
-            "BTC/USD actual": 1094.1381985382354,
-            "ETH/USD actual": 37.96529316294118
+            "BTC/USD actual": 1125.8294153396969,
+            "ETH/USD actual": 36.136891801818194
         }
     ],
     [
         1489881600000,
         {
-            "BTC/USD actual": 1088.574617262941,
-            "ETH/USD actual": 39.71484694176471
+            "BTC/USD actual": 1122.4429255830303,
+            "ETH/USD actual": 36.90371200969698
         }
     ],
     [
         1489968000000,
         {
-            "BTC/USD actual": 1082.8078841647057,
-            "ETH/USD actual": 41.404203081764706
+            "BTC/USD actual": 1118.1790407563637,
+            "ETH/USD actual": 37.67910124515153
         }
     ],
     [
         1490054400000,
         {
-            "BTC/USD actual": 1073.2162500735294,
-            "ETH/USD actual": 43.14780437529413
+            "BTC/USD actual": 1115.4308028375758,
+            "ETH/USD actual": 38.42452402151516
         }
     ],
     [
         1490140800000,
         {
-            "BTC/USD actual": 1061.6528640888237,
-            "ETH/USD actual": 44.51504975882353
+            "BTC/USD actual": 1113.0007833063637,
+            "ETH/USD actual": 39.12132349424243
         }
     ],
     [
         1490227200000,
         {
-            "BTC/USD actual": 1051.9118230235297,
-            "ETH/USD actual": 45.76423322352942
+            "BTC/USD actual": 1110.1435563233335,
+            "ETH/USD actual": 39.86909962909091
         }
     ],
     [
         1490313600000,
         {
-            "BTC/USD actual": 1042.057635024706,
-            "ETH/USD actual": 46.66451698764707
+            "BTC/USD actual": 1109.4605894809092,
+            "ETH/USD actual": 40.626525216666664
         }
     ],
     [
         1490400000000,
         {
-            "BTC/USD actual": 1037.8750125758827,
-            "ETH/USD actual": 46.84042772176471
+            "BTC/USD actual": 1110.5060942524242,
+            "ETH/USD actual": 41.45603158878788
         }
     ],
     [
         1490486400000,
         {
-            "BTC/USD actual": 1041.1147929064707,
-            "ETH/USD actual": 46.8507150182353
+            "BTC/USD actual": 1111.9046010296972,
+            "ETH/USD actual": 42.25047860878788
         }
     ],
     [
         1490572800000,
         {
-            "BTC/USD actual": 1048.6703069976472,
-            "ETH/USD actual": 47.49167717470589
+            "BTC/USD actual": 1114.9133875784848,
+            "ETH/USD actual": 43.083276691818185
         }
     ],
     [
         1490659200000,
         {
-            "BTC/USD actual": 1057.601040212353,
-            "ETH/USD actual": 47.61729466411765
+            "BTC/USD actual": 1116.1901235548487,
+            "ETH/USD actual": 43.96138997666667
         }
     ],
     [
         1490745600000,
         {
-            "BTC/USD actual": 1066.1869305429411,
-            "ETH/USD actual": 47.678308367058825
+            "BTC/USD actual": 1115.6520688633336,
+            "ETH/USD actual": 44.70249443666667
         }
     ],
     [
         1490832000000,
         {
-            "BTC/USD actual": 1071.2613227205884,
-            "ETH/USD actual": 47.67206054352941
+            "BTC/USD actual": 1114.0907500018184,
+            "ETH/USD actual": 45.33264310909091
         }
     ],
     [
         1490918400000,
         {
-            "BTC/USD actual": 1079.572336097059,
-            "ETH/USD actual": 47.85586603294118
+            "BTC/USD actual": 1112.5264654154548,
+            "ETH/USD actual": 45.93556465454546
         }
     ],
     [
         1491004800000,
         {
-            "BTC/USD actual": 1089.9605649670586,
-            "ETH/USD actual": 47.91332919294118
+            "BTC/USD actual": 1111.3072756718184,
+            "ETH/USD actual": 46.334409634848484
         }
     ],
     [
         1491091200000,
         {
-            "BTC/USD actual": 1105.7837690758822,
-            "ETH/USD actual": 47.39901686588236
+            "BTC/USD actual": 1112.999478296667,
+            "ETH/USD actual": 46.506687104242424
         }
     ],
     [
         1491177600000,
         {
-            "BTC/USD actual": 1121.324709787647,
-            "ETH/USD actual": 47.020989928235295
+            "BTC/USD actual": 1117.0458350881818,
+            "ETH/USD actual": 46.64655538878788
         }
     ],
     [
         1491264000000,
         {
-            "BTC/USD actual": 1136.1258314511763,
-            "ETH/USD actual": 46.79453127705883
+            "BTC/USD actual": 1124.7335826003027,
+            "ETH/USD actual": 47.1580379969697
         }
     ],
     [
         1491350400000,
         {
-            "BTC/USD actual": 1145.3408470211764,
-            "ETH/USD actual": 46.887566770588236
+            "BTC/USD actual": 1133.477114081212,
+            "ETH/USD actual": 47.34845206666666
         }
     ],
     [
         1491436800000,
         {
-            "BTC/USD actual": 1153.8132930611766,
-            "ETH/USD actual": 46.74624506941176
+            "BTC/USD actual": 1141.2747298045456,
+            "ETH/USD actual": 47.57587129848484
         }
     ],
     [
         1491523200000,
         {
-            "BTC/USD actual": 1162.2682122729411,
-            "ETH/USD actual": 46.53042787117647
+            "BTC/USD actual": 1146.9620092009093,
+            "ETH/USD actual": 47.82971757272726
         }
     ],
     [
         1491609600000,
         {
-            "BTC/USD actual": 1171.2020307229413,
-            "ETH/USD actual": 46.33821908882353
+            "BTC/USD actual": 1154.2736080939394,
+            "ETH/USD actual": 48.12598996181817
         }
     ],
     [
         1491696000000,
         {
-            "BTC/USD actual": 1179.3160905864704,
-            "ETH/USD actual": 46.25887959352941
+            "BTC/USD actual": 1162.6338697233334,
+            "ETH/USD actual": 48.36947915181817
         }
     ],
     [
         1491782400000,
         {
-            "BTC/USD actual": 1187.8032697535293,
-            "ETH/USD actual": 46.29825061823529
+            "BTC/USD actual": 1174.3581485445457,
+            "ETH/USD actual": 48.43170361969697
         }
     ],
     [
         1491868800000,
         {
-            "BTC/USD actual": 1194.8393742152941,
-            "ETH/USD actual": 46.30226070705882
+            "BTC/USD actual": 1186.9003090203032,
+            "ETH/USD actual": 48.86697649878787
         }
     ],
     [
         1491955200000,
         {
-            "BTC/USD actual": 1202.015560241765,
-            "ETH/USD actual": 46.66715127882353
+            "BTC/USD actual": 1199.1912497472729,
+            "ETH/USD actual": 49.57525080545453
         }
     ],
     [
         1492041600000,
         {
-            "BTC/USD actual": 1209.632838924118,
-            "ETH/USD actual": 46.94763819235294
+            "BTC/USD actual": 1209.6639460475758,
+            "ETH/USD actual": 50.25015549090908
         }
     ],
     [
         1492128000000,
         {
-            "BTC/USD actual": 1219.1403294070592,
-            "ETH/USD actual": 47.21807189941177
+            "BTC/USD actual": 1220.3293942603027,
+            "ETH/USD actual": 51.192072649696954
         }
     ],
     [
         1492214400000,
         {
-            "BTC/USD actual": 1225.4936085158824,
-            "ETH/USD actual": 47.66174497588234
+            "BTC/USD actual": 1233.1533703539394,
+            "ETH/USD actual": 51.986872526363626
         }
     ],
     [
         1492300800000,
         {
-            "BTC/USD actual": 1230.916126754706,
-            "ETH/USD actual": 48.18111920941176
+            "BTC/USD actual": 1246.902743032424,
+            "ETH/USD actual": 52.7946505021212
         }
     ],
     [
         1492387200000,
         {
-            "BTC/USD actual": 1238.251778164706,
-            "ETH/USD actual": 48.56428494235294
+            "BTC/USD actual": 1260.215036051818,
+            "ETH/USD actual": 53.77480173515151
         }
     ],
     [
         1492473600000,
         {
-            "BTC/USD actual": 1245.3135159023532,
-            "ETH/USD actual": 49.202900017058816
+            "BTC/USD actual": 1274.1953206236362,
+            "ETH/USD actual": 55.16704005848485
         }
     ],
     [
         1492560000000,
         {
-            "BTC/USD actual": 1254.8778682852942,
-            "ETH/USD actual": 50.42454700588235
+            "BTC/USD actual": 1287.3068563842426,
+            "ETH/USD actual": 56.46253675060606
         }
     ],
     [
         1492646400000,
         {
-            "BTC/USD actual": 1263.5769872252943,
-            "ETH/USD actual": 52.18396860352941
+            "BTC/USD actual": 1299.9467130642427,
+            "ETH/USD actual": 58.01895910969698
         }
     ],
     [
         1492732800000,
         {
-            "BTC/USD actual": 1272.5021719382355,
-            "ETH/USD actual": 53.62702343411764
+            "BTC/USD actual": 1313.0454249551515,
+            "ETH/USD actual": 59.466356671212125
         }
     ],
     [
         1492819200000,
         {
-            "BTC/USD actual": 1284.9605861223529,
-            "ETH/USD actual": 55.44023415294117
+            "BTC/USD actual": 1329.834928059091,
+            "ETH/USD actual": 60.78784716515152
         }
     ],
     [
         1492905600000,
         {
-            "BTC/USD actual": 1301.3070117905881,
-            "ETH/USD actual": 57.28806772588235
+            "BTC/USD actual": 1346.3973298357578,
+            "ETH/USD actual": 62.12877115909091
         }
     ],
     [
         1492992000000,
         {
-            "BTC/USD actual": 1319.4643799717646,
-            "ETH/USD actual": 59.000122933529404
+            "BTC/USD actual": 1364.3118999478793,
+            "ETH/USD actual": 63.52578111121212
         }
     ],
     [
         1493078400000,
         {
-            "BTC/USD actual": 1338.6014013176468,
-            "ETH/USD actual": 60.9815757917647
+            "BTC/USD actual": 1384.0967981130304,
+            "ETH/USD actual": 64.85916756575759
         }
     ],
     [
         1493164800000,
         {
-            "BTC/USD actual": 1358.2520752252942,
-            "ETH/USD actual": 63.810211339411765
+            "BTC/USD actual": 1399.2738123003037,
+            "ETH/USD actual": 66.12153457454546
         }
     ],
     [
         1493251200000,
         {
-            "BTC/USD actual": 1376.2363935694118,
-            "ETH/USD actual": 66.1664888
+            "BTC/USD actual": 1416.8295496124247,
+            "ETH/USD actual": 67.47227841454547
         }
     ],
     [
         1493337600000,
         {
-            "BTC/USD actual": 1396.1576736835293,
-            "ETH/USD actual": 68.92655753529414
+            "BTC/USD actual": 1434.4706708057581,
+            "ETH/USD actual": 68.85206143545456
         }
     ],
     [
         1493424000000,
         {
-            "BTC/USD actual": 1414.2168245099997,
-            "ETH/USD actual": 71.38429577764707
+            "BTC/USD actual": 1450.6308173951516,
+            "ETH/USD actual": 70.1974520066667
         }
     ],
     [
         1493510400000,
         {
-            "BTC/USD actual": 1438.7662085223528,
-            "ETH/USD actual": 73.7055322082353
+            "BTC/USD actual": 1468.643378430303,
+            "ETH/USD actual": 71.33356196606063
         }
     ],
     [
         1493596800000,
         {
-            "BTC/USD actual": 1464.3660953094118,
-            "ETH/USD actual": 75.92805515529412
+            "BTC/USD actual": 1488.2457814881818,
+            "ETH/USD actual": 72.53185164484852
         }
     ],
     [
         1493683200000,
         {
-            "BTC/USD actual": 1493.1758165235294,
-            "ETH/USD actual": 78.14088976529412
+            "BTC/USD actual": 1510.2002125566667,
+            "ETH/USD actual": 73.97411406787879
         }
     ],
     [
         1493769600000,
         {
-            "BTC/USD actual": 1525.699704957647,
-            "ETH/USD actual": 80.33791667588237
+            "BTC/USD actual": 1533.676790570303,
+            "ETH/USD actual": 76.27815323303032
         }
     ],
     [
         1493856000000,
         {
-            "BTC/USD actual": 1549.3204534988238,
-            "ETH/USD actual": 82.37320148411766
+            "BTC/USD actual": 1559.0566169336362,
+            "ETH/USD actual": 78.54117603424244
         }
     ],
     [
         1493942400000,
         {
-            "BTC/USD actual": 1576.4635476194117,
-            "ETH/USD actual": 84.36013264411767
+            "BTC/USD actual": 1583.3682377906057,
+            "ETH/USD actual": 81.45010392242426
         }
     ],
     [
         1494028800000,
         {
-            "BTC/USD actual": 1601.9024709005882,
-            "ETH/USD actual": 85.81556657
+            "BTC/USD actual": 1609.773535904545,
+            "ETH/USD actual": 84.77793378878789
         }
     ],
     [
         1494115200000,
         {
-            "BTC/USD actual": 1624.2144039441175,
-            "ETH/USD actual": 86.82586302058823
+            "BTC/USD actual": 1639.5649453109088,
+            "ETH/USD actual": 88.37301216181818
         }
     ],
     [
         1494201600000,
         {
-            "BTC/USD actual": 1648.0656275288236,
-            "ETH/USD actual": 87.81417934000001
+            "BTC/USD actual": 1674.1037590584845,
+            "ETH/USD actual": 92.67233717848485
         }
     ],
     [
         1494288000000,
         {
-            "BTC/USD actual": 1673.8862800329412,
-            "ETH/USD actual": 88.17052194235295
+            "BTC/USD actual": 1704.6464582806057,
+            "ETH/USD actual": 96.5168279469697
         }
     ],
     [
         1494374400000,
         {
-            "BTC/USD actual": 1700.0650236076472,
-            "ETH/USD actual": 89.21154380470588
+            "BTC/USD actual": 1732.2100039863633,
+            "ETH/USD actual": 99.856052029697
         }
     ],
     [
         1494460800000,
         {
-            "BTC/USD actual": 1727.8810641788234,
-            "ETH/USD actual": 91.92384203705883
+            "BTC/USD actual": 1754.8244537299995,
+            "ETH/USD actual": 103.01161304151516
         }
     ],
     [
         1494547200000,
         {
-            "BTC/USD actual": 1759.4203358276472,
-            "ETH/USD actual": 94.3347826447059
+            "BTC/USD actual": 1779.8818417178788,
+            "ETH/USD actual": 106.61268384666668
         }
     ],
     [
         1494633600000,
         {
-            "BTC/USD actual": 1787.9624619011763,
-            "ETH/USD actual": 97.31831576588237
+            "BTC/USD actual": 1807.6747755457575,
+            "ETH/USD actual": 110.80823059515153
         }
     ],
     [
         1494720000000,
         {
-            "BTC/USD actual": 1820.8041050488234,
-            "ETH/USD actual": 101.26744319294117
+            "BTC/USD actual": 1831.8928449063635,
+            "ETH/USD actual": 115.73701041090911
         }
     ],
     [
         1494806400000,
         {
-            "BTC/USD actual": 1861.2744816617649,
-            "ETH/USD actual": 105.58972485058821
+            "BTC/USD actual": 1858.8718709999996,
+            "ETH/USD actual": 120.3675737369697
         }
     ],
     [
         1494892800000,
         {
-            "BTC/USD actual": 1910.510781595294,
-            "ETH/USD actual": 111.40630623588233
+            "BTC/USD actual": 1889.4377575745452,
+            "ETH/USD actual": 124.8533449518182
         }
     ],
     [
         1494979200000,
         {
-            "BTC/USD actual": 1946.7156527782354,
-            "ETH/USD actual": 116.57432871117646
+            "BTC/USD actual": 1921.6483945960608,
+            "ETH/USD actual": 129.09254495454545
         }
     ],
     [
         1495065600000,
         {
-            "BTC/USD actual": 1974.4240936317647,
-            "ETH/USD actual": 120.89705490117649
+            "BTC/USD actual": 1953.6222607645454,
+            "ETH/USD actual": 133.47029263666667
         }
     ],
     [
         1495152000000,
         {
-            "BTC/USD actual": 1988.9699076258821,
-            "ETH/USD actual": 124.83008707411764
+            "BTC/USD actual": 1984.3712022209093,
+            "ETH/USD actual": 138.50078063181817
         }
     ],
     [
         1495238400000,
         {
-            "BTC/USD actual": 2006.5403922211767,
-            "ETH/USD actual": 129.61522831117648
+            "BTC/USD actual": 2019.329633516364,
+            "ETH/USD actual": 143.4904934951515
         }
     ],
     [
         1495324800000,
         {
-            "BTC/USD actual": 2038.09185632,
-            "ETH/USD actual": 135.94766288058824
+            "BTC/USD actual": 2058.9786531812124,
+            "ETH/USD actual": 148.56677172242428
         }
     ],
     [
         1495411200000,
         {
-            "BTC/USD actual": 2060.588970914706,
-            "ETH/USD actual": 144.11490911647059
+            "BTC/USD actual": 2093.2655073012124,
+            "ETH/USD actual": 153.52001583212126
         }
     ],
     [
         1495497600000,
         {
-            "BTC/USD actual": 2087.4146111317646,
-            "ETH/USD actual": 152.1846689535294
+            "BTC/USD actual": 2130.4849119066666,
+            "ETH/USD actual": 158.47906058030304
         }
     ],
     [
         1495584000000,
         {
-            "BTC/USD actual": 2124.3038793452943,
-            "ETH/USD actual": 159.72375679823529
+            "BTC/USD actual": 2167.8333128130303,
+            "ETH/USD actual": 164.1492447369697
         }
     ],
     [
         1495670400000,
         {
-            "BTC/USD actual": 2164.3232645617645,
-            "ETH/USD actual": 167.5606128952941
+            "BTC/USD actual": 2203.51112575606,
+            "ETH/USD actual": 171.596353369697
         }
     ],
     [
         1495756800000,
         {
-            "BTC/USD actual": 2204.684883327059,
-            "ETH/USD actual": 175.58033553352942
+            "BTC/USD actual": 2240.7242051045455,
+            "ETH/USD actual": 179.2353294054546
         }
     ],
     [
         1495843200000,
         {
-            "BTC/USD actual": 2239.91394814353,
-            "ETH/USD actual": 184.25776979294116
+            "BTC/USD actual": 2265.873104850606,
+            "ETH/USD actual": 188.45379521696975
         }
     ],
     [
         1495929600000,
         {
-            "BTC/USD actual": 2281.3392729188236,
-            "ETH/USD actual": 191.45258924176474
+            "BTC/USD actual": 2291.8727426663636,
+            "ETH/USD actual": 197.4924512245455
         }
     ],
     [
         1496016000000,
         {
-            "BTC/USD actual": 2328.688969117647,
-            "ETH/USD actual": 199.7422500282353
+            "BTC/USD actual": 2313.4115359836364,
+            "ETH/USD actual": 205.23673756333338
         }
     ],
     [
         1496102400000,
         {
-            "BTC/USD actual": 2366.0369755605884,
-            "ETH/USD actual": 206.06690603647058
+            "BTC/USD actual": 2331.7620898321215,
+            "ETH/USD actual": 212.93596292818185
         }
     ],
     [
         1496188800000,
         {
-            "BTC/USD actual": 2406.9503447464704,
-            "ETH/USD actual": 211.9934507188235
+            "BTC/USD actual": 2351.5594271145455,
+            "ETH/USD actual": 220.892259059697
         }
     ],
     [
         1496275200000,
         {
-            "BTC/USD actual": 2439.678949661176,
-            "ETH/USD actual": 218.47933548235295
+            "BTC/USD actual": 2377.9735939796974,
+            "ETH/USD actual": 229.31162241363637
         }
     ],
     [
         1496361600000,
         {
-            "BTC/USD actual": 2466.439332111764,
-            "ETH/USD actual": 226.9109754029412
+            "BTC/USD actual": 2399.920767791515,
+            "ETH/USD actual": 237.2873582645455
         }
     ],
     [
         1496448000000,
         {
-            "BTC/USD actual": 2504.98760385,
-            "ETH/USD actual": 236.49926386882356
+            "BTC/USD actual": 2422.785420162121,
+            "ETH/USD actual": 245.4966325806061
         }
     ],
     [
         1496534400000,
         {
-            "BTC/USD actual": 2529.1100711423533,
-            "ETH/USD actual": 250.12474418764705
+            "BTC/USD actual": 2447.294253822121,
+            "ETH/USD actual": 253.17240104969702
         }
     ],
     [
         1496620800000,
         {
-            "BTC/USD actual": 2568.2052070105883,
-            "ETH/USD actual": 263.7418966782353
+            "BTC/USD actual": 2467.5424653357577,
+            "ETH/USD actual": 259.24902411545463
         }
     ],
     [
         1496707200000,
         {
-            "BTC/USD actual": 2584.9957423676474,
-            "ETH/USD actual": 273.81989399294116
+            "BTC/USD actual": 2486.470810587879,
+            "ETH/USD actual": 265.21778081909093
         }
     ],
     [
         1496793600000,
         {
-            "BTC/USD actual": 2593.8095106458823,
-            "ETH/USD actual": 282.6080836435294
+            "BTC/USD actual": 2506.0230278175763,
+            "ETH/USD actual": 270.6589030672727
         }
     ],
     [
         1496880000000,
         {
-            "BTC/USD actual": 2610.6670128341184,
-            "ETH/USD actual": 289.94046100588236
+            "BTC/USD actual": 2519.418809509091,
+            "ETH/USD actual": 275.08541679545453
         }
     ],
     [
         1496966400000,
         {
-            "BTC/USD actual": 2631.8824544341182,
-            "ETH/USD actual": 298.3054869223529
+            "BTC/USD actual": 2526.67583724,
+            "ETH/USD actual": 278.40236622696966
         }
     ],
     [
         1497052800000,
         {
-            "BTC/USD actual": 2639.003235597059,
-            "ETH/USD actual": 306.0684404764706
+            "BTC/USD actual": 2526.311989512424,
+            "ETH/USD actual": 280.2770273169697
         }
     ],
     [
         1497139200000,
         {
-            "BTC/USD actual": 2646.6816826023532,
-            "ETH/USD actual": 314.13139792235296
+            "BTC/USD actual": 2533.6230422,
+            "ETH/USD actual": 283.621914291212
         }
     ],
     [
         1497225600000,
         {
-            "BTC/USD actual": 2658.369480719412,
-            "ETH/USD actual": 321.57446013588236
+            "BTC/USD actual": 2543.7632393803024,
+            "ETH/USD actual": 288.3207722554544
         }
     ],
     [
         1497312000000,
         {
-            "BTC/USD actual": 2665.8017514017647,
-            "ETH/USD actual": 326.317491152353
+            "BTC/USD actual": 2558.2850417254535,
+            "ETH/USD actual": 292.5043434872727
         }
     ],
     [
         1497398400000,
         {
-            "BTC/USD actual": 2666.2237972017647,
-            "ETH/USD actual": 330.6289286264706
+            "BTC/USD actual": 2567.524613757272,
+            "ETH/USD actual": 295.85330699878784
         }
     ],
     [
         1497484800000,
         {
-            "BTC/USD actual": 2655.7544832541175,
-            "ETH/USD actual": 334.3206883764705
+            "BTC/USD actual": 2571.5665034045446,
+            "ETH/USD actual": 297.95465916484847
         }
     ],
     [
         1497571200000,
         {
-            "BTC/USD actual": 2648.0428681582353,
-            "ETH/USD actual": 337.2473391805882
+            "BTC/USD actual": 2580.965235359393,
+            "ETH/USD actual": 299.6886415451516
         }
     ],
     [
         1497657600000,
         {
-            "BTC/USD actual": 2630.3509837794118,
-            "ETH/USD actual": 338.3820240470588
+            "BTC/USD actual": 2589.1168778754545,
+            "ETH/USD actual": 301.2038856075758
         }
     ],
     [
         1497744000000,
         {
-            "BTC/USD actual": 2606.381154011765,
-            "ETH/USD actual": 336.8308253617647
+            "BTC/USD actual": 2595.490872071212,
+            "ETH/USD actual": 302.7027859042425
         }
     ],
     [
         1497830400000,
         {
-            "BTC/USD actual": 2587.5211376400002,
-            "ETH/USD actual": 334.03571167647056
+            "BTC/USD actual": 2600.1947475551515,
+            "ETH/USD actual": 304.0609845515152
         }
     ],
     [
         1497916800000,
         {
-            "BTC/USD actual": 2562.676336637647,
-            "ETH/USD actual": 332.6511498452941
+            "BTC/USD actual": 2602.6188879015153,
+            "ETH/USD actual": 305.34225253666676
         }
     ],
     [
         1498003200000,
         {
-            "BTC/USD actual": 2556.5930792064705,
-            "ETH/USD actual": 326.81056312823534
+            "BTC/USD actual": 2602.0592715621215,
+            "ETH/USD actual": 305.2131224975758
         }
     ],
     [
         1498089600000,
         {
-            "BTC/USD actual": 2541.6293184564706,
-            "ETH/USD actual": 320.55100716705886
+            "BTC/USD actual": 2598.322282462424,
+            "ETH/USD actual": 305.17580558303035
         }
     ],
     [
         1498176000000,
         {
-            "BTC/USD actual": 2539.2162048429414,
-            "ETH/USD actual": 315.92951069529414
+            "BTC/USD actual": 2587.264346346364,
+            "ETH/USD actual": 304.3612184406061
         }
     ],
     [
         1498262400000,
         {
-            "BTC/USD actual": 2544.3362534088237,
-            "ETH/USD actual": 312.5171676082353
+            "BTC/USD actual": 2576.812679702728,
+            "ETH/USD actual": 302.8071898612121
         }
     ],
     [
         1498348800000,
         {
-            "BTC/USD actual": 2548.555544961765,
-            "ETH/USD actual": 308.0837087229412
+            "BTC/USD actual": 2561.729305885455,
+            "ETH/USD actual": 300.70771904000003
         }
     ],
     [
         1498435200000,
         {
-            "BTC/USD actual": 2546.5433015229414,
-            "ETH/USD actual": 302.18895651529414
+            "BTC/USD actual": 2548.659845166667,
+            "ETH/USD actual": 299.02896452545457
         }
     ],
     [
         1498521600000,
         {
-            "BTC/USD actual": 2553.0904017500006,
-            "ETH/USD actual": 297.1800050994118
+            "BTC/USD actual": 2532.5130049878794,
+            "ETH/USD actual": 295.11105252515154
         }
     ],
     [
         1498608000000,
         {
-            "BTC/USD actual": 2553.7733795270588,
-            "ETH/USD actual": 291.75124486
+            "BTC/USD actual": 2509.7395307415154,
+            "ETH/USD actual": 290.7940195684849
         }
     ],
     [
         1498694400000,
         {
-            "BTC/USD actual": 2540.3401590505887,
-            "ETH/USD actual": 285.27799378000003
+            "BTC/USD actual": 2490.252780075758,
+            "ETH/USD actual": 283.99653677060604
         }
     ],
     [
         1498780800000,
         {
-            "BTC/USD actual": 2535.2059767529413,
-            "ETH/USD actual": 280.6045767964706
+            "BTC/USD actual": 2466.5845109203033,
+            "ETH/USD actual": 276.98821530484844
         }
     ],
     [
         1498867200000,
         {
-            "BTC/USD actual": 2524.347009119412,
-            "ETH/USD actual": 275.7265701170588
+            "BTC/USD actual": 2460.5290809909093,
+            "ETH/USD actual": 272.4230531578787
         }
     ],
     [
         1498953600000,
         {
-            "BTC/USD actual": 2503.4521821611766,
-            "ETH/USD actual": 268.47240393058826
+            "BTC/USD actual": 2457.6658938212126,
+            "ETH/USD actual": 268.9189525830303
         }
     ],
     [
         1499040000000,
         {
-            "BTC/USD actual": 2489.0824847711765,
-            "ETH/USD actual": 261.7308609582353
+            "BTC/USD actual": 2451.434675938485,
+            "ETH/USD actual": 264.14549811181814
         }
     ],
     [
         1499126400000,
         {
-            "BTC/USD actual": 2482.3537885776473,
-            "ETH/USD actual": 258.51920276764713
+            "BTC/USD actual": 2458.8835000963636,
+            "ETH/USD actual": 259.84823969333326
         }
     ],
     [
         1499212800000,
         {
-            "BTC/USD actual": 2478.4765974464713,
-            "ETH/USD actual": 255.70643610117648
+            "BTC/USD actual": 2463.6568011372724,
+            "ETH/USD actual": 255.76794892121208
         }
     ],
     [
         1499299200000,
         {
-            "BTC/USD actual": 2458.6254933717646,
-            "ETH/USD actual": 250.4215858776471
+            "BTC/USD actual": 2471.1702058806063,
+            "ETH/USD actual": 251.91485245878786
         }
     ],
     [
         1499385600000,
         {
-            "BTC/USD actual": 2425.2368266099998,
-            "ETH/USD actual": 241.7306400111765
+            "BTC/USD actual": 2472.2055992036367,
+            "ETH/USD actual": 248.2390915166666
         }
     ],
     [
         1499472000000,
         {
-            "BTC/USD actual": 2390.1982942711766,
-            "ETH/USD actual": 233.62235373588234
+            "BTC/USD actual": 2476.0806433303032,
+            "ETH/USD actual": 245.23366460636362
         }
     ],
     [
         1499558400000,
         {
-            "BTC/USD actual": 2377.29853170353,
-            "ETH/USD actual": 228.3376365370588
+            "BTC/USD actual": 2472.4712173412117,
+            "ETH/USD actual": 241.70045306878785
         }
     ],
     [
         1499644800000,
         {
-            "BTC/USD actual": 2372.7083273370595,
-            "ETH/USD actual": 226.24465321999998
+            "BTC/USD actual": 2467.767845657879,
+            "ETH/USD actual": 237.9417447245454
         }
     ],
     [
         1499731200000,
         {
-            "BTC/USD actual": 2359.2253386641178,
-            "ETH/USD actual": 220.9449472823529
+            "BTC/USD actual": 2471.543243749091,
+            "ETH/USD actual": 234.85940167090902
         }
     ],
     [
         1499817600000,
         {
-            "BTC/USD actual": 2379.076485804118,
-            "ETH/USD actual": 218.02688014764703
+            "BTC/USD actual": 2480.2658178606057,
+            "ETH/USD actual": 232.20818576999994
         }
     ],
     [
         1499904000000,
         {
-            "BTC/USD actual": 2383.0900390782353,
-            "ETH/USD actual": 214.95963927411765
+            "BTC/USD actual": 2489.577359900303,
+            "ETH/USD actual": 230.79687750727268
         }
     ],
     [
         1499990400000,
         {
-            "BTC/USD actual": 2396.2222781752944,
-            "ETH/USD actual": 212.90655327176475
+            "BTC/USD actual": 2495.6597269351514,
+            "ETH/USD actual": 228.04953402999993
         }
     ],
     [
         1500076800000,
         {
-            "BTC/USD actual": 2405.214273247059,
-            "ETH/USD actual": 210.72714756764705
+            "BTC/USD actual": 2505.5143566087877,
+            "ETH/USD actual": 224.571603950303
         }
     ],
     [
         1500163200000,
         {
-            "BTC/USD actual": 2421.2550024811762,
-            "ETH/USD actual": 209.8867787752941
+            "BTC/USD actual": 2512.0952887139397,
+            "ETH/USD actual": 222.52806421333332
         }
     ],
     [
         1500249600000,
         {
-            "BTC/USD actual": 2421.92467079,
-            "ETH/USD actual": 207.41206786352942
+            "BTC/USD actual": 2519.9037874009096,
+            "ETH/USD actual": 220.64072561757575
         }
     ],
     [
         1500336000000,
         {
-            "BTC/USD actual": 2423.7906878000003,
-            "ETH/USD actual": 205.38876881
+            "BTC/USD actual": 2532.1677679860613,
+            "ETH/USD actual": 219.4856345339394
         }
     ],
     [
         1500422400000,
         {
-            "BTC/USD actual": 2443.6963160129417,
-            "ETH/USD actual": 205.3486915170588
+            "BTC/USD actual": 2543.4078274781828,
+            "ETH/USD actual": 217.54291886848486
         }
     ],
     [
         1500508800000,
         {
-            "BTC/USD actual": 2472.2159776135295,
-            "ETH/USD actual": 205.4123418170588
+            "BTC/USD actual": 2565.015855217879,
+            "ETH/USD actual": 216.82700940757576
         }
     ],
     [
         1500595200000,
         {
-            "BTC/USD actual": 2491.6916237888236,
-            "ETH/USD actual": 204.38030350294116
+            "BTC/USD actual": 2584.1993046136367,
+            "ETH/USD actual": 216.6955026678788
         }
     ],
     [
         1500681600000,
         {
-            "BTC/USD actual": 2515.9824214200003,
-            "ETH/USD actual": 203.8574698917647
+            "BTC/USD actual": 2607.844253145455,
+            "ETH/USD actual": 216.80671655727272
         }
     ],
     [
         1500768000000,
         {
-            "BTC/USD actual": 2554.474528027059,
-            "ETH/USD actual": 204.10175482176473
+            "BTC/USD actual": 2632.7577003730307,
+            "ETH/USD actual": 217.7213747478788
         }
     ],
     [
         1500854400000,
         {
-            "BTC/USD actual": 2598.9932430335293,
-            "ETH/USD actual": 207.48941051705884
+            "BTC/USD actual": 2658.816185815151,
+            "ETH/USD actual": 219.3897237078788
         }
     ],
     [
         1500940800000,
         {
-            "BTC/USD actual": 2645.131443389412,
-            "ETH/USD actual": 211.17058600941178
+            "BTC/USD actual": 2685.64283272303,
+            "ETH/USD actual": 220.9904925378788
         }
     ],
     [
         1501027200000,
         {
-            "BTC/USD actual": 2678.279538421765,
-            "ETH/USD actual": 213.16863924882355
+            "BTC/USD actual": 2720.709745403333,
+            "ETH/USD actual": 223.17134563454547
         }
     ],
     [
         1501113600000,
         {
-            "BTC/USD actual": 2710.7764775664714,
-            "ETH/USD actual": 212.78721980941182
+            "BTC/USD actual": 2767.5027833760605,
+            "ETH/USD actual": 226.33244138151514
         }
     ],
     [
         1501200000000,
         {
-            "BTC/USD actual": 2769.036657680588,
-            "ETH/USD actual": 216.2301718264706
+            "BTC/USD actual": 2820.958756984242,
+            "ETH/USD actual": 229.56046514606064
         }
     ],
     [
         1501286400000,
         {
-            "BTC/USD actual": 2789.803392644706,
-            "ETH/USD actual": 218.42187876000003
+            "BTC/USD actual": 2879.860214173939,
+            "ETH/USD actual": 231.8364586348485
         }
     ],
     [
         1501372800000,
         {
-            "BTC/USD actual": 2832.9836909423525,
-            "ETH/USD actual": 221.54937756941175
+            "BTC/USD actual": 2935.13716275606,
+            "ETH/USD actual": 234.29878242909092
         }
     ],
     [
         1501459200000,
         {
-            "BTC/USD actual": 2867.443221777059,
-            "ETH/USD actual": 225.37567048
+            "BTC/USD actual": 3000.1373232739384,
+            "ETH/USD actual": 237.45001953090903
         }
     ],
     [
         1501545600000,
         {
-            "BTC/USD actual": 2902.5842389435293,
-            "ETH/USD actual": 229.27627979823524
+            "BTC/USD actual": 3069.84466516909,
+            "ETH/USD actual": 241.44625081333334
         }
     ],
     [
         1501632000000,
         {
-            "BTC/USD actual": 2942.0031679270587,
-            "ETH/USD actual": 233.54430160470588
+            "BTC/USD actual": 3135.990773488787,
+            "ETH/USD actual": 245.5970626454545
         }
     ],
     [
         1501718400000,
         {
-            "BTC/USD actual": 3006.221798887059,
-            "ETH/USD actual": 239.75830274470584
+            "BTC/USD actual": 3194.3290610599997,
+            "ETH/USD actual": 248.7074803339394
         }
     ],
     [
         1501804800000,
         {
-            "BTC/USD actual": 3085.2905906729407,
-            "ETH/USD actual": 245.93669744117645
+            "BTC/USD actual": 3247.53196433606,
+            "ETH/USD actual": 250.85897004999998
         }
     ],
     [
         1501891200000,
         {
-            "BTC/USD actual": 3167.3596575217643,
-            "ETH/USD actual": 251.4446900570588
+            "BTC/USD actual": 3300.289292337878,
+            "ETH/USD actual": 254.72258384575753
         }
     ],
     [
         1501977600000,
         {
-            "BTC/USD actual": 3258.0370284799997,
-            "ETH/USD actual": 257.7976147994118
+            "BTC/USD actual": 3337.1155552890905,
+            "ETH/USD actual": 257.3397012960606
         }
     ],
     [
         1502064000000,
         {
-            "BTC/USD actual": 3343.3868029899995,
-            "ETH/USD actual": 262.50425153764706
+            "BTC/USD actual": 3381.8866256499996,
+            "ETH/USD actual": 260.39132931090904
         }
     ],
     [
         1502150400000,
         {
-            "BTC/USD actual": 3437.9055333235287,
-            "ETH/USD actual": 268.66958714411754
+            "BTC/USD actual": 3426.760327041212,
+            "ETH/USD actual": 263.23603715515156
         }
     ],
     [
         1502236800000,
         {
-            "BTC/USD actual": 3520.701543227058,
-            "ETH/USD actual": 274.4873074511765
+            "BTC/USD actual": 3475.414720803939,
+            "ETH/USD actual": 266.3032775142425
         }
     ],
     [
         1502323200000,
         {
-            "BTC/USD actual": 3601.2895294223526,
-            "ETH/USD actual": 278.4033506923529
+            "BTC/USD actual": 3523.24460204,
+            "ETH/USD actual": 269.54238481757585
         }
     ],
     [
         1502409600000,
         {
-            "BTC/USD actual": 3686.4770041005877,
-            "ETH/USD actual": 282.82016039823526
+            "BTC/USD actual": 3577.069344499697,
+            "ETH/USD actual": 273.91827577545456
         }
     ],
     [
         1502496000000,
         {
-            "BTC/USD actual": 3761.35647319294,
-            "ETH/USD actual": 287.145833927647
+            "BTC/USD actual": 3633.3585192084847,
+            "ETH/USD actual": 278.3054276348485
         }
     ],
     [
         1502582400000,
         {
-            "BTC/USD actual": 3828.465829274117,
-            "ETH/USD actual": 293.1172381205882
+            "BTC/USD actual": 3691.6902737963637,
+            "ETH/USD actual": 283.4345869069698
         }
     ],
     [
         1502668800000,
         {
-            "BTC/USD actual": 3877.858256530588,
-            "ETH/USD actual": 296.66916440176476
+            "BTC/USD actual": 3746.0897140412126,
+            "ETH/USD actual": 289.26769598969713
         }
     ],
     [
         1502755200000,
         {
-            "BTC/USD actual": 3931.541897560588,
-            "ETH/USD actual": 299.78094981647064
+            "BTC/USD actual": 3807.328635427576,
+            "ETH/USD actual": 294.78050818636376
         }
     ],
     [
         1502841600000,
         {
-            "BTC/USD actual": 3985.882892208235,
-            "ETH/USD actual": 303.03405796176474
+            "BTC/USD actual": 3873.151650668485,
+            "ETH/USD actual": 300.7000274636365
         }
     ],
     [
         1502928000000,
         {
-            "BTC/USD actual": 4040.960254083529,
-            "ETH/USD actual": 305.0331941141177
+            "BTC/USD actual": 3925.101914511515,
+            "ETH/USD actual": 305.2526518318182
         }
     ],
     [
         1503014400000,
         {
-            "BTC/USD actual": 4099.263104564706,
-            "ETH/USD actual": 307.2419444588236
+            "BTC/USD actual": 3982.049431651515,
+            "ETH/USD actual": 309.0794136060606
         }
     ],
     [
         1503100800000,
         {
-            "BTC/USD actual": 4152.340840709412,
-            "ETH/USD actual": 310.15423532470595
+            "BTC/USD actual": 4030.1909246799996,
+            "ETH/USD actual": 311.71435071818183
         }
     ],
     [
         1503187200000,
         {
-            "BTC/USD actual": 4195.403013421765,
-            "ETH/USD actual": 312.41375151647065
+            "BTC/USD actual": 4078.8472269778786,
+            "ETH/USD actual": 314.5617153142424
         }
     ],
     [
         1503273600000,
         {
-            "BTC/USD actual": 4237.707326828824,
-            "ETH/USD actual": 316.1940328311765
+            "BTC/USD actual": 4131.781888183636,
+            "ETH/USD actual": 318.1478410745454
         }
     ],
     [
         1503360000000,
         {
-            "BTC/USD actual": 4268.058423665295,
-            "ETH/USD actual": 321.3146134547059
+            "BTC/USD actual": 4173.38512344303,
+            "ETH/USD actual": 320.63611740060605
         }
     ],
     [
         1503446400000,
         {
-            "BTC/USD actual": 4292.071500340001,
-            "ETH/USD actual": 326.56581145588234
+            "BTC/USD actual": 4206.747243753636,
+            "ETH/USD actual": 321.92148005787874
         }
     ],
     [
         1503532800000,
         {
-            "BTC/USD actual": 4336.8340744264715,
-            "ETH/USD actual": 332.75400437058823
+            "BTC/USD actual": 4234.876663903636,
+            "ETH/USD actual": 322.953571540303
         }
     ],
     [
         1503619200000,
         {
-            "BTC/USD actual": 4349.994028664706,
-            "ETH/USD actual": 335.7186292882353
+            "BTC/USD actual": 4259.658351779394,
+            "ETH/USD actual": 323.0449624630303
         }
     ],
     [
         1503705600000,
         {
-            "BTC/USD actual": 4369.743672087647,
-            "ETH/USD actual": 338.7773147617647
+            "BTC/USD actual": 4285.524957581516,
+            "ETH/USD actual": 323.12332639636355
         }
     ],
     [
         1503792000000,
         {
-            "BTC/USD actual": 4380.931736878235,
-            "ETH/USD actual": 339.5159099152941
+            "BTC/USD actual": 4307.370270040002,
+            "ETH/USD actual": 322.99039767848484
         }
     ],
     [
         1503878400000,
         {
-            "BTC/USD actual": 4395.285389909412,
-            "ETH/USD actual": 341.00333068117646
+            "BTC/USD actual": 4313.517498942121,
+            "ETH/USD actual": 321.97372167636354
         }
     ],
     [
         1503964800000,
         {
-            "BTC/USD actual": 4427.261623858823,
-            "ETH/USD actual": 343.40679297470587
+            "BTC/USD actual": 4294.426847235151,
+            "ETH/USD actual": 319.40929722696967
         }
     ],
     [
         1504051200000,
         {
-            "BTC/USD actual": 4463.869741590589,
-            "ETH/USD actual": 344.1799722564706
+            "BTC/USD actual": 4283.722838047879,
+            "ETH/USD actual": 318.2806409581817
         }
     ],
     [
         1504137600000,
         {
-            "BTC/USD actual": 4477.911964370001,
-            "ETH/USD actual": 343.7865081211765
+            "BTC/USD actual": 4264.685505730304,
+            "ETH/USD actual": 316.924767430909
         }
     ],
     [
         1504224000000,
         {
-            "BTC/USD actual": 4488.787882846471,
-            "ETH/USD actual": 342.993730132353
+            "BTC/USD actual": 4250.258497002122,
+            "ETH/USD actual": 316.0501215763636
         }
     ],
     [
         1504310400000,
         {
-            "BTC/USD actual": 4484.245269798235,
-            "ETH/USD actual": 341.4753490188236
+            "BTC/USD actual": 4242.029031763939,
+            "ETH/USD actual": 315.940050700606
         }
     ],
     [
         1504396800000,
         {
-            "BTC/USD actual": 4475.151169158825,
-            "ETH/USD actual": 339.57402174588236
+            "BTC/USD actual": 4230.714278432121,
+            "ETH/USD actual": 315.4126308233333
         }
     ],
     [
         1504483200000,
         {
-            "BTC/USD actual": 4464.129464632942,
-            "ETH/USD actual": 337.29632657
+            "BTC/USD actual": 4223.7724623563645,
+            "ETH/USD actual": 315.13286039545454
         }
     ],
     [
         1504569600000,
         {
-            "BTC/USD actual": 4435.797628098823,
-            "ETH/USD actual": 333.04240361117644
+            "BTC/USD actual": 4207.262150009091,
+            "ETH/USD actual": 314.0572352621212
         }
     ],
     [
         1504656000000,
         {
-            "BTC/USD actual": 4368.540874489411,
-            "ETH/USD actual": 325.7265619435294
+            "BTC/USD actual": 4193.514285303334,
+            "ETH/USD actual": 312.9932082818182
         }
     ],
     [
         1504742400000,
         {
-            "BTC/USD actual": 4316.599341068823,
-            "ETH/USD actual": 319.08703027411764
+            "BTC/USD actual": 4186.792913699696,
+            "ETH/USD actual": 311.8979826957576
         }
     ],
     [
         1504828800000,
         {
-            "BTC/USD actual": 4264.722977052941,
-            "ETH/USD actual": 311.4848711264706
+            "BTC/USD actual": 4173.867122755455,
+            "ETH/USD actual": 310.96118714090915
         }
     ],
     [
         1504915200000,
         {
-            "BTC/USD actual": 4203.191828399412,
-            "ETH/USD actual": 303.79232458882353
+            "BTC/USD actual": 4167.300821291819,
+            "ETH/USD actual": 310.28179538454543
         }
     ],
     [
         1505001600000,
         {
-            "BTC/USD actual": 4153.961626038235,
-            "ETH/USD actual": 298.2531616629411
+            "BTC/USD actual": 4154.134858883939,
+            "ETH/USD actual": 309.18502671424244
         }
     ],
     [
         1505088000000,
         {
-            "BTC/USD actual": 4113.949073190589,
-            "ETH/USD actual": 294.2096196111765
+            "BTC/USD actual": 4149.445178941515,
+            "ETH/USD actual": 308.5692884333333
         }
     ],
     [
         1505174400000,
         {
-            "BTC/USD actual": 4070.516589025883,
-            "ETH/USD actual": 290.15415916588233
+            "BTC/USD actual": 4144.797796096968,
+            "ETH/USD actual": 307.6525047772727
         }
     ],
     [
         1505260800000,
         {
-            "BTC/USD actual": 4030.2035003276465,
-            "ETH/USD actual": 287.36811274823526
+            "BTC/USD actual": 4139.644338538788,
+            "ETH/USD actual": 305.9702994115151
         }
     ],
     [
         1505347200000,
         {
-            "BTC/USD actual": 3983.945468765882,
-            "ETH/USD actual": 284.1010849823529
+            "BTC/USD actual": 4138.6528905193945,
+            "ETH/USD actual": 304.60670575363633
         }
     ],
     [
         1505433600000,
         {
-            "BTC/USD actual": 3935.251937628823,
-            "ETH/USD actual": 280.9851600911765
+            "BTC/USD actual": 4132.849846660302,
+            "ETH/USD actual": 302.53704453303027
         }
     ],
     [
         1505520000000,
         {
-            "BTC/USD actual": 3878.793902254706,
-            "ETH/USD actual": 277.8884174270588
+            "BTC/USD actual": 4127.405685155455,
+            "ETH/USD actual": 299.9054453972727
         }
     ],
     [
         1505606400000,
         {
-            "BTC/USD actual": 3854.9694304288237,
-            "ETH/USD actual": 277.1862678035294
+            "BTC/USD actual": 4114.643450395454,
+            "ETH/USD actual": 296.97987570909083
         }
     ],
     [
         1505692800000,
         {
-            "BTC/USD actual": 3829.1488001111757,
-            "ETH/USD actual": 276.3068827111765
+            "BTC/USD actual": 4093.333830024545,
+            "ETH/USD actual": 293.94799007121213
         }
     ],
     [
         1505779200000,
         {
-            "BTC/USD actual": 3827.0170362217646,
-            "ETH/USD actual": 276.9333562917647
+            "BTC/USD actual": 4085.2327727472725,
+            "ETH/USD actual": 292.2338633475757
         }
     ],
     [
         1505865600000,
         {
-            "BTC/USD actual": 3826.086849918235,
-            "ETH/USD actual": 277.2103495511765
+            "BTC/USD actual": 4077.8721474324243,
+            "ETH/USD actual": 290.8938040124242
         }
     ],
     [
         1505952000000,
         {
-            "BTC/USD actual": 3826.7552089717647,
-            "ETH/USD actual": 277.11522104176464
+            "BTC/USD actual": 4082.110342875757,
+            "ETH/USD actual": 291.0827769981818
         }
     ],
     [
         1506038400000,
         {
-            "BTC/USD actual": 3855.9599500129416,
-            "ETH/USD actual": 278.7013088429411
+            "BTC/USD actual": 4088.5312190036357,
+            "ETH/USD actual": 290.8106139354545
         }
     ],
     [
         1506124800000,
         {
-            "BTC/USD actual": 3924.057855124706,
-            "ETH/USD actual": 283.44201289588227
+            "BTC/USD actual": 4093.6284376536364,
+            "ETH/USD actual": 289.54344109272733
         }
     ],
     [
         1506211200000,
         {
-            "BTC/USD actual": 3964.6192445211764,
-            "ETH/USD actual": 285.64511618941174
+            "BTC/USD actual": 4098.077781281818,
+            "ETH/USD actual": 288.43554408181814
         }
     ],
     [
         1506297600000,
         {
-            "BTC/USD actual": 4000.8133929252945,
-            "ETH/USD actual": 287.8492569370587
+            "BTC/USD actual": 4113.020515401817,
+            "ETH/USD actual": 288.3162951269697
         }
     ],
     [
         1506384000000,
         {
-            "BTC/USD actual": 4032.215603234706,
-            "ETH/USD actual": 289.8498667429412
+            "BTC/USD actual": 4146.446880077878,
+            "ETH/USD actual": 288.2831301090909
         }
     ],
     [
         1506470400000,
         {
-            "BTC/USD actual": 4045.624819985294,
-            "ETH/USD actual": 289.70073619117636
+            "BTC/USD actual": 4188.5991122139385,
+            "ETH/USD actual": 289.4225594527272
         }
     ],
     [
         1506556800000,
         {
-            "BTC/USD actual": 4073.0501236764703,
-            "ETH/USD actual": 291.1819450699999
+            "BTC/USD actual": 4237.043227403637,
+            "ETH/USD actual": 290.65921222272726
         }
     ],
     [
         1506643200000,
         {
-            "BTC/USD actual": 4105.940563768823,
-            "ETH/USD actual": 292.83045390882353
+            "BTC/USD actual": 4284.22551522091,
+            "ETH/USD actual": 291.9595150972728
         }
     ],
     [
         1506729600000,
         {
-            "BTC/USD actual": 4164.807700310588,
-            "ETH/USD actual": 295.87753634117644
+            "BTC/USD actual": 4341.553295159394,
+            "ETH/USD actual": 293.73644189030307
         }
     ],
     [
         1506816000000,
         {
-            "BTC/USD actual": 4233.36556665647,
-            "ETH/USD actual": 297.88665666647057
+            "BTC/USD actual": 4413.1757717754535,
+            "ETH/USD actual": 296.5492591136364
         }
     ],
     [
         1506902400000,
         {
-            "BTC/USD actual": 4291.658013955883,
-            "ETH/USD actual": 298.6352384764706
+            "BTC/USD actual": 4469.755099918484,
+            "ETH/USD actual": 298.1966895348486
         }
     ],
     [
         1506988800000,
         {
-            "BTC/USD actual": 4359.797961859999,
-            "ETH/USD actual": 299.82877656470595
+            "BTC/USD actual": 4529.792492913334,
+            "ETH/USD actual": 299.8091325021213
         }
     ],
     [
         1507075200000,
         {
-            "BTC/USD actual": 4448.306702842942,
-            "ETH/USD actual": 300.29043871529416
+            "BTC/USD actual": 4599.324433449091,
+            "ETH/USD actual": 301.1832291718182
         }
     ],
     [
         1507161600000,
         {
-            "BTC/USD actual": 4551.146467438824,
-            "ETH/USD actual": 303.11291257
+            "BTC/USD actual": 4658.01941620485,
+            "ETH/USD actual": 301.25161038060605
         }
     ],
     [
         1507248000000,
         {
-            "BTC/USD actual": 4645.194439702941,
-            "ETH/USD actual": 304.8074032194118
+            "BTC/USD actual": 4721.581898828789,
+            "ETH/USD actual": 301.60020160939393
         }
     ],
     [
         1507334400000,
         {
-            "BTC/USD actual": 4734.783272344117,
-            "ETH/USD actual": 306.83346425
+            "BTC/USD actual": 4783.549554681819,
+            "ETH/USD actual": 301.66673350303023
         }
     ],
     [
         1507420800000,
         {
-            "BTC/USD actual": 4827.7385438917645,
-            "ETH/USD actual": 309.2943272464706
+            "BTC/USD actual": 4842.283660808183,
+            "ETH/USD actual": 302.84790250545456
         }
     ],
     [
         1507507200000,
         {
-            "BTC/USD actual": 4901.438232221764,
-            "ETH/USD actual": 310.0856361129412
+            "BTC/USD actual": 4906.302969343031,
+            "ETH/USD actual": 303.85602457484845
         }
     ],
     [
         1507593600000,
         {
-            "BTC/USD actual": 4970.591891511176,
-            "ETH/USD actual": 310.661635277647
+            "BTC/USD actual": 4969.705901400001,
+            "ETH/USD actual": 304.15334241242425
         }
     ],
     [
         1507680000000,
         {
-            "BTC/USD actual": 5045.826780347648,
-            "ETH/USD actual": 311.2979108005882
+            "BTC/USD actual": 5034.114956075758,
+            "ETH/USD actual": 304.58045244606063
         }
     ],
     [
         1507766400000,
         {
-            "BTC/USD actual": 5144.043148444705,
-            "ETH/USD actual": 311.9517754282353
+            "BTC/USD actual": 5089.385992899394,
+            "ETH/USD actual": 304.55677309606057
         }
     ],
     [
         1507852800000,
         {
-            "BTC/USD actual": 5250.1159992117655,
-            "ETH/USD actual": 312.43077755764705
+            "BTC/USD actual": 5157.22545343909,
+            "ETH/USD actual": 305.01627956303025
         }
     ],
     [
         1507939200000,
         {
-            "BTC/USD actual": 5349.215023819412,
-            "ETH/USD actual": 312.39133506058823
+            "BTC/USD actual": 5215.372547272121,
+            "ETH/USD actual": 304.9250497454545
         }
     ],
     [
         1508025600000,
         {
-            "BTC/USD actual": 5440.3609678041175,
-            "ETH/USD actual": 311.066316412353
+            "BTC/USD actual": 5283.614649277272,
+            "ETH/USD actual": 304.9582810696969
         }
     ],
     [
         1508112000000,
         {
-            "BTC/USD actual": 5505.834058667059,
-            "ETH/USD actual": 310.20629755647064
+            "BTC/USD actual": 5361.6449580339395,
+            "ETH/USD actual": 304.8750748233333
         }
     ],
     [
         1508198400000,
         {
-            "BTC/USD actual": 5571.38474883647,
-            "ETH/USD actual": 309.4245291647059
+            "BTC/USD actual": 5442.57012035909,
+            "ETH/USD actual": 304.34278130151506
         }
     ],
     [
         1508284800000,
         {
-            "BTC/USD actual": 5635.872896665882,
-            "ETH/USD actual": 309.34555677058825
+            "BTC/USD actual": 5525.613017157878,
+            "ETH/USD actual": 304.347585320909
         }
     ],
     [
         1508371200000,
         {
-            "BTC/USD actual": 5695.807241560588,
-            "ETH/USD actual": 309.22853366352933
+            "BTC/USD actual": 5615.797540295758,
+            "ETH/USD actual": 304.4559351787878
         }
     ],
     [
         1508457600000,
         {
-            "BTC/USD actual": 5750.267122041764,
-            "ETH/USD actual": 308.71190150823526
+            "BTC/USD actual": 5708.727851543939,
+            "ETH/USD actual": 304.5821623948484
         }
     ],
     [
         1508544000000,
         {
-            "BTC/USD actual": 5791.248383694706,
-            "ETH/USD actual": 308.7888787099999
+            "BTC/USD actual": 5792.246970455454,
+            "ETH/USD actual": 304.7514706387879
         }
     ],
     [
         1508630400000,
         {
-            "BTC/USD actual": 5820.165468981764,
-            "ETH/USD actual": 307.02642568352934
+            "BTC/USD actual": 5876.936457266061,
+            "ETH/USD actual": 304.66420608696967
         }
     ],
     [
         1508716800000,
         {
-            "BTC/USD actual": 5857.666668849411,
-            "ETH/USD actual": 304.96736554823525
+            "BTC/USD actual": 5970.412748457274,
+            "ETH/USD actual": 304.6522755857576
         }
     ],
     [
         1508803200000,
         {
-            "BTC/USD actual": 5918.216480314705,
-            "ETH/USD actual": 302.1866016864706
+            "BTC/USD actual": 6052.636613515153,
+            "ETH/USD actual": 304.9155647860606
         }
     ],
     [
         1508889600000,
         {
-            "BTC/USD actual": 5993.227904812353,
-            "ETH/USD actual": 299.2900853470588
+            "BTC/USD actual": 6111.941444802425,
+            "ETH/USD actual": 304.5393296390909
         }
     ],
     [
         1508976000000,
         {
-            "BTC/USD actual": 6083.494860867058,
-            "ETH/USD actual": 298.57994023941177
+            "BTC/USD actual": 6158.868193272427,
+            "ETH/USD actual": 305.04239936939393
         }
     ],
     [
         1509062400000,
         {
-            "BTC/USD actual": 6189.289864077059,
-            "ETH/USD actual": 297.7954165570588
+            "BTC/USD actual": 6191.251883906364,
+            "ETH/USD actual": 305.2367355760606
         }
     ],
     [
         1509148800000,
         {
-            "BTC/USD actual": 6289.334971443529,
-            "ETH/USD actual": 297.1145502582353
+            "BTC/USD actual": 6241.71768154697,
+            "ETH/USD actual": 305.55752604121216
         }
     ],
     [
         1509235200000,
         {
-            "BTC/USD actual": 6347.888763305883,
-            "ETH/USD actual": 296.77645312000004
+            "BTC/USD actual": 6277.258248365152,
+            "ETH/USD actual": 306.52465365999996
         }
     ],
     [
         1509321600000,
         {
-            "BTC/USD actual": 6411.757899692353,
-            "ETH/USD actual": 296.32518667999994
+            "BTC/USD actual": 6326.912461642727,
+            "ETH/USD actual": 306.3490193318182
         }
     ],
     [
         1509408000000,
         {
-            "BTC/USD actual": 6497.25118472,
-            "ETH/USD actual": 297.10655925941177
+            "BTC/USD actual": 6388.795718428485,
+            "ETH/USD actual": 306.09687107393944
         }
     ],
     [
         1509494400000,
         {
-            "BTC/USD actual": 6569.462501504118,
-            "ETH/USD actual": 299.13700875235287
+            "BTC/USD actual": 6448.63662310212,
+            "ETH/USD actual": 305.9273258542425
         }
     ],
     [
         1509580800000,
         {
-            "BTC/USD actual": 6629.437516299413,
-            "ETH/USD actual": 299.16089489470585
+            "BTC/USD actual": 6510.061877363636,
+            "ETH/USD actual": 306.2993185960606
         }
     ],
     [
         1509667200000,
         {
-            "BTC/USD actual": 6664.815707225295,
-            "ETH/USD actual": 300.1896195029412
+            "BTC/USD actual": 6583.838255383938,
+            "ETH/USD actual": 307.45992125636354
         }
     ],
     [
         1509753600000,
         {
-            "BTC/USD actual": 6662.894332938824,
-            "ETH/USD actual": 300.7382957941176
+            "BTC/USD actual": 6664.794985317271,
+            "ETH/USD actual": 309.1049460981818
         }
     ],
     [
         1509840000000,
         {
-            "BTC/USD actual": 6703.967958362941,
-            "ETH/USD actual": 301.72544883764704
+            "BTC/USD actual": 6738.365498876362,
+            "ETH/USD actual": 310.71297194939393
         }
     ],
     [
         1509926400000,
         {
-            "BTC/USD actual": 6754.176375217648,
-            "ETH/USD actual": 304.1104421629411
+            "BTC/USD actual": 6806.688054323332,
+            "ETH/USD actual": 313.0752485154544
         }
     ],
     [
         1510012800000,
         {
-            "BTC/USD actual": 6821.715365716471,
-            "ETH/USD actual": 305.6999956505882
+            "BTC/USD actual": 6866.611574710303,
+            "ETH/USD actual": 316.2942408309091
         }
     ],
     [
         1510099200000,
         {
-            "BTC/USD actual": 6923.015889594705,
-            "ETH/USD actual": 307.08211521
+            "BTC/USD actual": 6933.210436812726,
+            "ETH/USD actual": 321.6146947890909
         }
     ],
     [
         1510185600000,
         {
-            "BTC/USD actual": 6996.296515651176,
-            "ETH/USD actual": 308.7145511847059
+            "BTC/USD actual": 7019.237720938786,
+            "ETH/USD actual": 327.06125941272734
         }
     ],
     [
         1510272000000,
         {
-            "BTC/USD actual": 7057.018446120001,
-            "ETH/USD actual": 312.0590357464705
+            "BTC/USD actual": 7133.602030263937,
+            "ETH/USD actual": 332.34842360363643
         }
     ],
     [
         1510358400000,
         {
-            "BTC/USD actual": 7116.841082564118,
-            "ETH/USD actual": 316.1365548488235
+            "BTC/USD actual": 7254.837327466059,
+            "ETH/USD actual": 337.7665722493939
         }
     ],
     [
         1510444800000,
         {
-            "BTC/USD actual": 7181.945123820588,
-            "ETH/USD actual": 319.89651208058825
+            "BTC/USD actual": 7377.048306569696,
+            "ETH/USD actual": 342.95198611484847
         }
     ],
     [
         1510531200000,
         {
-            "BTC/USD actual": 7224.929288180589,
-            "ETH/USD actual": 323.4439233552941
+            "BTC/USD actual": 7499.169005712422,
+            "ETH/USD actual": 346.8837263984849
         }
     ],
     [
         1510617600000,
         {
-            "BTC/USD actual": 7275.377659722353,
-            "ETH/USD actual": 328.43835436823525
+            "BTC/USD actual": 7625.4492065684835,
+            "ETH/USD actual": 351.10084526787887
         }
     ],
     [
         1510704000000,
         {
-            "BTC/USD actual": 7335.647289824118,
-            "ETH/USD actual": 334.83733146000003
+            "BTC/USD actual": 7768.722812316969,
+            "ETH/USD actual": 355.8739290657576
         }
     ],
     [
         1510790400000,
         {
-            "BTC/USD actual": 7399.6292194100015,
-            "ETH/USD actual": 345.29522489411767
+            "BTC/USD actual": 7913.451935987574,
+            "ETH/USD actual": 360.44082584333336
         }
     ],
     [
         1510876800000,
         {
-            "BTC/USD actual": 7476.315326150589,
-            "ETH/USD actual": 354.5661085470589
+            "BTC/USD actual": 8057.524537106969,
+            "ETH/USD actual": 365.2350088369697
         }
     ],
     [
         1510963200000,
         {
-            "BTC/USD actual": 7604.178691179412,
-            "ETH/USD actual": 363.45831761411773
+            "BTC/USD actual": 8204.033295630605,
+            "ETH/USD actual": 370.5861840384849
         }
     ],
     [
         1511049600000,
         {
-            "BTC/USD actual": 7789.947344595294,
-            "ETH/USD actual": 373.924470702353
+            "BTC/USD actual": 8343.88799316909,
+            "ETH/USD actual": 375.72851235181815
         }
     ],
     [
         1511136000000,
         {
-            "BTC/USD actual": 8000.5754695370615,
-            "ETH/USD actual": 382.9347545705882
+            "BTC/USD actual": 8543.322230659696,
+            "ETH/USD actual": 379.31216829666664
         }
     ],
     [
         1511222400000,
         {
-            "BTC/USD actual": 8234.705183889999,
-            "ETH/USD actual": 390.0726923188235
+            "BTC/USD actual": 8830.239525600304,
+            "ETH/USD actual": 383.0421205484848
         }
     ],
     [
         1511308800000,
         {
-            "BTC/USD actual": 8436.334200024707,
-            "ETH/USD actual": 397.1195211835294
+            "BTC/USD actual": 9110.108930977878,
+            "ETH/USD actual": 387.8103039148484
         }
     ],
     [
         1511395200000,
         {
-            "BTC/USD actual": 8686.444301954118,
-            "ETH/USD actual": 404.5845309682352
+            "BTC/USD actual": 9370.821066229697,
+            "ETH/USD actual": 393.1838609587878
         }
     ],
     [
         1511481600000,
         {
-            "BTC/USD actual": 8899.91856623941,
-            "ETH/USD actual": 412.02816773529406
+            "BTC/USD actual": 9613.590343306969,
+            "ETH/USD actual": 397.61931843636364
         }
     ],
     [
         1511568000000,
         {
-            "BTC/USD actual": 9096.963787460589,
-            "ETH/USD actual": 419.76492708823525
+            "BTC/USD actual": 9893.3848641903,
+            "ETH/USD actual": 403.89473775333335
         }
     ],
     [
         1511654400000,
         {
-            "BTC/USD actual": 9325.751197575883,
-            "ETH/USD actual": 427.70085580882346
+            "BTC/USD actual": 10200.597681936362,
+            "ETH/USD actual": 414.2647520651516
         }
     ],
     [
         1511740800000,
         {
-            "BTC/USD actual": 9553.008011964117,
-            "ETH/USD actual": 434.064402637647
+            "BTC/USD actual": 10497.491658457875,
+            "ETH/USD actual": 426.50458232909097
         }
     ],
     [
         1511827200000,
         {
-            "BTC/USD actual": 9887.199048167058,
-            "ETH/USD actual": 438.05783155294114
+            "BTC/USD actual": 10806.289192882727,
+            "ETH/USD actual": 438.05852352454554
         }
     ],
     [
         1511913600000,
         {
-            "BTC/USD actual": 10392.799854038236,
-            "ETH/USD actual": 441.32051990176456
+            "BTC/USD actual": 11163.361551629998,
+            "ETH/USD actual": 449.5891329921212
         }
     ],
     [
         1512000000000,
         {
-            "BTC/USD actual": 10893.307516111177,
-            "ETH/USD actual": 446.77407701470577
+            "BTC/USD actual": 11553.121380003031,
+            "ETH/USD actual": 461.11039650939404
         }
     ],
     [
         1512086400000,
         {
-            "BTC/USD actual": 11325.32343347706,
-            "ETH/USD actual": 452.2814066864705
+            "BTC/USD actual": 11931.832488277272,
+            "ETH/USD actual": 472.767862149394
         }
     ],
     [
         1512172800000,
         {
-            "BTC/USD actual": 11744.12845049765,
-            "ETH/USD actual": 454.19151379647053
+            "BTC/USD actual": 12286.44911769606,
+            "ETH/USD actual": 486.52257131393947
         }
     ],
     [
         1512259200000,
         {
-            "BTC/USD actual": 12243.472131982355,
-            "ETH/USD actual": 456.82664266058816
+            "BTC/USD actual": 12580.625240771818,
+            "ETH/USD actual": 501.14533580878793
         }
     ],
     [
         1512345600000,
         {
-            "BTC/USD actual": 12745.04360226412,
-            "ETH/USD actual": 468.4143768423529
+            "BTC/USD actual": 12847.181976047274,
+            "ETH/USD actual": 515.3277632963636
         }
     ],
     [
         1512432000000,
         {
-            "BTC/USD actual": 13159.340912205294,
-            "ETH/USD actual": 481.9346147735294
+            "BTC/USD actual": 13087.408010343335,
+            "ETH/USD actual": 528.8322830084849
         }
     ],
     [
         1512518400000,
         {
-            "BTC/USD actual": 13558.810504798821,
-            "ETH/USD actual": 494.8739955076471
+            "BTC/USD actual": 13257.052308233639,
+            "ETH/USD actual": 538.0545654612122
         }
     ],
     [
         1512604800000,
         {
-            "BTC/USD actual": 14012.796514526468,
-            "ETH/USD actual": 507.7398162029412
+            "BTC/USD actual": 13448.448579564545,
+            "ETH/USD actual": 548.4318747924242
         }
     ],
     [
         1512691200000,
         {
-            "BTC/USD actual": 14573.404920221177,
-            "ETH/USD actual": 523.4595731705883
+            "BTC/USD actual": 13618.869979693636,
+            "ETH/USD actual": 558.5596885927273
         }
     ],
     [
         1512777600000,
         {
-            "BTC/USD actual": 15113.626275005296,
-            "ETH/USD actual": 540.28759258
+            "BTC/USD actual": 13787.797099321517,
+            "ETH/USD actual": 569.2905759727273
         }
     ],
     [
         1512864000000,
         {
-            "BTC/USD actual": 15591.41937027588,
-            "ETH/USD actual": 559.3120658970588
+            "BTC/USD actual": 14020.952789701212,
+            "ETH/USD actual": 579.7867494369698
         }
     ],
     [
         1512950400000,
         {
-            "BTC/USD actual": 15982.82289299941,
-            "ETH/USD actual": 580.2143992605883
+            "BTC/USD actual": 14239.232170377272,
+            "ETH/USD actual": 587.9221605666667
         }
     ],
     [
         1513036800000,
         {
-            "BTC/USD actual": 16293.866838299999,
-            "ETH/USD actual": 600.0710745470589
+            "BTC/USD actual": 14410.22216148485,
+            "ETH/USD actual": 595.5124151621214
         }
     ],
     [
         1513123200000,
         {
-            "BTC/USD actual": 16536.510539385294,
-            "ETH/USD actual": 619.2426396294118
+            "BTC/USD actual": 14564.437829806668,
+            "ETH/USD actual": 603.6562766354548
         }
     ],
     [
         1513209600000,
         {
-            "BTC/USD actual": 16654.160047100588,
-            "ETH/USD actual": 631.2400697082353
+            "BTC/USD actual": 14650.20553858212,
+            "ETH/USD actual": 610.2608540027275
         }
     ],
     [
         1513296000000,
         {
-            "BTC/USD actual": 16703.66097757647,
-            "ETH/USD actual": 648.1877070429412
+            "BTC/USD actual": 14768.02337304606,
+            "ETH/USD actual": 618.4286350396972
         }
     ],
     [
         1513382400000,
         {
-            "BTC/USD actual": 16520.506052008233,
-            "ETH/USD actual": 664.154496617647
+            "BTC/USD actual": 14878.004721641213,
+            "ETH/USD actual": 628.3726929866668
         }
     ],
     [
         1513468800000,
         {
-            "BTC/USD actual": 16355.595868859413,
-            "ETH/USD actual": 680.7235883629412
+            "BTC/USD actual": 15024.366559030606,
+            "ETH/USD actual": 641.3388060566667
         }
     ],
     [
         1513555200000,
         {
-            "BTC/USD actual": 16362.373576562355,
-            "ETH/USD actual": 697.0664679176471
+            "BTC/USD actual": 15154.28635827909,
+            "ETH/USD actual": 655.8327425112122
         }
     ],
     [
         1513641600000,
         {
-            "BTC/USD actual": 16378.81629548706,
-            "ETH/USD actual": 714.7066243235294
+            "BTC/USD actual": 15283.61975701303,
+            "ETH/USD actual": 670.7169103042424
         }
     ],
     [
         1513728000000,
         {
-            "BTC/USD actual": 16244.29360913353,
-            "ETH/USD actual": 726.5298352817647
+            "BTC/USD actual": 15456.98681547394,
+            "ETH/USD actual": 686.085367971212
         }
     ],
     [
         1513814400000,
         {
-            "BTC/USD actual": 16075.162507632942,
-            "ETH/USD actual": 731.1006888388235
+            "BTC/USD actual": 15626.12023990303,
+            "ETH/USD actual": 702.4263901836364
         }
     ],
     [
         1513900800000,
         {
-            "BTC/USD actual": 15851.097817777058,
-            "ETH/USD actual": 730.6278215982353
+            "BTC/USD actual": 15770.096072944549,
+            "ETH/USD actual": 722.503159457879
         }
     ],
     [
         1513987200000,
         {
-            "BTC/USD actual": 15691.000642794708,
-            "ETH/USD actual": 733.0649710411764
+            "BTC/USD actual": 15812.04435749394,
+            "ETH/USD actual": 744.1474077624243
         }
     ],
     [
         1514073600000,
         {
-            "BTC/USD actual": 15445.48310214647,
-            "ETH/USD actual": 737.1231323082352
+            "BTC/USD actual": 15741.955135505152,
+            "ETH/USD actual": 770.3949188175759
         }
     ],
     [
         1514160000000,
         {
-            "BTC/USD actual": 15174.633665195297,
-            "ETH/USD actual": 746.9746691282353
+            "BTC/USD actual": 15690.679295004544,
+            "ETH/USD actual": 794.4938261930303
         }
     ],
     [
         1514246400000,
         {
-            "BTC/USD actual": 14941.795931957064,
-            "ETH/USD actual": 759.9457693176472
+            "BTC/USD actual": 15622.304372869698,
+            "ETH/USD actual": 814.6026340548486
         }
     ],
     [
         1514332800000,
         {
-            "BTC/USD actual": 14717.955689618824,
-            "ETH/USD actual": 769.5818845988236
+            "BTC/USD actual": 15585.122682107876,
+            "ETH/USD actual": 839.4262717193942
         }
     ],
     [
         1514419200000,
         {
-            "BTC/USD actual": 14680.489197175884,
-            "ETH/USD actual": 778.7661659917649
+            "BTC/USD actual": 15511.073851410607,
+            "ETH/USD actual": 865.7582879906062
         }
     ],
     [
         1514505600000,
         {
-            "BTC/USD actual": 14720.160768589412,
-            "ETH/USD actual": 790.8923080017647
+            "BTC/USD actual": 15400.397629093031,
+            "ETH/USD actual": 887.0526645345458
         }
     ],
     [
         1514592000000,
         {
-            "BTC/USD actual": 14760.578957013531,
-            "ETH/USD actual": 810.0137510394119
+            "BTC/USD actual": 15317.993042558483,
+            "ETH/USD actual": 904.6124095651519
         }
     ],
     [
         1514678400000,
         {
-            "BTC/USD actual": 14846.889496731177,
-            "ETH/USD actual": 838.120407784706
+            "BTC/USD actual": 15158.894876136665,
+            "ETH/USD actual": 916.2272899072731
         }
     ],
     [
         1514764800000,
         {
-            "BTC/USD actual": 14844.90081557,
-            "ETH/USD actual": 872.1899583035294
+            "BTC/USD actual": 14963.999922554241,
+            "ETH/USD actual": 926.6201983790912
         }
     ],
     [
         1514851200000,
         {
-            "BTC/USD actual": 14915.055010538234,
-            "ETH/USD actual": 904.7638735329413
+            "BTC/USD actual": 14715.634188498789,
+            "ETH/USD actual": 936.6747895251519
         }
     ],
     [
         1514937600000,
         {
-            "BTC/USD actual": 14886.425788011766,
-            "ETH/USD actual": 928.4754017870589
+            "BTC/USD actual": 14485.229455050303,
+            "ETH/USD actual": 946.3398092500004
         }
     ],
     [
         1515024000000,
         {
-            "BTC/USD actual": 14780.458241639999,
-            "ETH/USD actual": 958.1976452858825
+            "BTC/USD actual": 14296.223140470605,
+            "ETH/USD actual": 957.3527279839396
         }
     ],
     [
         1515110400000,
         {
-            "BTC/USD actual": 14712.341277517648,
-            "ETH/USD actual": 996.1555958952941
+            "BTC/USD actual": 14113.871623336365,
+            "ETH/USD actual": 964.472207925758
         }
     ],
     [
         1515196800000,
         {
-            "BTC/USD actual": 14667.148921738824,
-            "ETH/USD actual": 1034.3454491535294
+            "BTC/USD actual": 13941.179881004542,
+            "ETH/USD actual": 970.5118555215156
         }
     ],
     [
         1515283200000,
         {
-            "BTC/USD actual": 14622.124560488233,
-            "ETH/USD actual": 1066.1435786958825
+            "BTC/USD actual": 13793.184343822728,
+            "ETH/USD actual": 976.3125963387882
         }
     ],
     [
         1515369600000,
         {
-            "BTC/USD actual": 14546.266277698822,
-            "ETH/USD actual": 1088.8088416752944
+            "BTC/USD actual": 13724.744012464851,
+            "ETH/USD actual": 988.467294537273
         }
     ],
     [
         1515456000000,
         {
-            "BTC/USD actual": 14393.221581218822,
-            "ETH/USD actual": 1105.9940273911766
+            "BTC/USD actual": 13621.221551026667,
+            "ETH/USD actual": 998.5923060609092
         }
     ],
     [
         1515542400000,
         {
-            "BTC/USD actual": 14258.215061768235,
-            "ETH/USD actual": 1121.9283488041178
+            "BTC/USD actual": 13540.910419739695,
+            "ETH/USD actual": 1009.2737795054545
         }
     ],
     [
         1515628800000,
         {
-            "BTC/USD actual": 14067.066014337646,
-            "ETH/USD actual": 1132.348363484706
+            "BTC/USD actual": 13467.6060294597,
+            "ETH/USD actual": 1020.5108639048485
         }
     ],
     [
         1515715200000,
         {
-            "BTC/USD actual": 13925.767241588825,
-            "ETH/USD actual": 1144.6155671088236
+            "BTC/USD actual": 13346.979351336062,
+            "ETH/USD actual": 1034.9487525072727
         }
     ],
     [
         1515801600000,
         {
-            "BTC/USD actual": 13712.135339391765,
-            "ETH/USD actual": 1150.445271114118
+            "BTC/USD actual": 13219.875516266668,
+            "ETH/USD actual": 1047.9667387309091
         }
     ],
     [
         1515888000000,
         {
-            "BTC/USD actual": 13351.418083153529,
-            "ETH/USD actual": 1152.1930797917648
+            "BTC/USD actual": 13089.924475108182,
+            "ETH/USD actual": 1058.4891060869697
         }
     ],
     [
         1515974400000,
         {
-            "BTC/USD actual": 12978.458505818235,
-            "ETH/USD actual": 1150.9040986364705
+            "BTC/USD actual": 12962.291236146668,
+            "ETH/USD actual": 1069.6684205345455
         }
     ],
     [
         1516060800000,
         {
-            "BTC/USD actual": 12683.770753228824,
-            "ETH/USD actual": 1147.5233907447057
+            "BTC/USD actual": 12858.660060006361,
+            "ETH/USD actual": 1079.713917600303
         }
     ],
     [
         1516147200000,
         {
-            "BTC/USD actual": 12450.887294434706,
-            "ETH/USD actual": 1142.1101566811762
+            "BTC/USD actual": 12709.101481378788,
+            "ETH/USD actual": 1085.1605819875758
         }
     ],
     [
         1516233600000,
         {
-            "BTC/USD actual": 12247.889839052354,
-            "ETH/USD actual": 1127.8605203058821
+            "BTC/USD actual": 12580.468053543938,
+            "ETH/USD actual": 1091.6920587654545
         }
     ],
     [
         1516320000000,
         {
-            "BTC/USD actual": 12040.218353390588,
-            "ETH/USD actual": 1119.4625439211763
+            "BTC/USD actual": 12381.800131175758,
+            "ETH/USD actual": 1090.606359104848
         }
     ],
     [
         1516406400000,
         {
-            "BTC/USD actual": 11945.566181821177,
-            "ETH/USD actual": 1124.7971684429413
+            "BTC/USD actual": 12133.120400582122,
+            "ETH/USD actual": 1083.173825374545
         }
     ],
     [
         1516492800000,
         {
-            "BTC/USD actual": 11787.454150031177,
-            "ETH/USD actual": 1119.5204720517647
+            "BTC/USD actual": 11906.021159654547,
+            "ETH/USD actual": 1078.164160165454
         }
     ],
     [
         1516579200000,
         {
-            "BTC/USD actual": 11544.415408076471,
-            "ETH/USD actual": 1100.654364527647
+            "BTC/USD actual": 11623.278005793332,
+            "ETH/USD actual": 1071.5671337775757
         }
     ],
     [
         1516665600000,
         {
-            "BTC/USD actual": 11342.367744855293,
-            "ETH/USD actual": 1085.5900975447057
+            "BTC/USD actual": 11352.526667269092,
+            "ETH/USD actual": 1065.7167777724242
         }
     ],
     [
         1516752000000,
         {
-            "BTC/USD actual": 11077.09849870588,
-            "ETH/USD actual": 1070.5307489605882
+            "BTC/USD actual": 11118.685372496058,
+            "ETH/USD actual": 1058.4509308960605
         }
     ],
     [
         1516838400000,
         {
-            "BTC/USD actual": 10935.519347088824,
-            "ETH/USD actual": 1060.9943027264706
+            "BTC/USD actual": 10920.377637148484,
+            "ETH/USD actual": 1049.7819625000002
         }
     ],
     [
         1516924800000,
         {
-            "BTC/USD actual": 10818.627121127058,
-            "ETH/USD actual": 1057.5567436464707
+            "BTC/USD actual": 10724.932778651513,
+            "ETH/USD actual": 1035.2753640754545
         }
     ],
     [
         1517011200000,
         {
-            "BTC/USD actual": 10644.24990686294,
-            "ETH/USD actual": 1045.7830100770589
+            "BTC/USD actual": 10541.958309782727,
+            "ETH/USD actual": 1023.6619776163634
         }
     ],
     [
         1517097600000,
         {
-            "BTC/USD actual": 10375.93717916647,
-            "ETH/USD actual": 1025.5647417947057
+            "BTC/USD actual": 10397.248224904848,
+            "ETH/USD actual": 1014.631378512424
         }
     ],
     [
         1517184000000,
         {
-            "BTC/USD actual": 10078.151844505883,
-            "ETH/USD actual": 1004.098194127647
+            "BTC/USD actual": 10262.620574794546,
+            "ETH/USD actual": 1004.3942104357575
         }
     ],
     [
         1517270400000,
         {
-            "BTC/USD actual": 9845.807469004707,
-            "ETH/USD actual": 986.6563161747061
+            "BTC/USD actual": 10134.42365867818,
+            "ETH/USD actual": 990.5604332233332
         }
     ],
     [
         1517356800000,
         {
-            "BTC/USD actual": 9695.12805957412,
-            "ETH/USD actual": 975.7018629594116
+            "BTC/USD actual": 10029.539611500908,
+            "ETH/USD actual": 977.6032890954544
         }
     ],
     [
         1517443200000,
         {
-            "BTC/USD actual": 9568.904483261766,
-            "ETH/USD actual": 969.4587534152942
+            "BTC/USD actual": 9952.037550721516,
+            "ETH/USD actual": 968.3275333675756
         }
     ],
     [
         1517529600000,
         {
-            "BTC/USD actual": 9403.119474058234,
-            "ETH/USD actual": 957.1429985358824
+            "BTC/USD actual": 9926.118432757272,
+            "ETH/USD actual": 963.3337294745453
         }
     ],
     [
         1517616000000,
         {
-            "BTC/USD actual": 9222.693198606472,
-            "ETH/USD actual": 943.3982473905882
+            "BTC/USD actual": 9924.74550311606,
+            "ETH/USD actual": 960.6232117999999
         }
     ],
     [
         1517702400000,
         {
-            "BTC/USD actual": 9093.559738268825,
-            "ETH/USD actual": 932.6939051599999
+            "BTC/USD actual": 9926.82404350182,
+            "ETH/USD actual": 956.3470889721212
         }
     ],
     [
         1517788800000,
         {
-            "BTC/USD actual": 8926.319461522942,
-            "ETH/USD actual": 917.0622830841176
+            "BTC/USD actual": 9895.583611250911,
+            "ETH/USD actual": 950.3133141684847
         }
     ],
     [
         1517875200000,
         {
-            "BTC/USD actual": 8793.173557765294,
-            "ETH/USD actual": 898.8858871470588
+            "BTC/USD actual": 9807.651350539396,
+            "ETH/USD actual": 939.8843241842424
         }
     ],
     [
         1517961600000,
         {
-            "BTC/USD actual": 8722.934730434119,
-            "ETH/USD actual": 884.7198263805883
+            "BTC/USD actual": 9765.454927170003,
+            "ETH/USD actual": 933.9984087690908
         }
     ],
     [
         1518048000000,
         {
-            "BTC/USD actual": 8726.40183356,
-            "ETH/USD actual": 877.3318044052943
+            "BTC/USD actual": 9731.980158899092,
+            "ETH/USD actual": 928.9542106878786
         }
     ],
     [
         1518134400000,
         {
-            "BTC/USD actual": 8778.690935839411,
-            "ETH/USD actual": 869.4230330188236
+            "BTC/USD actual": 9694.728162240606,
+            "ETH/USD actual": 924.5929698966667
         }
     ],
     [
         1518220800000,
         {
-            "BTC/USD actual": 8853.685471862354,
-            "ETH/USD actual": 862.8943588429412
+            "BTC/USD actual": 9662.035410423332,
+            "ETH/USD actual": 918.7527576424242
         }
     ],
     [
         1518307200000,
         {
-            "BTC/USD actual": 8988.29527047353,
-            "ETH/USD actual": 864.2450146741178
+            "BTC/USD actual": 9644.585805306968,
+            "ETH/USD actual": 913.5064809412123
         }
     ],
     [
         1518393600000,
         {
-            "BTC/USD actual": 9107.02374815706,
-            "ETH/USD actual": 859.1998780288237
+            "BTC/USD actual": 9621.420826034546,
+            "ETH/USD actual": 907.5460866712123
         }
     ],
     [
         1518480000000,
         {
-            "BTC/USD actual": 9240.881005071766,
-            "ETH/USD actual": 860.0148056670589
+            "BTC/USD actual": 9606.536855760605,
+            "ETH/USD actual": 900.3728871790909
         }
     ],
     [
         1518566400000,
         {
-            "BTC/USD actual": 9411.621438564705,
-            "ETH/USD actual": 866.4653589158826
+            "BTC/USD actual": 9585.474915264545,
+            "ETH/USD actual": 889.0354599927273
         }
     ],
     [
         1518652800000,
         {
-            "BTC/USD actual": 9556.91853515706,
-            "ETH/USD actual": 870.5941066388236
+            "BTC/USD actual": 9592.690208676971,
+            "ETH/USD actual": 879.5433101412121
         }
     ],
     [
         1518739200000,
         {
-            "BTC/USD actual": 9680.075203888237,
-            "ETH/USD actual": 875.3562290882353
+            "BTC/USD actual": 9634.647764162422,
+            "ETH/USD actual": 873.518840742121
         }
     ],
     [
         1518825600000,
         {
-            "BTC/USD actual": 9760.379054880588,
-            "ETH/USD actual": 876.9578833482354
+            "BTC/USD actual": 9671.192094290907,
+            "ETH/USD actual": 865.637032920909
         }
     ],
     [
         1518912000000,
         {
-            "BTC/USD actual": 9856.15612097,
-            "ETH/USD actual": 876.3445838405883
+            "BTC/USD actual": 9719.326335172727,
+            "ETH/USD actual": 859.2859703893938
         }
     ],
     [
         1518998400000,
         {
-            "BTC/USD actual": 9974.350209095293,
-            "ETH/USD actual": 877.5753983611766
+            "BTC/USD actual": 9751.467619608484,
+            "ETH/USD actual": 854.2573556684848
         }
     ],
     [
         1519084800000,
         {
-            "BTC/USD actual": 10105.778401619411,
-            "ETH/USD actual": 879.9154524035295
+            "BTC/USD actual": 9754.68954467788,
+            "ETH/USD actual": 846.0183294566667
         }
     ],
     [
         1519171200000,
         {
-            "BTC/USD actual": 10224.400236759411,
-            "ETH/USD actual": 880.1366624841176
+            "BTC/USD actual": 9786.373330457274,
+            "ETH/USD actual": 843.0130273957576
         }
     ],
     [
         1519257600000,
         {
-            "BTC/USD actual": 10369.770933695881,
-            "ETH/USD actual": 880.9933266105882
+            "BTC/USD actual": 9842.573495713637,
+            "ETH/USD actual": 842.6098753154546
         }
     ],
     [
         1519344000000,
         {
-            "BTC/USD actual": 10487.001086391176,
-            "ETH/USD actual": 877.1628420682352
+            "BTC/USD actual": 9898.545168049093,
+            "ETH/USD actual": 840.6804344842425
         }
     ],
     [
         1519430400000,
         {
-            "BTC/USD actual": 10574.262201075295,
-            "ETH/USD actual": 873.4559791229411
+            "BTC/USD actual": 9945.261408763336,
+            "ETH/USD actual": 839.0164240778788
         }
     ],
     [
         1519516800000,
         {
-            "BTC/USD actual": 10646.75197615353,
-            "ETH/USD actual": 868.2438355588234
+            "BTC/USD actual": 9972.971161230911,
+            "ETH/USD actual": 835.2731610787879
         }
     ],
     [
         1519603200000,
         {
-            "BTC/USD actual": 10625.364962640588,
-            "ETH/USD actual": 858.8618325911765
+            "BTC/USD actual": 9958.773148294244,
+            "ETH/USD actual": 827.273871049091
         }
     ],
     [
         1519689600000,
         {
-            "BTC/USD actual": 10596.491298035295,
-            "ETH/USD actual": 849.2578123970588
+            "BTC/USD actual": 9949.440300452728,
+            "ETH/USD actual": 820.0023998039395
         }
     ],
     [
         1519776000000,
         {
-            "BTC/USD actual": 10488.51849592353,
-            "ETH/USD actual": 835.0884426270588
+            "BTC/USD actual": 9954.820450628487,
+            "ETH/USD actual": 813.6315102148486
         }
     ],
     [
         1519862400000,
         {
-            "BTC/USD actual": 10371.61028742353,
-            "ETH/USD actual": 825.7815964288235
+            "BTC/USD actual": 9923.754791290608,
+            "ETH/USD actual": 804.0537873236366
         }
     ],
     [
         1519948800000,
         {
-            "BTC/USD actual": 10273.035190182352,
-            "ETH/USD actual": 816.4933604917649
+            "BTC/USD actual": 9913.066251166667,
+            "ETH/USD actual": 794.8797484196971
         }
     ],
     [
         1520035200000,
         {
-            "BTC/USD actual": 10254.592784377646,
-            "ETH/USD actual": 811.5259376511765
+            "BTC/USD actual": 9887.00576971515,
+            "ETH/USD actual": 783.8331345048487
         }
     ],
     [
         1520121600000,
         {
-            "BTC/USD actual": 10194.843580332941,
-            "ETH/USD actual": 802.2795223623531
+            "BTC/USD actual": 9853.215254825453,
+            "ETH/USD actual": 772.6445404469699
         }
     ],
     [
         1520208000000,
         {
-            "BTC/USD actual": 10162.934122924118,
-            "ETH/USD actual": 793.8504137182354
+            "BTC/USD actual": 9814.466348304242,
+            "ETH/USD actual": 761.2123618666668
         }
     ],
     [
         1520294400000,
         {
-            "BTC/USD actual": 10081.462397365882,
-            "ETH/USD actual": 780.5452085935294
+            "BTC/USD actual": 9742.46559815697,
+            "ETH/USD actual": 748.0480148860606
         }
     ],
     [
         1520380800000,
         {
-            "BTC/USD actual": 9961.023084115293,
-            "ETH/USD actual": 765.4511274376471
+            "BTC/USD actual": 9697.294701312421,
+            "ETH/USD actual": 736.8332730109092
         }
     ],
     [
         1520467200000,
         {
-            "BTC/USD actual": 9824.913392465882,
-            "ETH/USD actual": 749.5233042158824
+            "BTC/USD actual": 9618.210973041818,
+            "ETH/USD actual": 724.1231342160607
         }
     ],
     [
         1520553600000,
         {
-            "BTC/USD actual": 9680.44331788353,
-            "ETH/USD actual": 731.7970887794118
+            "BTC/USD actual": 9534.277816830909,
+            "ETH/USD actual": 713.1645785969697
         }
     ],
     [
         1520640000000,
         {
-            "BTC/USD actual": 9521.347111428824,
-            "ETH/USD actual": 712.2814843158822
+            "BTC/USD actual": 9463.870799797274,
+            "ETH/USD actual": 702.4752159106062
         }
     ],
     [
         1520726400000,
         {
-            "BTC/USD actual": 9378.498157581176,
-            "ETH/USD actual": 694.6696082588235
+            "BTC/USD actual": 9402.112205723639,
+            "ETH/USD actual": 691.703313239394
         }
     ],
     [
         1520812800000,
         {
-            "BTC/USD actual": 9228.659820016472,
-            "ETH/USD actual": 677.2104499152941
+            "BTC/USD actual": 9335.17792749273,
+            "ETH/USD actual": 679.3404013503031
         }
     ],
     [
         1520899200000,
         {
-            "BTC/USD actual": 9075.46143807059,
-            "ETH/USD actual": 659.3251101176471
+            "BTC/USD actual": 9256.899754473941,
+            "ETH/USD actual": 665.732898469091
         }
     ],
     [
         1520985600000,
         {
-            "BTC/USD actual": 8917.04538452059,
-            "ETH/USD actual": 641.1619980099999
+            "BTC/USD actual": 9173.662503211515,
+            "ETH/USD actual": 652.22159376
         }
     ],
     [
         1521072000000,
         {
-            "BTC/USD actual": 8810.918182604117,
-            "ETH/USD actual": 625.1920639317647
+            "BTC/USD actual": 9071.334675437272,
+            "ETH/USD actual": 637.8802967981818
         }
     ],
     [
         1521158400000,
         {
-            "BTC/USD actual": 8729.620603608826,
-            "ETH/USD actual": 611.631525972353
+            "BTC/USD actual": 8957.597233520908,
+            "ETH/USD actual": 622.9411215151515
         }
     ],
     [
         1521244800000,
         {
-            "BTC/USD actual": 8679.165688218824,
-            "ETH/USD actual": 601.3073028305882
+            "BTC/USD actual": 8858.711074423332,
+            "ETH/USD actual": 608.8086874342424
         }
     ],
     [
         1521331200000,
         {
-            "BTC/USD actual": 8614.846680849412,
-            "ETH/USD actual": 587.2061127841177
+            "BTC/USD actual": 8753.025427451817,
+            "ETH/USD actual": 595.0790718981818
         }
     ],
     [
         1521417600000,
         {
-            "BTC/USD actual": 8556.608346231178,
-            "ETH/USD actual": 573.5290913564706
+            "BTC/USD actual": 8624.984208573636,
+            "ETH/USD actual": 580.6460625718182
         }
     ],
     [
         1521504000000,
         {
-            "BTC/USD actual": 8463.323303488824,
-            "ETH/USD actual": 557.404630555294
+            "BTC/USD actual": 8483.467717886668,
+            "ETH/USD actual": 566.2939887821212
         }
     ],
     [
         1521590400000,
         {
-            "BTC/USD actual": 8343.843757326471,
-            "ETH/USD actual": 538.9823264358824
+            "BTC/USD actual": 8335.474389191515,
+            "ETH/USD actual": 551.3147792118183
         }
     ],
     [
         1521676800000,
         {
-            "BTC/USD actual": 8208.779895195881,
-            "ETH/USD actual": 521.6224879647059
+            "BTC/USD actual": 8198.843540425454,
+            "ETH/USD actual": 537.246148619394
         }
     ],
     [
         1521763200000,
         {
-            "BTC/USD actual": 8133.481438365294,
-            "ETH/USD actual": 508.69823382411755
+            "BTC/USD actual": 8086.73956406394,
+            "ETH/USD actual": 524.6815147403031
         }
     ],
     [
         1521849600000,
         {
-            "BTC/USD actual": 8049.007785051174,
-            "ETH/USD actual": 495.04468168294113
+            "BTC/USD actual": 7991.481471379092,
+            "ETH/USD actual": 514.0334489575758
         }
     ],
     [
         1521936000000,
         {
-            "BTC/USD actual": 7978.036671338822,
-            "ETH/USD actual": 482.3182081823529
+            "BTC/USD actual": 7916.48694612697,
+            "ETH/USD actual": 505.45997427545456
         }
     ],
     [
         1522022400000,
         {
-            "BTC/USD actual": 7951.807942248823,
-            "ETH/USD actual": 474.4798619523529
+            "BTC/USD actual": 7847.092942098486,
+            "ETH/USD actual": 496.490280788485
         }
     ],
     [
         1522108800000,
         {
-            "BTC/USD actual": 7869.376380427059,
-            "ETH/USD actual": 465.12793643529403
+            "BTC/USD actual": 7820.584735144848,
+            "ETH/USD actual": 490.8010271796971
         }
     ],
     [
         1522195200000,
         {
-            "BTC/USD actual": 7762.486044606471,
-            "ETH/USD actual": 454.88097095941174
+            "BTC/USD actual": 7771.118286115756,
+            "ETH/USD actual": 484.00973599363647
         }
     ],
     [
         1522281600000,
         {
-            "BTC/USD actual": 7628.0593442564705,
-            "ETH/USD actual": 443.81585437235293
+            "BTC/USD actual": 7736.782724974849,
+            "ETH/USD actual": 478.13351847545465
         }
     ],
     [
         1522368000000,
         {
-            "BTC/USD actual": 7510.542996153529,
-            "ETH/USD actual": 433.4858921964706
+            "BTC/USD actual": 7713.001337406061,
+            "ETH/USD actual": 473.43926953606064
         }
     ],
     [
         1522454400000,
         {
-            "BTC/USD actual": 7411.308543518823,
-            "ETH/USD actual": 425.26803819058824
+            "BTC/USD actual": 7708.698478474243,
+            "ETH/USD actual": 470.34366845212116
         }
     ],
     [
         1522540800000,
         {
-            "BTC/USD actual": 7285.206792870589,
-            "ETH/USD actual": 416.76403629352944
+            "BTC/USD actual": 7698.366131989091,
+            "ETH/USD actual": 467.07915381303036
         }
     ],
     [
         1522627200000,
         {
-            "BTC/USD actual": 7185.171855441765,
-            "ETH/USD actual": 410.6246615658823
+            "BTC/USD actual": 7695.477132890911,
+            "ETH/USD actual": 464.809378449091
         }
     ],
     [
         1522713600000,
         {
-            "BTC/USD actual": 7096.486707060588,
-            "ETH/USD actual": 405.1785477417647
+            "BTC/USD actual": 7708.04716386697,
+            "ETH/USD actual": 465.34503660121214
         }
     ],
     [
         1522800000000,
         {
-            "BTC/USD actual": 7083.126947033529,
-            "ETH/USD actual": 405.59640589647057
+            "BTC/USD actual": 7728.328940887879,
+            "ETH/USD actual": 467.75902335363645
         }
     ],
     [
         1522886400000,
         {
-            "BTC/USD actual": 7088.545763962351,
-            "ETH/USD actual": 408.35605240941175
+            "BTC/USD actual": 7738.206794309696,
+            "ETH/USD actual": 469.26562645242427
         }
     ],
     [
         1522972800000,
         {
-            "BTC/USD actual": 7092.0764225041175,
-            "ETH/USD actual": 411.7014556052941
+            "BTC/USD actual": 7735.229122900302,
+            "ETH/USD actual": 471.1713165881819
         }
     ],
     [
         1523059200000,
         {
-            "BTC/USD actual": 7165.954842733529,
-            "ETH/USD actual": 420.57454578941173
+            "BTC/USD actual": 7736.713479837878,
+            "ETH/USD actual": 473.713788709394
         }
     ],
     [
         1523145600000,
         {
-            "BTC/USD actual": 7237.708702287647,
-            "ETH/USD actual": 427.48805946647053
+            "BTC/USD actual": 7765.108618551211,
+            "ETH/USD actual": 478.66500854575764
         }
     ],
     [
         1523232000000,
         {
-            "BTC/USD actual": 7295.848852715883,
-            "ETH/USD actual": 433.89596752529405
+            "BTC/USD actual": 7764.3073156503015,
+            "ETH/USD actual": 480.9209116518182
         }
     ],
     [
         1523318400000,
         {
-            "BTC/USD actual": 7374.915550066471,
-            "ETH/USD actual": 442.5616853229412
+            "BTC/USD actual": 7785.480778860605,
+            "ETH/USD actual": 485.2146955875757
         }
     ],
     [
         1523404800000,
         {
-            "BTC/USD actual": 7446.801609156471,
-            "ETH/USD actual": 453.30882539764707
+            "BTC/USD actual": 7800.244151882726,
+            "ETH/USD actual": 488.86673183939394
         }
     ],
     [
         1523491200000,
         {
-            "BTC/USD actual": 7532.230402216471,
-            "ETH/USD actual": 465.1308018470589
+            "BTC/USD actual": 7835.86215326212,
+            "ETH/USD actual": 494.8246455560606
         }
     ],
     [
         1523577600000,
         {
-            "BTC/USD actual": 7657.106706362941,
-            "ETH/USD actual": 478.46052638
+            "BTC/USD actual": 7884.1394397703025,
+            "ETH/USD actual": 502.11440200727264
         }
     ],
     [
         1523664000000,
         {
-            "BTC/USD actual": 7776.196665042941,
-            "ETH/USD actual": 492.5605568329412
+            "BTC/USD actual": 7923.7966221454535,
+            "ETH/USD actual": 508.9158501266665
         }
     ],
     [
         1523750400000,
         {
-            "BTC/USD actual": 7913.160849325293,
-            "ETH/USD actual": 508.68789325999995
+            "BTC/USD actual": 7983.847382032121,
+            "ETH/USD actual": 517.6296160121212
         }
     ],
     [
         1523836800000,
         {
-            "BTC/USD actual": 8075.089359705882,
-            "ETH/USD actual": 527.4456672788235
+            "BTC/USD actual": 8055.257690188484,
+            "ETH/USD actual": 526.5043162987878
         }
     ],
     [
         1523923200000,
         {
-            "BTC/USD actual": 8185.020288624705,
-            "ETH/USD actual": 540.245010877647
+            "BTC/USD actual": 8140.0949865796965,
+            "ETH/USD actual": 538.1364434575756
         }
     ],
     [
         1524009600000,
         {
-            "BTC/USD actual": 8329.736906367058,
-            "ETH/USD actual": 555.6892400188235
+            "BTC/USD actual": 8227.108395557576,
+            "ETH/USD actual": 550.434700402121
         }
     ],
     [
         1524096000000,
         {
-            "BTC/USD actual": 8453.51791115647,
-            "ETH/USD actual": 569.0968910429413
+            "BTC/USD actual": 8310.349900067577,
+            "ETH/USD actual": 563.5325179142425
         }
     ],
     [
         1524182400000,
         {
-            "BTC/USD actual": 8593.045737814116,
-            "ETH/USD actual": 583.972820862353
+            "BTC/USD actual": 8376.943894716667,
+            "ETH/USD actual": 574.874371768788
         }
     ],
     [
         1524268800000,
         {
-            "BTC/USD actual": 8679.979243445294,
-            "ETH/USD actual": 595.490348374706
+            "BTC/USD actual": 8454.89959136091,
+            "ETH/USD actual": 586.2079856293941
         }
     ],
     [
         1524355200000,
         {
-            "BTC/USD actual": 8759.698896958234,
-            "ETH/USD actual": 605.7517932841175
+            "BTC/USD actual": 8528.004964751215,
+            "ETH/USD actual": 597.3175249166668
         }
     ],
     [
         1524441600000,
         {
-            "BTC/USD actual": 8823.43985632,
-            "ETH/USD actual": 615.6512216541176
+            "BTC/USD actual": 8609.384864596668,
+            "ETH/USD actual": 608.8702416921215
         }
     ],
     [
         1524528000000,
         {
-            "BTC/USD actual": 8873.159874126472,
-            "ETH/USD actual": 624.6311081511766
+            "BTC/USD actual": 8673.882270425456,
+            "ETH/USD actual": 619.1447543881822
         }
     ],
     [
         1524614400000,
         {
-            "BTC/USD actual": 8970.898189393529,
-            "ETH/USD actual": 640.2959735405883
+            "BTC/USD actual": 8716.162209710003,
+            "ETH/USD actual": 627.558516177576
         }
     ],
     [
         1524700800000,
         {
-            "BTC/USD actual": 9075.389826095881,
-            "ETH/USD actual": 656.8525074147059
+            "BTC/USD actual": 8767.557946967274,
+            "ETH/USD actual": 636.1855141693941
         }
     ],
     [
         1524787200000,
         {
-            "BTC/USD actual": 9171.61321938765,
-            "ETH/USD actual": 673.9572436147059
+            "BTC/USD actual": 8823.117174225454,
+            "ETH/USD actual": 645.6927810460608
         }
     ],
     [
         1524873600000,
         {
-            "BTC/USD actual": 9250.254537427649,
-            "ETH/USD actual": 687.0956302188234
+            "BTC/USD actual": 8875.560273168181,
+            "ETH/USD actual": 654.7008647663638
         }
     ],
     [
         1524960000000,
         {
-            "BTC/USD actual": 9279.778231345295,
-            "ETH/USD actual": 695.0582749705883
+            "BTC/USD actual": 8893.443443004848,
+            "ETH/USD actual": 661.1260932981819
         }
     ],
     [
         1525046400000,
         {
-            "BTC/USD actual": 9295.623669581179,
-            "ETH/USD actual": 703.452303272353
+            "BTC/USD actual": 8907.376717284546,
+            "ETH/USD actual": 667.524855828182
         }
     ],
     [
         1525132800000,
         {
-            "BTC/USD actual": 9324.94990166706,
-            "ETH/USD actual": 711.1137678094119
+            "BTC/USD actual": 8909.825858253334,
+            "ETH/USD actual": 672.5433452609093
         }
     ],
     [
         1525219200000,
         {
-            "BTC/USD actual": 9329.753001411766,
-            "ETH/USD actual": 715.793060867059
+            "BTC/USD actual": 8906.127698706365,
+            "ETH/USD actual": 677.3693626196971
         }
     ],
     [
         1525305600000,
         {
-            "BTC/USD actual": 9257.471396944706,
-            "ETH/USD actual": 714.2966118288236
+            "BTC/USD actual": 8911.464719371514,
+            "ETH/USD actual": 682.9579594657578
         }
     ],
     [
         1525392000000,
         {
-            "BTC/USD actual": 9232.693312485882,
-            "ETH/USD actual": 718.1600294158825
+            "BTC/USD actual": 8929.589321878182,
+            "ETH/USD actual": 689.3890783642426
         }
     ],
     [
         1525478400000,
         {
-            "BTC/USD actual": 9199.407211149999,
-            "ETH/USD actual": 722.1409451029413
+            "BTC/USD actual": 8936.67223221818,
+            "ETH/USD actual": 694.5647401372728
         }
     ],
     [
         1525564800000,
         {
-            "BTC/USD actual": 9183.865060144117,
-            "ETH/USD actual": 727.0918646
+            "BTC/USD actual": 8928.272982891212,
+            "ETH/USD actual": 696.7938957248485
         }
     ],
     [
         1525651200000,
         {
-            "BTC/USD actual": 9136.078862416469,
-            "ETH/USD actual": 728.4168632782355
+            "BTC/USD actual": 8887.26596068515,
+            "ETH/USD actual": 695.5769523615152
         }
     ],
     [
         1525737600000,
         {
-            "BTC/USD actual": 9074.829890901763,
-            "ETH/USD actual": 729.4469333558825
+            "BTC/USD actual": 8846.716015003332,
+            "ETH/USD actual": 695.5005743581818
         }
     ],
     [
         1525824000000,
         {
-            "BTC/USD actual": 9006.133174948822,
-            "ETH/USD actual": 729.3312991011766
+            "BTC/USD actual": 8806.205659226363,
+            "ETH/USD actual": 694.4020906254545
         }
     ],
     [
         1525910400000,
         {
-            "BTC/USD actual": 8956.263692748236,
-            "ETH/USD actual": 730.6575833217648
+            "BTC/USD actual": 8757.53637952303,
+            "ETH/USD actual": 692.6291315127272
         }
     ],
     [
         1525996800000,
         {
-            "BTC/USD actual": 8899.75764129,
-            "ETH/USD actual": 731.1921903200001
+            "BTC/USD actual": 8687.773110385151,
+            "ETH/USD actual": 688.5694161460605
         }
     ],
     [
         1526083200000,
         {
-            "BTC/USD actual": 8828.396680060001,
-            "ETH/USD actual": 727.5040235205884
+            "BTC/USD actual": 8633.591210400607,
+            "ETH/USD actual": 685.3620997624241
         }
     ],
     [
         1526169600000,
         {
-            "BTC/USD actual": 8752.304174172354,
-            "ETH/USD actual": 722.3435271617648
+            "BTC/USD actual": 8579.899744178183,
+            "ETH/USD actual": 682.4965791990908
         }
     ],
     [
         1526256000000,
         {
-            "BTC/USD actual": 8646.29935816706,
-            "ETH/USD actual": 711.9926764417648
+            "BTC/USD actual": 8532.780261392425,
+            "ETH/USD actual": 679.8848073251512
         }
     ],
     [
         1526342400000,
         {
-            "BTC/USD actual": 8522.85558909647,
-            "ETH/USD actual": 699.4358112329413
+            "BTC/USD actual": 8477.329431128484,
+            "ETH/USD actual": 676.6762749963633
         }
     ],
     [
         1526428800000,
         {
-            "BTC/USD actual": 8417.691528727648,
-            "ETH/USD actual": 690.6167280300002
+            "BTC/USD actual": 8420.614393742424,
+            "ETH/USD actual": 673.3348316951513
         }
     ],
     [
         1526515200000,
         {
-            "BTC/USD actual": 8316.233307259412,
-            "ETH/USD actual": 681.0188314441177
+            "BTC/USD actual": 8371.916278740604,
+            "ETH/USD actual": 670.9223476366666
         }
     ],
     [
         1526601600000,
         {
-            "BTC/USD actual": 8200.749084182355,
-            "ETH/USD actual": 671.2786793823531
+            "BTC/USD actual": 8330.485062776363,
+            "ETH/USD actual": 669.356201220909
         }
     ],
     [
         1526688000000,
         {
-            "BTC/USD actual": 8102.053931392353,
-            "ETH/USD actual": 662.2111871617647
+            "BTC/USD actual": 8278.795216950302,
+            "ETH/USD actual": 666.4616328145454
         }
     ],
     [
         1526774400000,
         {
-            "BTC/USD actual": 8024.735407612353,
-            "ETH/USD actual": 652.4519672482354
+            "BTC/USD actual": 8215.004588372727,
+            "ETH/USD actual": 661.3267250660606
         }
     ],
     [
         1526860800000,
         {
-            "BTC/USD actual": 7965.459218600001,
-            "ETH/USD actual": 645.5871897823531
+            "BTC/USD actual": 8153.3831518375755,
+            "ETH/USD actual": 655.9345534451514
         }
     ],
     [
         1526947200000,
         {
-            "BTC/USD actual": 7889.922727421765,
-            "ETH/USD actual": 635.4696479376471
+            "BTC/USD actual": 8089.466202653029,
+            "ETH/USD actual": 649.5075182869697
         }
     ],
     [
         1527033600000,
         {
-            "BTC/USD actual": 7820.0093973841185,
-            "ETH/USD actual": 626.6309701323529
+            "BTC/USD actual": 8029.178032894848,
+            "ETH/USD actual": 643.733161188182
         }
     ],
     [
         1527120000000,
         {
-            "BTC/USD actual": 7762.134618406471,
-            "ETH/USD actual": 619.1896640864707
+            "BTC/USD actual": 7972.651898659999,
+            "ETH/USD actual": 638.9096100445455
         }
     ],
     [
         1527206400000,
         {
-            "BTC/USD actual": 7720.275692725882,
-            "ETH/USD actual": 612.3469244417647
+            "BTC/USD actual": 7899.256341086061,
+            "ETH/USD actual": 632.1425187487879
         }
     ],
     [
         1527292800000,
         {
-            "BTC/USD actual": 7698.837135688235,
-            "ETH/USD actual": 609.4644126352941
+            "BTC/USD actual": 7825.836186800605,
+            "ETH/USD actual": 625.477117070909
         }
     ],
     [
         1527379200000,
         {
-            "BTC/USD actual": 7655.3968213058815,
-            "ETH/USD actual": 603.4572797058823
+            "BTC/USD actual": 7750.911540632122,
+            "ETH/USD actual": 618.5370903624241
         }
     ],
     [
         1527465600000,
         {
-            "BTC/USD actual": 7618.946170395882,
-            "ETH/USD actual": 598.3059302941175
+            "BTC/USD actual": 7686.823574392424,
+            "ETH/USD actual": 612.4278204630302
         }
     ],
     [
         1527552000000,
         {
-            "BTC/USD actual": 7568.636672487646,
-            "ETH/USD actual": 591.9113708070588
+            "BTC/USD actual": 7631.080655804243,
+            "ETH/USD actual": 607.4639386051513
         }
     ],
     [
         1527638400000,
         {
-            "BTC/USD actual": 7527.036809055293,
-            "ETH/USD actual": 586.4932247288234
+            "BTC/USD actual": 7562.179888289092,
+            "ETH/USD actual": 600.1414235075756
         }
     ],
     [
         1527724800000,
         {
-            "BTC/USD actual": 7504.952575669999,
-            "ETH/USD actual": 584.0953808241177
+            "BTC/USD actual": 7495.869277118183,
+            "ETH/USD actual": 593.1630586815149
         }
     ],
     [
         1527811200000,
         {
-            "BTC/USD actual": 7504.35093447294,
-            "ETH/USD actual": 585.0569634141177
+            "BTC/USD actual": 7433.451728548487,
+            "ETH/USD actual": 586.8336863763634
         }
     ],
     [
         1527897600000,
         {
-            "BTC/USD actual": 7456.437243741764,
-            "ETH/USD actual": 580.4631365011765
+            "BTC/USD actual": 7383.770292827276,
+            "ETH/USD actual": 581.0997932527271
         }
     ],
     [
         1527984000000,
         {
-            "BTC/USD actual": 7421.879749311176,
-            "ETH/USD actual": 577.3182309094118
+            "BTC/USD actual": 7343.09364665879,
+            "ETH/USD actual": 577.1648001824241
         }
     ],
     [
         1528070400000,
         {
-            "BTC/USD actual": 7375.71654944706,
-            "ETH/USD actual": 571.9673339282353
+            "BTC/USD actual": 7298.4976865375775,
+            "ETH/USD actual": 572.4015504460605
         }
     ],
     [
         1528156800000,
         {
-            "BTC/USD actual": 7314.451709429412,
-            "ETH/USD actual": 566.4923378558824
+            "BTC/USD actual": 7252.414424659395,
+            "ETH/USD actual": 567.2511789224243
         }
     ],
     [
         1528243200000,
         {
-            "BTC/USD actual": 7286.64341238706,
-            "ETH/USD actual": 566.9459518752941
+            "BTC/USD actual": 7177.924253794849,
+            "ETH/USD actual": 559.5827216318182
         }
     ],
     [
         1528329600000,
         {
-            "BTC/USD actual": 7223.8333732476485,
-            "ETH/USD actual": 562.2750546429411
+            "BTC/USD actual": 7110.103812059698,
+            "ETH/USD actual": 552.8380156390909
         }
     ],
     [
         1528416000000,
         {
-            "BTC/USD actual": 7171.037855376471,
-            "ETH/USD actual": 558.7496466447058
+            "BTC/USD actual": 7054.17767995697,
+            "ETH/USD actual": 547.2188874745453
         }
     ],
     [
         1528502400000,
         {
-            "BTC/USD actual": 7109.7280279964725,
-            "ETH/USD actual": 554.0165441923529
+            "BTC/USD actual": 7015.841941514546,
+            "ETH/USD actual": 543.6427355784848
         }
     ],
     [
         1528588800000,
         {
-            "BTC/USD actual": 7062.132518537059,
-            "ETH/USD actual": 550.4024469676469
+            "BTC/USD actual": 6970.3428223890905,
+            "ETH/USD actual": 538.4038960281817
         }
     ],
     [
         1528675200000,
         {
-            "BTC/USD actual": 7009.006889142942,
-            "ETH/USD actual": 547.3313540429411
+            "BTC/USD actual": 6930.127659232122,
+            "ETH/USD actual": 534.0728094618182
         }
     ],
     [
         1528761600000,
         {
-            "BTC/USD actual": 6952.994080049412,
-            "ETH/USD actual": 542.4514965235294
+            "BTC/USD actual": 6885.294672701213,
+            "ETH/USD actual": 529.0726538415151
         }
     ],
     [
         1528848000000,
         {
-            "BTC/USD actual": 6907.371397431177,
-            "ETH/USD actual": 538.6071915882352
+            "BTC/USD actual": 6850.80441436212,
+            "ETH/USD actual": 525.0117507045453
         }
     ],
     [
         1528934400000,
         {
-            "BTC/USD actual": 6815.240736467647,
-            "ETH/USD actual": 530.0009580305881
+            "BTC/USD actual": 6829.1393475333325,
+            "ETH/USD actual": 523.2441016127273
         }
     ],
     [
         1529020800000,
         {
-            "BTC/USD actual": 6727.114867544706,
-            "ETH/USD actual": 522.2149537735294
+            "BTC/USD actual": 6795.477915303939,
+            "ETH/USD actual": 519.762436290606
         }
     ],
     [
         1529107200000,
         {
-            "BTC/USD actual": 6636.62163763941,
-            "ETH/USD actual": 513.4323930999999
+            "BTC/USD actual": 6772.247049193029,
+            "ETH/USD actual": 517.3281320269696
         }
     ],
     [
         1529193600000,
         {
-            "BTC/USD actual": 6555.791411711175,
-            "ETH/USD actual": 505.1426321082352
+            "BTC/USD actual": 6742.682868436665,
+            "ETH/USD actual": 513.8390783718182
         }
     ],
     [
         1529280000000,
         {
-            "BTC/USD actual": 6472.032733613529,
-            "ETH/USD actual": 495.5174008217646
+            "BTC/USD actual": 6714.506452035149,
+            "ETH/USD actual": 510.4508781454546
         }
     ],
     [
         1529366400000,
         {
-            "BTC/USD actual": 6434.983513072352,
-            "ETH/USD actual": 490.64821929882356
+            "BTC/USD actual": 6681.030720019999,
+            "ETH/USD actual": 506.7236279221212
         }
     ],
     [
         1529452800000,
         {
-            "BTC/USD actual": 6374.992027401176,
-            "ETH/USD actual": 484.14060370176463
+            "BTC/USD actual": 6647.3042014193925,
+            "ETH/USD actual": 502.2034513233334
         }
     ],
     [
         1529539200000,
         {
-            "BTC/USD actual": 6354.787156868235,
-            "ETH/USD actual": 480.66199841411753
+            "BTC/USD actual": 6625.043323437271,
+            "ETH/USD actual": 499.01240261000004
         }
     ],
     [
         1529625600000,
         {
-            "BTC/USD actual": 6359.8189672388235,
-            "ETH/USD actual": 479.33063065647053
+            "BTC/USD actual": 6597.422811460303,
+            "ETH/USD actual": 495.314031089697
         }
     ],
     [
         1529712000000,
         {
-            "BTC/USD actual": 6343.406839981765,
-            "ETH/USD actual": 475.3430970541176
+            "BTC/USD actual": 6567.469821181817,
+            "ETH/USD actual": 491.23192964000003
         }
     ],
     [
         1529798400000,
         {
-            "BTC/USD actual": 6356.52368682353,
-            "ETH/USD actual": 474.7144350635294
+            "BTC/USD actual": 6525.547431815757,
+            "ETH/USD actual": 486.0262230539394
         }
     ],
     [
         1529884800000,
         {
-            "BTC/USD actual": 6357.941662884707,
-            "ETH/USD actual": 472.6491260017647
+            "BTC/USD actual": 6487.9811731909085,
+            "ETH/USD actual": 481.34930107878785
         }
     ],
     [
         1529971200000,
         {
-            "BTC/USD actual": 6366.534963998235,
-            "ETH/USD actual": 470.9171539911765
+            "BTC/USD actual": 6450.083382633333,
+            "ETH/USD actual": 476.43478214757573
         }
     ],
     [
         1530057600000,
         {
-            "BTC/USD actual": 6356.1341690411755,
-            "ETH/USD actual": 467.9696623294118
+            "BTC/USD actual": 6433.629223563939,
+            "ETH/USD actual": 473.64469159969696
         }
     ],
     [
         1530144000000,
         {
-            "BTC/USD actual": 6348.187036105882,
-            "ETH/USD actual": 463.9512060264707
+            "BTC/USD actual": 6414.736321816364,
+            "ETH/USD actual": 470.69192126696964
         }
     ],
     [
         1530230400000,
         {
-            "BTC/USD actual": 6348.103057640589,
-            "ETH/USD actual": 460.9959927300001
+            "BTC/USD actual": 6408.61148401,
+            "ETH/USD actual": 469.32843948939393
         }
     ],
     [
         1530316800000,
         {
-            "BTC/USD actual": 6347.491862421178,
-            "ETH/USD actual": 458.6632315600001
+            "BTC/USD actual": 6421.552132615758,
+            "ETH/USD actual": 469.40386302999997
         }
     ],
     [
         1530403200000,
         {
-            "BTC/USD actual": 6383.636891532941,
-            "ETH/USD actual": 459.23042164647063
+            "BTC/USD actual": 6442.431230364243,
+            "ETH/USD actual": 468.77867363696976
         }
     ],
     [
         1530489600000,
         {
-            "BTC/USD actual": 6392.30971799353,
-            "ETH/USD actual": 456.7997450047059
+            "BTC/USD actual": 6472.127145637273,
+            "ETH/USD actual": 468.52540510757575
         }
     ],
     [
         1530576000000,
         {
-            "BTC/USD actual": 6405.865239006471,
-            "ETH/USD actual": 456.23088958529416
+            "BTC/USD actual": 6501.996088161212,
+            "ETH/USD actual": 467.6634089963636
         }
     ],
     [
         1530662400000,
         {
-            "BTC/USD actual": 6406.1137319388245,
-            "ETH/USD actual": 454.59446557764704
+            "BTC/USD actual": 6528.979294621819,
+            "ETH/USD actual": 466.2166947333333
         }
     ],
     [
         1530748800000,
         {
-            "BTC/USD actual": 6414.581434257647,
-            "ETH/USD actual": 454.75409261058826
+            "BTC/USD actual": 6549.935908796061,
+            "ETH/USD actual": 464.49907629333325
         }
     ],
     [
         1530835200000,
         {
-            "BTC/USD actual": 6421.414211974706,
-            "ETH/USD actual": 454.28474206058826
+            "BTC/USD actual": 6570.076365855152,
+            "ETH/USD actual": 462.05594601878784
         }
     ],
     [
         1530921600000,
         {
-            "BTC/USD actual": 6450.390359634705,
-            "ETH/USD actual": 455.9932707741177
+            "BTC/USD actual": 6599.14616359788,
+            "ETH/USD actual": 459.4281626769696
         }
     ],
     [
         1531008000000,
         {
-            "BTC/USD actual": 6481.197280157059,
-            "ETH/USD actual": 458.5476147229412
+            "BTC/USD actual": 6649.389637187881,
+            "ETH/USD actual": 458.0220682684847
         }
     ],
     [
         1531094400000,
         {
-            "BTC/USD actual": 6535.974714352941,
-            "ETH/USD actual": 461.21894462823536
+            "BTC/USD actual": 6713.562827501821,
+            "ETH/USD actual": 458.31177639878774
         }
     ],
     [
         1531180800000,
         {
-            "BTC/USD actual": 6596.152467424116,
-            "ETH/USD actual": 462.8149352876471
+            "BTC/USD actual": 6767.376302635759,
+            "ETH/USD actual": 457.951089330606
         }
     ],
     [
         1531267200000,
         {
-            "BTC/USD actual": 6646.433048667646,
-            "ETH/USD actual": 462.3416548794118
+            "BTC/USD actual": 6828.94247120485,
+            "ETH/USD actual": 458.3960300690909
         }
     ],
     [
         1531353600000,
         {
-            "BTC/USD actual": 6694.891678826469,
-            "ETH/USD actual": 461.57309360000005
+            "BTC/USD actual": 6888.93776134879,
+            "ETH/USD actual": 458.6985477772727
         }
     ],
     [
         1531440000000,
         {
-            "BTC/USD actual": 6742.6720522494115,
-            "ETH/USD actual": 461.2018904311765
+            "BTC/USD actual": 6953.769477475456,
+            "ETH/USD actual": 459.8106060490909
         }
     ],
     [
         1531526400000,
         {
-            "BTC/USD actual": 6793.624907528823,
-            "ETH/USD actual": 460.6235009364706
+            "BTC/USD actual": 7015.480568446365,
+            "ETH/USD actual": 460.26521363484846
         }
     ],
     [
         1531612800000,
         {
-            "BTC/USD actual": 6859.510830160589,
-            "ETH/USD actual": 459.41711268058816
+            "BTC/USD actual": 7072.495285745758,
+            "ETH/USD actual": 460.6188943618182
         }
     ],
     [
         1531699200000,
         {
-            "BTC/USD actual": 6954.631888829413,
-            "ETH/USD actual": 459.03771904294115
+            "BTC/USD actual": 7114.993121159396,
+            "ETH/USD actual": 460.1540163527273
         }
     ],
     [
         1531785600000,
         {
-            "BTC/USD actual": 7040.689002901177,
-            "ETH/USD actual": 458.17305186588237
+            "BTC/USD actual": 7149.8390344493955,
+            "ETH/USD actual": 458.86226993636365
         }
     ],
     [
         1531872000000,
         {
-            "BTC/USD actual": 7115.168625661177,
-            "ETH/USD actual": 457.6109696435295
+            "BTC/USD actual": 7182.322276210304,
+            "ETH/USD actual": 457.82441779757573
         }
     ],
     [
         1531958400000,
         {
-            "BTC/USD actual": 7225.564949394707,
-            "ETH/USD actual": 459.79731260000005
+            "BTC/USD actual": 7194.813539874548,
+            "ETH/USD actual": 455.711886430303
         }
     ],
     [
         1532044800000,
         {
-            "BTC/USD actual": 7334.11890637059,
-            "ETH/USD actual": 461.1735227582353
+            "BTC/USD actual": 7210.534426359698,
+            "ETH/USD actual": 454.0979286642424
         }
     ],
     [
         1532131200000,
         {
-            "BTC/USD actual": 7449.776329483531,
-            "ETH/USD actual": 463.2469413364706
+            "BTC/USD actual": 7221.216864932121,
+            "ETH/USD actual": 452.21457248787885
         }
     ],
     [
         1532217600000,
         {
-            "BTC/USD actual": 7564.459653138236,
-            "ETH/USD actual": 464.6762914847059
+            "BTC/USD actual": 7226.90202593394,
+            "ETH/USD actual": 449.5075328712123
         }
     ],
     [
         1532304000000,
         {
-            "BTC/USD actual": 7651.818251499412,
-            "ETH/USD actual": 464.58708088588236
+            "BTC/USD actual": 7217.315854289698,
+            "ETH/USD actual": 446.0442695915152
         }
     ],
     [
         1532390400000,
         {
-            "BTC/USD actual": 7725.998570158237,
-            "ETH/USD actual": 462.85282409000007
+            "BTC/USD actual": 7210.523314470002,
+            "ETH/USD actual": 442.3346739148485
         }
     ],
     [
         1532476800000,
         {
-            "BTC/USD actual": 7773.552364915883,
-            "ETH/USD actual": 458.8675381805883
+            "BTC/USD actual": 7193.685391226364,
+            "ETH/USD actual": 437.65586555666675
         }
     ],
     [
         1532563200000,
         {
-            "BTC/USD actual": 7779.665928977059,
-            "ETH/USD actual": 454.0789533658824
+            "BTC/USD actual": 7180.558456385456,
+            "ETH/USD actual": 433.0016336403031
         }
     ],
     [
         1532649600000,
         {
-            "BTC/USD actual": 7759.385510931178,
-            "ETH/USD actual": 449.84113410176474
+            "BTC/USD actual": 7180.859096986062,
+            "ETH/USD actual": 429.53457761939404
         }
     ],
     [
         1532736000000,
         {
-            "BTC/USD actual": 7733.339613505295,
-            "ETH/USD actual": 446.31613476882353
+            "BTC/USD actual": 7177.0266234772735,
+            "ETH/USD actual": 424.64798573181827
         }
     ],
     [
         1532822400000,
         {
-            "BTC/USD actual": 7710.290247541765,
-            "ETH/USD actual": 443.7365637500001
+            "BTC/USD actual": 7175.29161421394,
+            "ETH/USD actual": 420.0332969133334
         }
     ],
     [
         1532908800000,
         {
-            "BTC/USD actual": 7670.244867014706,
-            "ETH/USD actual": 438.8684309805883
+            "BTC/USD actual": 7176.802906967274,
+            "ETH/USD actual": 415.4561759500001
         }
     ],
     [
         1532995200000,
         {
-            "BTC/USD actual": 7604.5931018905885,
-            "ETH/USD actual": 432.8697164911765
+            "BTC/USD actual": 7178.817042808486,
+            "ETH/USD actual": 411.00728254272724
         }
     ],
     [
         1533081600000,
         {
-            "BTC/USD actual": 7534.893997568825,
-            "ETH/USD actual": 427.81451454470584
+            "BTC/USD actual": 7186.0179835454555,
+            "ETH/USD actual": 406.9967973951514
         }
     ],
     [
         1533168000000,
         {
-            "BTC/USD actual": 7404.065973201766,
-            "ETH/USD actual": 419.12883806058824
+            "BTC/USD actual": 7175.90849828303,
+            "ETH/USD actual": 401.4338723187878
         }
     ],
     [
         1533254400000,
         {
-            "BTC/USD actual": 7290.157818189413,
-            "ETH/USD actual": 410.09896805647065
+            "BTC/USD actual": 7150.692459511819,
+            "ETH/USD actual": 395.39025433
         }
     ],
     [
         1533340800000,
         {
-            "BTC/USD actual": 7194.952789379413,
-            "ETH/USD actual": 401.6382810947059
+            "BTC/USD actual": 7116.890612433334,
+            "ETH/USD actual": 389.08862808818174
         }
     ],
     [
         1533427200000,
         {
-            "BTC/USD actual": 7081.5580051823545,
-            "ETH/USD actual": 390.71997998941174
+            "BTC/USD actual": 7086.818598234244,
+            "ETH/USD actual": 383.4006173378787
         }
     ],
     [
         1533513600000,
         {
-            "BTC/USD actual": 6961.977093382942,
-            "ETH/USD actual": 379.5383903711765
+            "BTC/USD actual": 7057.4161695051525,
+            "ETH/USD actual": 377.993968770909
         }
     ],
     [
         1533600000000,
         {
-            "BTC/USD actual": 6847.528679741766,
-            "ETH/USD actual": 368.6543165358824
+            "BTC/USD actual": 7030.862086747273,
+            "ETH/USD actual": 372.3826313857575
         }
     ],
     [
         1533686400000,
         {
-            "BTC/USD actual": 6738.479132795294,
-            "ETH/USD actual": 358.66640523470585
+            "BTC/USD actual": 7009.472598606364,
+            "ETH/USD actual": 367.03820915818176
         }
     ],
     [
         1533772800000,
         {
-            "BTC/USD actual": 6670.757949481177,
-            "ETH/USD actual": 351.90331783882345
+            "BTC/USD actual": 6979.625295672727,
+            "ETH/USD actual": 361.8408704539393
         }
     ],
     [
         1533859200000,
         {
-            "BTC/USD actual": 6599.444776926471,
-            "ETH/USD actual": 344.56145277470586
+            "BTC/USD actual": 6929.114409413031,
+            "ETH/USD actual": 355.63121526454535
         }
     ],
     [
         1533945600000,
         {
-            "BTC/USD actual": 6537.631363003529,
-            "ETH/USD actual": 338.0085613923529
+            "BTC/USD actual": 6890.926338611514,
+            "ETH/USD actual": 350.05332518696963
         }
     ],
     [
         1534032000000,
         {
-            "BTC/USD actual": 6469.1380612688245,
-            "ETH/USD actual": 329.3866376164705
+            "BTC/USD actual": 6865.001260611213,
+            "ETH/USD actual": 344.9971709224242
         }
     ],
     [
         1534118400000,
         {
-            "BTC/USD actual": 6436.795809012942,
-            "ETH/USD actual": 321.97272075882347
+            "BTC/USD actual": 6830.30677920485,
+            "ETH/USD actual": 339.5194165593939
         }
     ],
     [
         1534204800000,
         {
-            "BTC/USD actual": 6397.662121402941,
-            "ETH/USD actual": 313.8418773364706
+            "BTC/USD actual": 6792.726906846365,
+            "ETH/USD actual": 333.9341210230303
         }
     ],
     [
         1534291200000,
         {
-            "BTC/USD actual": 6373.159835772942,
-            "ETH/USD actual": 306.2340047623529
+            "BTC/USD actual": 6756.359236492729,
+            "ETH/USD actual": 328.34420671515153
         }
     ],
     [
         1534377600000,
         {
-            "BTC/USD actual": 6371.55601918706,
-            "ETH/USD actual": 300.5359901994118
+            "BTC/USD actual": 6726.823763327274,
+            "ETH/USD actual": 323.45318661636367
         }
     ],
     [
         1534464000000,
         {
-            "BTC/USD actual": 6398.111510492353,
-            "ETH/USD actual": 295.96345553117646
+            "BTC/USD actual": 6713.625798577576,
+            "ETH/USD actual": 319.3041215754546
         }
     ],
     [
         1534550400000,
         {
-            "BTC/USD actual": 6408.367543718824,
-            "ETH/USD actual": 290.73100519235294
+            "BTC/USD actual": 6703.267199526363,
+            "ETH/USD actual": 315.3478508103031
         }
     ],
     [
         1534636800000,
         {
-            "BTC/USD actual": 6452.980253707647,
-            "ETH/USD actual": 288.1210617364706
+            "BTC/USD actual": 6697.880733886666,
+            "ETH/USD actual": 311.53979127
         }
     ],
     [
         1534723200000,
         {
-            "BTC/USD actual": 6502.6164220994115,
-            "ETH/USD actual": 286.7787773088235
+            "BTC/USD actual": 6675.981665,
+            "ETH/USD actual": 305.79997724939403
         }
     ],
     [
         1534809600000,
         {
-            "BTC/USD actual": 6545.081038407648,
-            "ETH/USD actual": 285.06199995411765
+            "BTC/USD actual": 6660.349352849092,
+            "ETH/USD actual": 300.4198810212122
         }
     ],
     [
         1534896000000,
         {
-            "BTC/USD actual": 6588.125338792942,
-            "ETH/USD actual": 285.0819030294119
+            "BTC/USD actual": 6641.522207003941,
+            "ETH/USD actual": 294.56376435424244
         }
     ],
     [
         1534982400000,
         {
-            "BTC/USD actual": 6636.554655083531,
-            "ETH/USD actual": 285.2622368341177
+            "BTC/USD actual": 6618.695485258486,
+            "ETH/USD actual": 288.2550912427273
         }
     ],
     [
         1535068800000,
         {
-            "BTC/USD actual": 6690.970727248824,
-            "ETH/USD actual": 286.08225336647064
+            "BTC/USD actual": 6604.097929469393,
+            "ETH/USD actual": 282.73520777787877
         }
     ],
     [
         1535155200000,
         {
-            "BTC/USD actual": 6748.799953874706,
-            "ETH/USD actual": 286.5750625376471
+            "BTC/USD actual": 6604.889079721817,
+            "ETH/USD actual": 277.9320746357576
         }
     ],
     [
         1535241600000,
         {
-            "BTC/USD actual": 6788.894107062353,
-            "ETH/USD actual": 284.9460454252942
+            "BTC/USD actual": 6597.421364443333,
+            "ETH/USD actual": 272.530626080303
         }
     ],
     [
         1535328000000,
         {
-            "BTC/USD actual": 6845.616116381766,
-            "ETH/USD actual": 284.3672632035294
+            "BTC/USD actual": 6602.724129386969,
+            "ETH/USD actual": 268.02337725181815
         }
     ],
     [
         1535414400000,
         {
-            "BTC/USD actual": 6858.168504336472,
-            "ETH/USD actual": 280.16841550352945
+            "BTC/USD actual": 6610.289034176362,
+            "ETH/USD actual": 264.78514890363635
         }
     ],
     [
         1535500800000,
         {
-            "BTC/USD actual": 6873.158359973531,
-            "ETH/USD actual": 277.71944861882355
+            "BTC/USD actual": 6615.490078479393,
+            "ETH/USD actual": 261.4775412406061
         }
     ],
     [
         1535587200000,
         {
-            "BTC/USD actual": 6868.940736411178,
-            "ETH/USD actual": 273.8681260358823
+            "BTC/USD actual": 6623.403206509999,
+            "ETH/USD actual": 259.5781882933333
         }
     ],
     [
         1535673600000,
         {
-            "BTC/USD actual": 6858.655978121766,
-            "ETH/USD actual": 269.5375661952941
+            "BTC/USD actual": 6632.687073663939,
+            "ETH/USD actual": 257.8026320457576
         }
     ],
     [
         1535760000000,
         {
-            "BTC/USD actual": 6841.82032641647,
-            "ETH/USD actual": 264.8469616241177
+            "BTC/USD actual": 6632.170096658787,
+            "ETH/USD actual": 255.22133208939394
         }
     ],
     [
         1535846400000,
         {
-            "BTC/USD actual": 6819.225094644117,
-            "ETH/USD actual": 259.89898477117646
+            "BTC/USD actual": 6632.68046232212,
+            "ETH/USD actual": 252.84411086454548
         }
     ],
     [
         1535932800000,
         {
-            "BTC/USD actual": 6792.9687193,
-            "ETH/USD actual": 254.44756958411767
+            "BTC/USD actual": 6626.809175483331,
+            "ETH/USD actual": 249.59330641272726
         }
     ],
     [
         1536019200000,
         {
-            "BTC/USD actual": 6770.484841386471,
-            "ETH/USD actual": 249.0665642711765
+            "BTC/USD actual": 6629.67927785818,
+            "ETH/USD actual": 247.45614225999998
         }
     ],
     [
         1536105600000,
         {
-            "BTC/USD actual": 6745.391286050588,
-            "ETH/USD actual": 244.57839056529411
+            "BTC/USD actual": 6637.937483960906,
+            "ETH/USD actual": 245.88439624969698
         }
     ],
     [
         1536192000000,
         {
-            "BTC/USD actual": 6710.6075534764705,
-            "ETH/USD actual": 239.51194112411764
+            "BTC/USD actual": 6651.947489246362,
+            "ETH/USD actual": 244.9710281648485
         }
     ],
     [
         1536278400000,
         {
-            "BTC/USD actual": 6679.92165818647,
-            "ETH/USD actual": 235.53994864941177
+            "BTC/USD actual": 6658.844105859392,
+            "ETH/USD actual": 243.8694103
         }
     ],
     [
         1536364800000,
         {
-            "BTC/USD actual": 6651.311534852352,
-            "ETH/USD actual": 231.7537352976471
+            "BTC/USD actual": 6665.562253363938,
+            "ETH/USD actual": 242.5823977090909
         }
     ],
     [
         1536451200000,
         {
-            "BTC/USD actual": 6606.45564359353,
-            "ETH/USD actual": 226.70991285058827
+            "BTC/USD actual": 6663.022956591212,
+            "ETH/USD actual": 240.87175212303035
         }
     ],
     [
         1536537600000,
         {
-            "BTC/USD actual": 6555.730372020588,
-            "ETH/USD actual": 221.60172877529413
+            "BTC/USD actual": 6655.951526110303,
+            "ETH/USD actual": 238.84005327393936
         }
     ],
     [
         1536624000000,
         {
-            "BTC/USD actual": 6502.231563474704,
-            "ETH/USD actual": 216.58232369941177
+            "BTC/USD actual": 6654.496729182727,
+            "ETH/USD actual": 237.36252773121214
         }
     ],
     [
         1536710400000,
         {
-            "BTC/USD actual": 6456.597634864704,
-            "ETH/USD actual": 212.77166558882354
+            "BTC/USD actual": 6652.157134400303,
+            "ETH/USD actual": 235.75950102303034
         }
     ],
     [
         1536796800000,
         {
-            "BTC/USD actual": 6421.270936677057,
-            "ETH/USD actual": 210.5598534117647
+            "BTC/USD actual": 6642.600962846665,
+            "ETH/USD actual": 234.05772394424247
         }
     ],
     [
         1536883200000,
         {
-            "BTC/USD actual": 6422.483484805881,
-            "ETH/USD actual": 211.30691292294117
+            "BTC/USD actual": 6628.588372117272,
+            "ETH/USD actual": 232.16255697000003
         }
     ],
     [
         1536969600000,
         {
-            "BTC/USD actual": 6433.873858974118,
-            "ETH/USD actual": 212.19827759411766
+            "BTC/USD actual": 6614.986989653031,
+            "ETH/USD actual": 230.40530810151515
         }
     ],
     [
         1537056000000,
         {
-            "BTC/USD actual": 6444.328093748823,
-            "ETH/USD actual": 212.93687149588237
+            "BTC/USD actual": 6600.76652779909,
+            "ETH/USD actual": 228.61979878242423
         }
     ],
     [
         1537142400000,
         {
-            "BTC/USD actual": 6459.207280124706,
-            "ETH/USD actual": 214.25458176529412
+            "BTC/USD actual": 6584.701609875455,
+            "ETH/USD actual": 226.75265122242425
         }
     ],
     [
         1537228800000,
         {
-            "BTC/USD actual": 6472.213000901765,
-            "ETH/USD actual": 215.3277491035294
+            "BTC/USD actual": 6565.714453006061,
+            "ETH/USD actual": 224.52909477121216
         }
     ],
     [
         1537315200000,
         {
-            "BTC/USD actual": 6494.408712387059,
-            "ETH/USD actual": 217.21080565764706
+            "BTC/USD actual": 6545.038997949395,
+            "ETH/USD actual": 222.48813742636366
         }
     ],
     [
         1537401600000,
         {
-            "BTC/USD actual": 6514.619332458823,
-            "ETH/USD actual": 219.3517624341177
+            "BTC/USD actual": 6524.231785282728,
+            "ETH/USD actual": 220.5310096666667
         }
     ],
     [
         1537488000000,
         {
-            "BTC/USD actual": 6530.388224541174,
-            "ETH/USD actual": 222.18773472764707
+            "BTC/USD actual": 6501.019133445152,
+            "ETH/USD actual": 218.72345594181823
         }
     ],
     [
         1537574400000,
         {
-            "BTC/USD actual": 6538.138666337646,
-            "ETH/USD actual": 223.45256943764704
+            "BTC/USD actual": 6499.3137465203035,
+            "ETH/USD actual": 218.76113631606063
         }
     ],
     [
         1537660800000,
         {
-            "BTC/USD actual": 6544.104454215293,
-            "ETH/USD actual": 224.74531209588235
+            "BTC/USD actual": 6502.759134734848,
+            "ETH/USD actual": 218.70882676545457
         }
     ],
     [
         1537747200000,
         {
-            "BTC/USD actual": 6544.183550707058,
-            "ETH/USD actual": 224.98620574352938
+            "BTC/USD actual": 6508.151061003333,
+            "ETH/USD actual": 219.012864409697
         }
     ],
     [
         1537833600000,
         {
-            "BTC/USD actual": 6543.40640184706,
-            "ETH/USD actual": 224.98874464764705
+            "BTC/USD actual": 6508.854023689392,
+            "ETH/USD actual": 218.80563409242427
         }
     ],
     [
         1537920000000,
         {
-            "BTC/USD actual": 6561.968595452353,
-            "ETH/USD actual": 226.50320445470587
+            "BTC/USD actual": 6508.74733257606,
+            "ETH/USD actual": 218.8014038721212
         }
     ],
     [
         1538006400000,
         {
-            "BTC/USD actual": 6578.672405386471,
-            "ETH/USD actual": 227.6487611576471
+            "BTC/USD actual": 6507.190538580302,
+            "ETH/USD actual": 218.8703844318182
         }
     ],
     [
         1538092800000,
         {
-            "BTC/USD actual": 6589.773290790588,
-            "ETH/USD actual": 228.53099880058826
+            "BTC/USD actual": 6506.927510235452,
+            "ETH/USD actual": 219.17082470363633
         }
     ],
     [
         1538179200000,
         {
-            "BTC/USD actual": 6595.864071344706,
-            "ETH/USD actual": 228.5920485858824
+            "BTC/USD actual": 6516.393027036059,
+            "ETH/USD actual": 220.0295239212121
         }
     ],
     [
         1538265600000,
         {
-            "BTC/USD actual": 6589.075366951765,
-            "ETH/USD actual": 227.5173815147059
+            "BTC/USD actual": 6519.791643687574,
+            "ETH/USD actual": 220.0089269190909
         }
     ],
     [
         1538352000000,
         {
-            "BTC/USD actual": 6583.557436509999,
-            "ETH/USD actual": 226.7398811964706
+            "BTC/USD actual": 6522.718871674241,
+            "ETH/USD actual": 219.97517280666668
         }
     ],
     [
         1538438400000,
         {
-            "BTC/USD actual": 6576.418943455294,
-            "ETH/USD actual": 225.61718401352942
+            "BTC/USD actual": 6522.269603775453,
+            "ETH/USD actual": 219.40888615303032
         }
     ],
     [
         1538524800000,
         {
-            "BTC/USD actual": 6554.457649929999,
-            "ETH/USD actual": 223.38267211588234
+            "BTC/USD actual": 6521.253579880605,
+            "ETH/USD actual": 218.8882221460606
         }
     ],
     [
         1538611200000,
         {
-            "BTC/USD actual": 6542.344115092941,
-            "ETH/USD actual": 222.0045209017647
+            "BTC/USD actual": 6528.4086024984845,
+            "ETH/USD actual": 219.16353981636365
         }
     ],
     [
         1538697600000,
         {
-            "BTC/USD actual": 6530.453765909411,
-            "ETH/USD actual": 221.13433348941177
+            "BTC/USD actual": 6533.654174952122,
+            "ETH/USD actual": 219.06660702636364
         }
     ],
     [
         1538784000000,
         {
-            "BTC/USD actual": 6506.510823696468,
-            "ETH/USD actual": 219.13426370705884
+            "BTC/USD actual": 6536.257772391213,
+            "ETH/USD actual": 218.87981534181816
         }
     ],
     [
         1538870400000,
         {
-            "BTC/USD actual": 6506.9427506205875,
-            "ETH/USD actual": 218.53190283823528
+            "BTC/USD actual": 6535.611568743639,
+            "ETH/USD actual": 218.25069893454543
         }
     ],
     [
         1538956800000,
         {
-            "BTC/USD actual": 6506.996725329999,
-            "ETH/USD actual": 217.30719634000002
+            "BTC/USD actual": 6527.088342663032,
+            "ETH/USD actual": 216.89711586636363
         }
     ],
     [
         1539043200000,
         {
-            "BTC/USD actual": 6505.0961702635295,
-            "ETH/USD actual": 215.8540777482353
+            "BTC/USD actual": 6519.306022028184,
+            "ETH/USD actual": 215.69049799999996
         }
     ],
     [
         1539129600000,
         {
-            "BTC/USD actual": 6499.940850306471,
-            "ETH/USD actual": 214.19395310235294
+            "BTC/USD actual": 6512.319817545759,
+            "ETH/USD actual": 214.4422834560606
         }
     ],
     [
         1539216000000,
         {
-            "BTC/USD actual": 6496.9628712458825,
-            "ETH/USD actual": 212.86302770941177
+            "BTC/USD actual": 6508.894745338183,
+            "ETH/USD actual": 213.6782801421212
         }
     ],
     [
         1539302400000,
         {
-            "BTC/USD actual": 6497.180982214706,
-            "ETH/USD actual": 211.97810835647056
+            "BTC/USD actual": 6509.610579416367,
+            "ETH/USD actual": 213.20833955424246
         }
     ],
     [
         1539388800000,
         {
-            "BTC/USD actual": 6493.495714621766,
-            "ETH/USD actual": 210.9980760941176
+            "BTC/USD actual": 6505.354417774851,
+            "ETH/USD actual": 212.64767694848487
         }
     ],
     [
         1539475200000,
         {
-            "BTC/USD actual": 6485.185655038235,
-            "ETH/USD actual": 209.57793377058823
+            "BTC/USD actual": 6493.74058061667,
+            "ETH/USD actual": 211.6493057206061
         }
     ],
     [
         1539561600000,
         {
-            "BTC/USD actual": 6478.687802759412,
-            "ETH/USD actual": 208.34518004999998
+            "BTC/USD actual": 6484.860043808488,
+            "ETH/USD actual": 210.928886350303
         }
     ],
     [
         1539648000000,
         {
-            "BTC/USD actual": 6471.875872217647,
-            "ETH/USD actual": 207.01460502999998
+            "BTC/USD actual": 6478.334718930912,
+            "ETH/USD actual": 209.9412605406061
         }
     ],
     [
         1539734400000,
         {
-            "BTC/USD actual": 6461.292019615295,
-            "ETH/USD actual": 205.34626207411765
+            "BTC/USD actual": 6471.627327731518,
+            "ETH/USD actual": 208.9837702957576
         }
     ],
     [
         1539820800000,
         {
-            "BTC/USD actual": 6452.432831489413,
-            "ETH/USD actual": 203.9161641111765
+            "BTC/USD actual": 6465.232518320911,
+            "ETH/USD actual": 208.02960401787877
         }
     ],
     [
         1539907200000,
         {
-            "BTC/USD actual": 6445.771716281177,
-            "ETH/USD actual": 202.5815020352941
+            "BTC/USD actual": 6463.633522820002,
+            "ETH/USD actual": 207.59666254606063
         }
     ],
     [
         1539993600000,
         {
-            "BTC/USD actual": 6460.67588830059,
-            "ETH/USD actual": 203.38924530882355
+            "BTC/USD actual": 6462.102708633639,
+            "ETH/USD actual": 207.28090225606067
         }
     ],
     [
         1540080000000,
         {
-            "BTC/USD actual": 6465.626754522942,
-            "ETH/USD actual": 203.38227919294118
+            "BTC/USD actual": 6459.515370520306,
+            "ETH/USD actual": 207.21557630515153
         }
     ],
     [
         1540166400000,
         {
-            "BTC/USD actual": 6468.299970457648,
-            "ETH/USD actual": 203.1934175711765
+            "BTC/USD actual": 6457.173483113638,
+            "ETH/USD actual": 206.9226933890909
         }
     ],
     [
         1540252800000,
         {
-            "BTC/USD actual": 6471.782485865295,
-            "ETH/USD actual": 203.35270563058822
+            "BTC/USD actual": 6453.49883398879,
+            "ETH/USD actual": 206.5176644706061
         }
     ],
     [
         1540339200000,
         {
-            "BTC/USD actual": 6456.5103323370595,
-            "ETH/USD actual": 202.60463522411763
+            "BTC/USD actual": 6447.235968932728,
+            "ETH/USD actual": 206.0253076245455
         }
     ],
     [
         1540425600000,
         {
-            "BTC/USD actual": 6444.643229481765,
-            "ETH/USD actual": 202.05079481588234
+            "BTC/USD actual": 6439.413050198789,
+            "ETH/USD actual": 205.49267992696974
         }
     ],
     [
         1540512000000,
         {
-            "BTC/USD actual": 6432.513297705882,
-            "ETH/USD actual": 201.5568550352941
+            "BTC/USD actual": 6433.0511166860615,
+            "ETH/USD actual": 205.00945761606062
         }
     ],
     [
         1540598400000,
         {
-            "BTC/USD actual": 6430.3605700288235,
-            "ETH/USD actual": 202.05659521235296
+            "BTC/USD actual": 6427.10627299091,
+            "ETH/USD actual": 204.56989354363637
         }
     ],
     [
         1540684800000,
         {
-            "BTC/USD actual": 6428.584122367647,
-            "ETH/USD actual": 202.45688839058823
+            "BTC/USD actual": 6431.749292105152,
+            "ETH/USD actual": 205.0713501651515
         }
     ],
     [
         1540771200000,
         {
-            "BTC/USD actual": 6428.234674553529,
-            "ETH/USD actual": 203.31009881529414
+            "BTC/USD actual": 6417.879524471213,
+            "ETH/USD actual": 204.6892981878788
         }
     ],
     [
         1540857600000,
         {
-            "BTC/USD actual": 6430.209885935293,
-            "ETH/USD actual": 204.07528174411766
+            "BTC/USD actual": 6400.069476719091,
+            "ETH/USD actual": 204.15194553272727
         }
     ],
     [
         1540944000000,
         {
-            "BTC/USD actual": 6429.12358683294,
-            "ETH/USD actual": 204.53388240352945
+            "BTC/USD actual": 6379.0252275718185,
+            "ETH/USD actual": 203.5427273442424
         }
     ],
     [
         1541030400000,
         {
-            "BTC/USD actual": 6424.311436417646,
-            "ETH/USD actual": 204.8604066311765
+            "BTC/USD actual": 6346.4073866378785,
+            "ETH/USD actual": 202.4132432984848
         }
     ],
     [
         1541116800000,
         {
-            "BTC/USD actual": 6418.882152168235,
-            "ETH/USD actual": 205.37935880882355
+            "BTC/USD actual": 6316.64887122212,
+            "ETH/USD actual": 201.41564583060602
         }
     ],
     [
         1541203200000,
         {
-            "BTC/USD actual": 6416.1214437870585,
-            "ETH/USD actual": 206.00609692176474
+            "BTC/USD actual": 6263.642215225454,
+            "ETH/USD actual": 199.6133660960606
         }
     ],
     [
         1541289600000,
         {
-            "BTC/USD actual": 6411.00441579,
-            "ETH/USD actual": 206.45313300705882
+            "BTC/USD actual": 6202.092388372423,
+            "ETH/USD actual": 197.43678767454543
         }
     ],
     [
         1541376000000,
         {
-            "BTC/USD actual": 6404.704711301176,
-            "ETH/USD actual": 206.6751021605882
+            "BTC/USD actual": 6145.232884100908,
+            "ETH/USD actual": 195.42435102757577
         }
     ],
     [
         1541462400000,
         {
-            "BTC/USD actual": 6364.277949611177,
-            "ETH/USD actual": 205.46755824941178
+            "BTC/USD actual": 6079.732516589393,
+            "ETH/USD actual": 193.001612230303
         }
     ],
     [
         1541548800000,
         {
-            "BTC/USD actual": 6326.0771156247065,
-            "ETH/USD actual": 204.64261956470588
+            "BTC/USD actual": 6014.518202530606,
+            "ETH/USD actual": 190.5308889072727
         }
     ],
     [
         1541635200000,
         {
-            "BTC/USD actual": 6283.828079550589,
-            "ETH/USD actual": 203.39796450588233
+            "BTC/USD actual": 5935.582344686364,
+            "ETH/USD actual": 187.78151491848485
         }
     ],
     [
         1541721600000,
         {
-            "BTC/USD actual": 6238.181710230588,
-            "ETH/USD actual": 202.00153691411765
+            "BTC/USD actual": 5861.295680796061,
+            "ETH/USD actual": 185.14307882303035
         }
     ],
     [
         1541808000000,
         {
-            "BTC/USD actual": 6193.135962130587,
-            "ETH/USD actual": 200.75747366764702
+            "BTC/USD actual": 5780.177793656364,
+            "ETH/USD actual": 182.29756472060612
         }
     ],
     [
         1541894400000,
         {
-            "BTC/USD actual": 6101.360363634118,
-            "ETH/USD actual": 197.66446959588234
+            "BTC/USD actual": 5700.3598025596975,
+            "ETH/USD actual": 179.54738970454548
         }
     ],
     [
         1541980800000,
         {
-            "BTC/USD actual": 5989.139421582941,
-            "ETH/USD actual": 193.63142725941174
+            "BTC/USD actual": 5633.2303654530315,
+            "ETH/USD actual": 177.11267013030306
         }
     ],
     [
         1542067200000,
         {
-            "BTC/USD actual": 5878.891043144116,
-            "ETH/USD actual": 189.23442299705883
+            "BTC/USD actual": 5566.9129565581825,
+            "ETH/USD actual": 174.53690946242426
         }
     ],
     [
         1542153600000,
         {
-            "BTC/USD actual": 5754.932962364117,
-            "ETH/USD actual": 184.25948654176472
+            "BTC/USD actual": 5492.535193836364,
+            "ETH/USD actual": 171.78755595545456
         }
     ],
     [
         1542240000000,
         {
-            "BTC/USD actual": 5629.677682641764,
-            "ETH/USD actual": 178.61015349823526
+            "BTC/USD actual": 5428.142822506061,
+            "ETH/USD actual": 169.4542674787879
         }
     ],
     [
         1542326400000,
         {
-            "BTC/USD actual": 5472.685209855882,
-            "ETH/USD actual": 172.42152850411762
+            "BTC/USD actual": 5362.6801554387885,
+            "ETH/USD actual": 167.03124705606064
         }
     ],
     [
         1542412800000,
         {
-            "BTC/USD actual": 5329.116975973529,
-            "ETH/USD actual": 166.85333732235293
+            "BTC/USD actual": 5288.050757891818,
+            "ETH/USD actual": 164.3218351239394
         }
     ],
     [
         1542499200000,
         {
-            "BTC/USD actual": 5176.998237857647,
-            "ETH/USD actual": 160.9548688047059
+            "BTC/USD actual": 5214.253714214242,
+            "ETH/USD actual": 161.63491741272725
         }
     ],
     [
         1542585600000,
         {
-            "BTC/USD actual": 5026.659244786471,
-            "ETH/USD actual": 154.9818751717647
+            "BTC/USD actual": 5133.921636145757,
+            "ETH/USD actual": 158.62685264848483
         }
     ],
     [
         1542672000000,
         {
-            "BTC/USD actual": 4899.839608507648,
-            "ETH/USD actual": 149.76357663882354
+            "BTC/USD actual": 5045.419149693636,
+            "ETH/USD actual": 155.32691259272724
         }
     ],
     [
         1542758400000,
         {
-            "BTC/USD actual": 4775.984690264706,
-            "ETH/USD actual": 144.2821799952941
+            "BTC/USD actual": 4953.335802303333,
+            "ETH/USD actual": 151.76490885484847
         }
     ],
     [
         1542844800000,
         {
-            "BTC/USD actual": 4637.495579896471,
-            "ETH/USD actual": 138.7795271370588
+            "BTC/USD actual": 4863.134203641819,
+            "ETH/USD actual": 148.18350700424244
         }
     ],
     [
         1542931200000,
         {
-            "BTC/USD actual": 4544.373156590588,
-            "ETH/USD actual": 134.98486664
+            "BTC/USD actual": 4775.2460278866665,
+            "ETH/USD actual": 144.3906416930303
         }
     ],
     [
         1543017600000,
         {
-            "BTC/USD actual": 4454.544229148823,
-            "ETH/USD actual": 131.13559111647058
+            "BTC/USD actual": 4682.042235479394,
+            "ETH/USD actual": 140.53534241666665
         }
     ],
     [
         1543104000000,
         {
-            "BTC/USD actual": 4354.00851531,
-            "ETH/USD actual": 127.21803249705879
+            "BTC/USD actual": 4589.298609370302,
+            "ETH/USD actual": 136.80161306242422
         }
     ],
     [
         1543190400000,
         {
-            "BTC/USD actual": 4258.800262338235,
-            "ETH/USD actual": 123.44670850470587
+            "BTC/USD actual": 4501.237926444847,
+            "ETH/USD actual": 133.20598503909093
         }
     ],
     [
         1543276800000,
         {
-            "BTC/USD actual": 4148.760949627647,
-            "ETH/USD actual": 118.99019628588233
+            "BTC/USD actual": 4407.921374581515,
+            "ETH/USD actual": 129.41140383030302
         }
     ],
     [
         1543363200000,
         {
-            "BTC/USD actual": 4067.7273469676475,
-            "ETH/USD actual": 115.58903352882352
+            "BTC/USD actual": 4311.630436652727,
+            "ETH/USD actual": 125.54506205999998
         }
     ],
     [
         1543449600000,
         {
-            "BTC/USD actual": 4006.3036676594115,
-            "ETH/USD actual": 113.39941867999998
+            "BTC/USD actual": 4216.062759461819,
+            "ETH/USD actual": 121.71126573181819
         }
     ],
     [
         1543536000000,
         {
-            "BTC/USD actual": 3939.804330888236,
-            "ETH/USD actual": 110.75407352176472
+            "BTC/USD actual": 4121.960146300304,
+            "ETH/USD actual": 118.04495963818182
         }
     ],
     [
         1543622400000,
         {
-            "BTC/USD actual": 3895.9961964835297,
-            "ETH/USD actual": 108.94762659588235
+            "BTC/USD actual": 4054.5166250590914,
+            "ETH/USD actual": 115.39334362303032
         }
     ],
     [
         1543708800000,
         {
-            "BTC/USD actual": 3843.6388910711767,
-            "ETH/USD actual": 107.02510326235294
+            "BTC/USD actual": 3995.242215815758,
+            "ETH/USD actual": 112.99867580121213
         }
     ],
     [
         1543795200000,
         {
-            "BTC/USD actual": 3815.749277101764,
-            "ETH/USD actual": 105.57289644764705
+            "BTC/USD actual": 3939.3703080121213,
+            "ETH/USD actual": 110.7508925430303
         }
     ],
     [
         1543881600000,
         {
-            "BTC/USD actual": 3784.1993250299997,
-            "ETH/USD actual": 104.04134222705882
+            "BTC/USD actual": 3896.2936541072722,
+            "ETH/USD actual": 109.00448876969699
         }
     ],
     [
         1543968000000,
         {
-            "BTC/USD actual": 3755.0902798464704,
-            "ETH/USD actual": 102.71798766882351
+            "BTC/USD actual": 3844.8572021609093,
+            "ETH/USD actual": 106.95112338909094
         }
     ],
     [
         1544054400000,
         {
-            "BTC/USD actual": 3720.3526746735292,
-            "ETH/USD actual": 101.17804914117647
+            "BTC/USD actual": 3820.9663263600005,
+            "ETH/USD actual": 106.04053038696973
         }
     ],
     [
         1544140800000,
         {
-            "BTC/USD actual": 3660.0320041600003,
-            "ETH/USD actual": 98.90923035117646
+            "BTC/USD actual": 3807.2764907718183,
+            "ETH/USD actual": 106.06335582515155
         }
     ],
     [
         1544227200000,
         {
-            "BTC/USD actual": 3599.796314918236,
-            "ETH/USD actual": 97.01425838411765
+            "BTC/USD actual": 3792.073993951515,
+            "ETH/USD actual": 106.19778476393941
         }
     ],
     [
         1544313600000,
         {
-            "BTC/USD actual": 3572.830139631765,
-            "ETH/USD actual": 95.99644019235295
+            "BTC/USD actual": 3777.740036201212,
+            "ETH/USD actual": 106.37641487393942
         }
     ],
     [
         1544400000000,
         {
-            "BTC/USD actual": 3544.5641732258823,
-            "ETH/USD actual": 95.05235336705883
+            "BTC/USD actual": 3762.9435658124244,
+            "ETH/USD actual": 106.65468697393942
         }
     ],
     [
         1544486400000,
         {
-            "BTC/USD actual": 3520.9324933694115,
-            "ETH/USD actual": 94.14786456882354
+            "BTC/USD actual": 3756.4181547739395,
+            "ETH/USD actual": 106.77848665787882
         }
     ],
     [
         1544572800000,
         {
-            "BTC/USD actual": 3536.5355675899996,
-            "ETH/USD actual": 94.62080575588236
+            "BTC/USD actual": 3753.4761825527276,
+            "ETH/USD actual": 107.47746569424244
         }
     ],
     [
         1544659200000,
         {
-            "BTC/USD actual": 3534.895674027059,
-            "ETH/USD actual": 94.60657938647059
+            "BTC/USD actual": 3754.0078226454552,
+            "ETH/USD actual": 108.34286537272727
         }
     ],
     [
         1544745600000,
         {
-            "BTC/USD actual": 3552.6824093441182,
-            "ETH/USD actual": 95.58513814705884
+            "BTC/USD actual": 3755.080828698485,
+            "ETH/USD actual": 109.28893353333333
         }
     ],
     [
         1544832000000,
         {
-            "BTC/USD actual": 3585.686024852353,
-            "ETH/USD actual": 98.0021700047059
+            "BTC/USD actual": 3739.848467179091,
+            "ETH/USD actual": 109.61125169090909
         }
     ],
     [
         1544918400000,
         {
-            "BTC/USD actual": 3624.676944578823,
-            "ETH/USD actual": 100.78059387941178
+            "BTC/USD actual": 3727.782445804849,
+            "ETH/USD actual": 110.36638811787878
         }
     ],
     [
         1545004800000,
         {
-            "BTC/USD actual": 3647.9913432147055,
-            "ETH/USD actual": 103.1045429947059
+            "BTC/USD actual": 3726.6154820221213,
+            "ETH/USD actual": 111.69884841848484
         }
     ],
     [
         1545091200000,
         {
-            "BTC/USD actual": 3664.619962144705,
-            "ETH/USD actual": 105.35800610235296
+            "BTC/USD actual": 3714.778778763637,
+            "ETH/USD actual": 112.64570754060604
         }
     ],
     [
         1545177600000,
         {
-            "BTC/USD actual": 3675.885523780588,
-            "ETH/USD actual": 106.89351438411764
+            "BTC/USD actual": 3705.866740258485,
+            "ETH/USD actual": 113.86440469575754
         }
     ],
     [
         1545264000000,
         {
-            "BTC/USD actual": 3706.6381474452937,
-            "ETH/USD actual": 109.92999243117646
+            "BTC/USD actual": 3705.993694819091,
+            "ETH/USD actual": 115.32606578696968
         }
     ],
     [
         1545350400000,
         {
-            "BTC/USD actual": 3726.4927422470587,
-            "ETH/USD actual": 112.69116592294117
+            "BTC/USD actual": 3708.3907784684848,
+            "ETH/USD actual": 116.80949963060607
         }
     ],
     [
         1545436800000,
         {
-            "BTC/USD actual": 3759.380538072353,
-            "ETH/USD actual": 115.92060930117646
+            "BTC/USD actual": 3716.8225881415146,
+            "ETH/USD actual": 118.34753766969695
         }
     ],
     [
         1545523200000,
         {
-            "BTC/USD actual": 3789.909903058823,
-            "ETH/USD actual": 118.83323886352939
+            "BTC/USD actual": 3733.3535328690905,
+            "ETH/USD actual": 120.19086483575755
         }
     ],
     [
         1545609600000,
         {
-            "BTC/USD actual": 3828.146434342353,
-            "ETH/USD actual": 122.25977050941177
+            "BTC/USD actual": 3751.1717704593934,
+            "ETH/USD actual": 121.93966010969694
         }
     ],
     [
         1545696000000,
         {
-            "BTC/USD actual": 3870.061819827059,
-            "ETH/USD actual": 126.46060535764705
+            "BTC/USD actual": 3757.7410252527266,
+            "ETH/USD actual": 123.05282899030301
         }
     ],
     [
         1545782400000,
         {
-            "BTC/USD actual": 3884.88204319353,
-            "ETH/USD actual": 129.6512201270588
+            "BTC/USD actual": 3759.924783976969,
+            "ETH/USD actual": 124.05111989030303
         }
     ],
     [
         1545868800000,
         {
-            "BTC/USD actual": 3892.815364831765,
-            "ETH/USD actual": 132.81612367647057
+            "BTC/USD actual": 3764.829603002424,
+            "ETH/USD actual": 125.11523475000001
         }
     ],
     [
         1545955200000,
         {
-            "BTC/USD actual": 3900.9833249941184,
-            "ETH/USD actual": 136.09925114705882
+            "BTC/USD actual": 3768.8784935312115,
+            "ETH/USD actual": 125.98171178757575
         }
     ],
     [
         1546041600000,
         {
-            "BTC/USD actual": 3894.047621392353,
-            "ETH/USD actual": 138.59761194058828
+            "BTC/USD actual": 3775.18423266606,
+            "ETH/USD actual": 127.16422789121216
         }
     ],
     [
         1546128000000,
         {
-            "BTC/USD actual": 3900.2231694723528,
-            "ETH/USD actual": 141.1126475364706
+            "BTC/USD actual": 3784.526660929696,
+            "ETH/USD actual": 128.21987032424246
         }
     ],
     [
         1546214400000,
         {
-            "BTC/USD actual": 3897.655453720588,
-            "ETH/USD actual": 143.0573298117647
+            "BTC/USD actual": 3795.8564324581807,
+            "ETH/USD actual": 129.404793969697
         }
     ],
     [
         1546300800000,
         {
-            "BTC/USD actual": 3897.3945046999997,
-            "ETH/USD actual": 144.21812699705882
+            "BTC/USD actual": 3808.984065812423,
+            "ETH/USD actual": 130.6023887987879
         }
     ],
     [
         1546387200000,
         {
-            "BTC/USD actual": 3873.157979884706,
-            "ETH/USD actual": 143.4726887847059
+            "BTC/USD actual": 3820.025281313333,
+            "ETH/USD actual": 131.67182075000005
         }
     ],
     [
         1546473600000,
         {
-            "BTC/USD actual": 3861.4136480482352,
-            "ETH/USD actual": 143.2573480982353
+            "BTC/USD actual": 3824.3938330751507,
+            "ETH/USD actual": 132.5618126224243
         }
     ],
     [
         1546560000000,
         {
-            "BTC/USD actual": 3847.3000220870586,
-            "ETH/USD actual": 142.8602842394118
+            "BTC/USD actual": 3819.8219027548485,
+            "ETH/USD actual": 133.0454045254546
         }
     ],
     [
         1546646400000,
         {
-            "BTC/USD actual": 3839.9369935129407,
-            "ETH/USD actual": 142.84974522882356
+            "BTC/USD actual": 3813.714407521515,
+            "ETH/USD actual": 133.53089449363642
         }
     ],
     [
         1546732800000,
         {
-            "BTC/USD actual": 3826.338481132353,
-            "ETH/USD actual": 142.25682178588235
+            "BTC/USD actual": 3796.6769356560603,
+            "ETH/USD actual": 133.6159364875758
         }
     ],
     [
         1546819200000,
         {
-            "BTC/USD actual": 3814.3327306335295,
-            "ETH/USD actual": 141.30276198647059
+            "BTC/USD actual": 3786.0189028715154,
+            "ETH/USD actual": 133.8616052866667
         }
     ],
     [
         1546905600000,
         {
-            "BTC/USD actual": 3799.5053172658822,
-            "ETH/USD actual": 140.22648410588238
+            "BTC/USD actual": 3772.040620855758,
+            "ETH/USD actual": 133.84924601424245
         }
     ],
     [
         1546992000000,
         {
-            "BTC/USD actual": 3794.2364015070593,
-            "ETH/USD actual": 139.65673179588234
+            "BTC/USD actual": 3758.3371911875765,
+            "ETH/USD actual": 133.37629641545456
         }
     ],
     [
         1547078400000,
         {
-            "BTC/USD actual": 3778.855936787648,
-            "ETH/USD actual": 138.3718629052941
+            "BTC/USD actual": 3743.62713360091,
+            "ETH/USD actual": 132.6335760060606
         }
     ],
     [
         1547164800000,
         {
-            "BTC/USD actual": 3762.635174028824,
-            "ETH/USD actual": 136.49513541176472
+            "BTC/USD actual": 3735.08447802697,
+            "ETH/USD actual": 132.07421620636367
         }
     ],
     [
         1547251200000,
         {
-            "BTC/USD actual": 3748.471413914707,
-            "ETH/USD actual": 134.65176516117646
+            "BTC/USD actual": 3722.1426868015155,
+            "ETH/USD actual": 131.27901149363638
         }
     ],
     [
         1547337600000,
         {
-            "BTC/USD actual": 3730.2838474682358,
-            "ETH/USD actual": 132.32399182352944
+            "BTC/USD actual": 3714.428192146061,
+            "ETH/USD actual": 130.91466534060606
         }
     ],
     [
         1547424000000,
         {
-            "BTC/USD actual": 3712.567740979411,
-            "ETH/USD actual": 130.12467241
+            "BTC/USD actual": 3700.0378870372733,
+            "ETH/USD actual": 129.99096872303033
         }
     ],
     [
         1547510400000,
         {
-            "BTC/USD actual": 3685.5855625741174,
-            "ETH/USD actual": 127.70772566000002
+            "BTC/USD actual": 3688.241643592728,
+            "ETH/USD actual": 129.06641781939393
         }
     ],
     [
         1547596800000,
         {
-            "BTC/USD actual": 3659.8703552011766,
-            "ETH/USD actual": 125.67668963941178
+            "BTC/USD actual": 3676.0141420336367,
+            "ETH/USD actual": 128.0330547909091
         }
     ],
     [
         1547683200000,
         {
-            "BTC/USD actual": 3634.183714529412,
-            "ETH/USD actual": 123.59741954176471
+            "BTC/USD actual": 3667.2229569218184,
+            "ETH/USD actual": 127.35418707272727
         }
     ],
     [
         1547769600000,
         {
-            "BTC/USD actual": 3610.03147303,
-            "ETH/USD actual": 121.53937179588235
+            "BTC/USD actual": 3653.207348235758,
+            "ETH/USD actual": 126.29020004969695
         }
     ],
     [
         1547856000000,
         {
-            "BTC/USD actual": 3604.010986835294,
-            "ETH/USD actual": 120.61664759058824
+            "BTC/USD actual": 3636.4178789300004,
+            "ETH/USD actual": 124.78370832636362
         }
     ],
     [
         1547942400000,
         {
-            "BTC/USD actual": 3591.278244098235,
-            "ETH/USD actual": 119.38861921470588
+            "BTC/USD actual": 3625.35626450697,
+            "ETH/USD actual": 123.48908998636364
         }
     ],
     [
         1548028800000,
         {
-            "BTC/USD actual": 3578.0474909417644,
-            "ETH/USD actual": 118.15123258941176
+            "BTC/USD actual": 3611.0240513781823,
+            "ETH/USD actual": 121.9254323430303
         }
     ],
     [
         1548115200000,
         {
-            "BTC/USD actual": 3573.0063818982353,
-            "ETH/USD actual": 117.71266765882353
+            "BTC/USD actual": 3595.499681659394,
+            "ETH/USD actual": 120.3523824369697
         }
     ],
     [
         1548201600000,
         {
-            "BTC/USD actual": 3557.721834045882,
-            "ETH/USD actual": 116.38365225411765
+            "BTC/USD actual": 3583.4767111690912,
+            "ETH/USD actual": 119.16523745333333
         }
     ],
     [
         1548288000000,
         {
-            "BTC/USD actual": 3548.7385896270584,
-            "ETH/USD actual": 115.55796738352942
+            "BTC/USD actual": 3572.673424410303,
+            "ETH/USD actual": 118.17020144212121
         }
     ],
     [
         1548374400000,
         {
-            "BTC/USD actual": 3540.2096270176467,
-            "ETH/USD actual": 114.85264900470587
+            "BTC/USD actual": 3563.6732909754546,
+            "ETH/USD actual": 117.39597263878787
         }
     ],
     [
         1548460800000,
         {
-            "BTC/USD actual": 3525.756335517059,
-            "ETH/USD actual": 113.88905117294117
+            "BTC/USD actual": 3552.0264688830302,
+            "ETH/USD actual": 116.47825394575757
         }
     ],
     [
         1548547200000,
         {
-            "BTC/USD actual": 3513.6474504947064,
-            "ETH/USD actual": 113.08956359411764
+            "BTC/USD actual": 3550.9541192839392,
+            "ETH/USD actual": 116.31584437515151
         }
     ],
     [
         1548633600000,
         {
-            "BTC/USD actual": 3498.514998325883,
-            "ETH/USD actual": 112.0394644217647
+            "BTC/USD actual": 3550.091392102121,
+            "ETH/USD actual": 116.17076260363635
         }
     ],
     [
         1548720000000,
         {
-            "BTC/USD actual": 3487.50188863,
-            "ETH/USD actual": 111.23029532235294
+            "BTC/USD actual": 3549.512303920303,
+            "ETH/USD actual": 116.0215062290909
         }
     ],
     [
         1548806400000,
         {
-            "BTC/USD actual": 3477.3900336147058,
-            "ETH/USD actual": 110.51743362529412
+            "BTC/USD actual": 3551.982399048182,
+            "ETH/USD actual": 116.19207465242422
         }
     ],
     [
         1548892800000,
         {
-            "BTC/USD actual": 3480.1883620941176,
-            "ETH/USD actual": 110.5462549917647
+            "BTC/USD actual": 3550.3080183848488,
+            "ETH/USD actual": 116.00172422848485
         }
     ],
     [
         1548979200000,
         {
-            "BTC/USD actual": 3486.081946577059,
-            "ETH/USD actual": 110.65286360294118
+            "BTC/USD actual": 3552.682900671515,
+            "ETH/USD actual": 116.39927248515153
         }
     ],
     [
         1549065600000,
         {
-            "BTC/USD actual": 3493.1776957176476,
-            "ETH/USD actual": 111.11862267117647
+            "BTC/USD actual": 3562.2723713027276,
+            "ETH/USD actual": 117.11584013000001
         }
     ],
     [
         1549152000000,
         {
-            "BTC/USD actual": 3496.9089849323536,
-            "ETH/USD actual": 111.41604455588235
+            "BTC/USD actual": 3570.485238913939,
+            "ETH/USD actual": 117.7484645869697
         }
     ],
     [
         1549238400000,
         {
-            "BTC/USD actual": 3499.1456579752944,
-            "ETH/USD actual": 111.79709208941176
+            "BTC/USD actual": 3581.6851707975757,
+            "ETH/USD actual": 118.61771985969698
         }
     ],
     [
         1549324800000,
         {
-            "BTC/USD actual": 3502.3094224294123,
-            "ETH/USD actual": 112.38593816352942
+            "BTC/USD actual": 3589.5472758081814,
+            "ETH/USD actual": 119.27594490606063
         }
     ],
     [
         1549411200000,
         {
-            "BTC/USD actual": 3512.193984729412,
-            "ETH/USD actual": 113.24277402000001
+            "BTC/USD actual": 3602.887232965151,
+            "ETH/USD actual": 120.21976685848485
         }
     ],
     [
         1549497600000,
         {
-            "BTC/USD actual": 3524.6010422052946,
-            "ETH/USD actual": 114.27059859882355
+            "BTC/USD actual": 3621.7760960303017,
+            "ETH/USD actual": 121.52358849121212
         }
     ],
     [
         1549584000000,
         {
-            "BTC/USD actual": 3535.686383160001,
-            "ETH/USD actual": 115.10122953176472
+            "BTC/USD actual": 3628.2855543603023,
+            "ETH/USD actual": 121.9656727909091
         }
     ],
     [
         1549670400000,
         {
-            "BTC/USD actual": 3551.1892884923536,
-            "ETH/USD actual": 116.71359751411765
+            "BTC/USD actual": 3636.8606490490897,
+            "ETH/USD actual": 122.61277155242425
         }
     ],
     [
         1549756800000,
         {
-            "BTC/USD actual": 3578.7124682000003,
-            "ETH/USD actual": 119.03424388176472
+            "BTC/USD actual": 3644.319524504241,
+            "ETH/USD actual": 123.20240203757577
         }
     ],
     [
         1549843200000,
         {
-            "BTC/USD actual": 3606.451419491765,
-            "ETH/USD actual": 121.0103293235294
+            "BTC/USD actual": 3651.3664189184838,
+            "ETH/USD actual": 123.81364614939393
         }
     ],
     [
         1549929600000,
         {
-            "BTC/USD actual": 3640.018768819412,
-            "ETH/USD actual": 123.47822488941178
+            "BTC/USD actual": 3658.2945964824235,
+            "ETH/USD actual": 124.42157153424245
         }
     ],
     [
         1550016000000,
         {
-            "BTC/USD actual": 3671.6510620864715,
-            "ETH/USD actual": 125.80359465470592
+            "BTC/USD actual": 3666.3609177842413,
+            "ETH/USD actual": 125.1451570587879
         }
     ],
     [
         1550102400000,
         {
-            "BTC/USD actual": 3704.8550585688245,
-            "ETH/USD actual": 128.30543203058826
+            "BTC/USD actual": 3679.0823166448463,
+            "ETH/USD actual": 125.98694431545458
         }
     ],
     [
         1550188800000,
         {
-            "BTC/USD actual": 3751.1554635576476,
-            "ETH/USD actual": 131.54394199352942
+            "BTC/USD actual": 3691.7684947403013,
+            "ETH/USD actual": 126.79377186121212
         }
     ],
     [
         1550275200000,
         {
-            "BTC/USD actual": 3776.2109056341183,
-            "ETH/USD actual": 133.25635368529413
+            "BTC/USD actual": 3700.900346879392,
+            "ETH/USD actual": 127.31920169090908
         }
     ],
     [
         1550361600000,
         {
-            "BTC/USD actual": 3789.2132066941176,
-            "ETH/USD actual": 134.3999977347059
+            "BTC/USD actual": 3714.903301460302,
+            "ETH/USD actual": 128.26672988303034
         }
     ],
     [
         1550448000000,
         {
-            "BTC/USD actual": 3798.948078912941,
-            "ETH/USD actual": 135.44507903058823
+            "BTC/USD actual": 3727.743931004242,
+            "ETH/USD actual": 129.21777927121215
         }
     ],
     [
         1550534400000,
         {
-            "BTC/USD actual": 3804.411551124706,
-            "ETH/USD actual": 136.05525635647058
+            "BTC/USD actual": 3740.8218802203023,
+            "ETH/USD actual": 130.038052719697
         }
     ],
     [
         1550620800000,
         {
-            "BTC/USD actual": 3816.316661899412,
-            "ETH/USD actual": 136.9587529970588
+            "BTC/USD actual": 3754.8487065257577,
+            "ETH/USD actual": 130.86539293151517
         }
     ],
     [
         1550707200000,
         {
-            "BTC/USD actual": 3828.03594863,
-            "ETH/USD actual": 137.75590162352938
+            "BTC/USD actual": 3771.1433077809093,
+            "ETH/USD actual": 131.8130620587879
         }
     ],
     [
         1550793600000,
         {
-            "BTC/USD actual": 3841.6723917399995,
-            "ETH/USD actual": 138.4435601847059
+            "BTC/USD actual": 3786.5248753024243,
+            "ETH/USD actual": 132.7096502618182
         }
     ],
     [
         1550880000000,
         {
-            "BTC/USD actual": 3854.1918613570583,
-            "ETH/USD actual": 139.06210116941176
+            "BTC/USD actual": 3802.1489358766667,
+            "ETH/USD actual": 133.5937794751515
         }
     ],
     [
         1550966400000,
         {
-            "BTC/USD actual": 3862.0823982764696,
-            "ETH/USD actual": 139.3123848511765
+            "BTC/USD actual": 3818.335996044545,
+            "ETH/USD actual": 134.4982452536364
         }
     ],
     [
         1551052800000,
         {
-            "BTC/USD actual": 3877.230324721764,
-            "ETH/USD actual": 140.192192642353
+            "BTC/USD actual": 3826.2978226948485,
+            "ETH/USD actual": 134.9119419184849
         }
     ],
     [
         1551139200000,
         {
-            "BTC/USD actual": 3888.562942625882,
-            "ETH/USD actual": 140.4409511447059
+            "BTC/USD actual": 3832.127209339697,
+            "ETH/USD actual": 135.27829727303035
         }
     ],
     [
         1551225600000,
         {
-            "BTC/USD actual": 3886.805732563529,
-            "ETH/USD actual": 139.93694403176474
+            "BTC/USD actual": 3838.0837357512123,
+            "ETH/USD actual": 135.59451644939395
         }
     ],
     [
         1551312000000,
         {
-            "BTC/USD actual": 3883.6383608811766,
-            "ETH/USD actual": 139.35132384176472
+            "BTC/USD actual": 3849.0802038487873,
+            "ETH/USD actual": 136.1934275175758
         }
     ],
     [
         1551398400000,
         {
-            "BTC/USD actual": 3881.4191281682356,
-            "ETH/USD actual": 138.70405139235297
+            "BTC/USD actual": 3858.979075441515,
+            "ETH/USD actual": 136.66039441060607
         }
     ],
     [
         1551484800000,
         {
-            "BTC/USD actual": 3880.8832796970587,
-            "ETH/USD actual": 138.11665717117648
+            "BTC/USD actual": 3869.4068593675756,
+            "ETH/USD actual": 137.11909881848487
         }
     ],
     [
         1551571200000,
         {
-            "BTC/USD actual": 3874.3040178111764,
-            "ETH/USD actual": 137.19161393117648
+            "BTC/USD actual": 3881.319452251515,
+            "ETH/USD actual": 137.64922745303033
         }
     ],
     [
         1551657600000,
         {
-            "BTC/USD actual": 3858.9474865835286,
-            "ETH/USD actual": 135.70353204647057
+            "BTC/USD actual": 3894.0930252112116,
+            "ETH/USD actual": 138.14604041818185
         }
     ],
     [
         1551744000000,
         {
-            "BTC/USD actual": 3864.565118272941,
-            "ETH/USD actual": 135.67724800411764
+            "BTC/USD actual": 3904.480150838485,
+            "ETH/USD actual": 138.49116417333335
         }
     ],
     [
         1551830400000,
         {
-            "BTC/USD actual": 3865.1287989058824,
-            "ETH/USD actual": 135.23888411941175
+            "BTC/USD actual": 3914.0950185539386,
+            "ETH/USD actual": 138.56712023666665
         }
     ],
     [
         1551916800000,
         {
-            "BTC/USD actual": 3869.308223432353,
-            "ETH/USD actual": 135.1739035882353
+            "BTC/USD actual": 3916.894504871514,
+            "ETH/USD actual": 138.30362998878786
         }
     ],
     [
         1552003200000,
         {
-            "BTC/USD actual": 3880.706332149999,
-            "ETH/USD actual": 135.44738485882357
+            "BTC/USD actual": 3917.908957597272,
+            "ETH/USD actual": 138.02073082363637
         }
     ],
     [
         1552089600000,
         {
-            "BTC/USD actual": 3888.709646542941,
-            "ETH/USD actual": 135.5548070847059
+            "BTC/USD actual": 3915.3818197172723,
+            "ETH/USD actual": 137.5253555169697
         }
     ],
     [
         1552176000000,
         {
-            "BTC/USD actual": 3896.4574266794116,
-            "ETH/USD actual": 135.62947216764707
+            "BTC/USD actual": 3914.3415098042415,
+            "ETH/USD actual": 137.12403984454548
         }
     ],
     [
         1552262400000,
         {
-            "BTC/USD actual": 3904.771953848235,
-            "ETH/USD actual": 135.88132364000003
+            "BTC/USD actual": 3915.1058222409088,
+            "ETH/USD actual": 136.81816675424244
         }
     ],
     [
         1552348800000,
         {
-            "BTC/USD actual": 3917.348660178235,
-            "ETH/USD actual": 136.30735520941178
+            "BTC/USD actual": 3910.5953334848477,
+            "ETH/USD actual": 136.14222836424244
         }
     ],
     [
         1552435200000,
         {
-            "BTC/USD actual": 3930.8707084923535,
-            "ETH/USD actual": 136.78798023294118
+            "BTC/USD actual": 3919.462796559696,
+            "ETH/USD actual": 136.38441144878792
         }
     ],
     [
         1552521600000,
         {
-            "BTC/USD actual": 3937.8555628505874,
-            "ETH/USD actual": 136.70847290647058
+            "BTC/USD actual": 3926.9719257118177,
+            "ETH/USD actual": 136.4895755518182
         }
     ],
     [
         1552608000000,
         {
-            "BTC/USD actual": 3945.887111589411,
-            "ETH/USD actual": 136.67148350999997
+            "BTC/USD actual": 3935.03356467909,
+            "ETH/USD actual": 136.6324811572727
         }
     ],
     [
         1552694400000,
         {
-            "BTC/USD actual": 3950.2086873411763,
-            "ETH/USD actual": 136.5061162311765
+            "BTC/USD actual": 3945.341166820605,
+            "ETH/USD actual": 136.79145468545457
         }
     ],
     [
         1552780800000,
         {
-            "BTC/USD actual": 3951.6418708970587,
-            "ETH/USD actual": 136.40638755529412
+            "BTC/USD actual": 3978.002907472727,
+            "ETH/USD actual": 137.65251424727273
         }
     ],
     [
         1552867200000,
         {
-            "BTC/USD actual": 3949.6240424847056,
-            "ETH/USD actual": 136.11313976823533
+            "BTC/USD actual": 4012.5068457281814,
+            "ETH/USD actual": 138.3940108078788
         }
     ],
     [
         1552953600000,
         {
-            "BTC/USD actual": 3954.4533673317646,
-            "ETH/USD actual": 136.2807875747059
+            "BTC/USD actual": 4044.3231183372723,
+            "ETH/USD actual": 139.10538447363638
         }
     ],
     [
         1553040000000,
         {
-            "BTC/USD actual": 3961.6690589147056,
-            "ETH/USD actual": 136.49093101352943
+            "BTC/USD actual": 4081.3830917509094,
+            "ETH/USD actual": 140.15021374939394
         }
     ],
     [
         1553126400000,
         {
-            "BTC/USD actual": 3972.5158713399996,
-            "ETH/USD actual": 136.91773512294117
+            "BTC/USD actual": 4120.789793655757,
+            "ETH/USD actual": 141.32550472666662
         }
     ],
     [
         1553212800000,
         {
-            "BTC/USD actual": 3984.6394066682346,
-            "ETH/USD actual": 137.4624630229412
+            "BTC/USD actual": 4160.3708440557575,
+            "ETH/USD actual": 142.44044475787874
         }
     ],
     [
         1553299200000,
         {
-            "BTC/USD actual": 3998.707474571764,
-            "ETH/USD actual": 138.07378892352943
+            "BTC/USD actual": 4202.913905674546,
+            "ETH/USD actual": 143.72280362787876
         }
     ],
     [
         1553385600000,
         {
-            "BTC/USD actual": 4012.6171526123526,
-            "ETH/USD actual": 138.37872469705886
+            "BTC/USD actual": 4242.209722469394,
+            "ETH/USD actual": 144.86648042787874
         }
     ],
     [
         1553472000000,
         {
-            "BTC/USD actual": 4066.5783806988234,
-            "ETH/USD actual": 139.79109782529414
+            "BTC/USD actual": 4285.698477634545,
+            "ETH/USD actual": 146.16011828787876
         }
     ],
     [
         1553558400000,
         {
-            "BTC/USD actual": 4126.060443892352,
-            "ETH/USD actual": 141.1211569829412
+            "BTC/USD actual": 4318.7371283481825,
+            "ETH/USD actual": 146.96342076575755
         }
     ],
     [
         1553644800000,
         {
-            "BTC/USD actual": 4181.215717975294,
-            "ETH/USD actual": 142.29929116235294
+            "BTC/USD actual": 4353.329227969394,
+            "ETH/USD actual": 147.81957116999993
         }
     ],
     [
         1553731200000,
         {
-            "BTC/USD actual": 4242.55069097353,
-            "ETH/USD actual": 143.91695692117648
+            "BTC/USD actual": 4389.241090610302,
+            "ETH/USD actual": 148.7371953084848
         }
     ],
     [
         1553817600000,
         {
-            "BTC/USD actual": 4302.1408311394125,
-            "ETH/USD actual": 145.48428615588236
+            "BTC/USD actual": 4427.459812350303,
+            "ETH/USD actual": 149.765147170606
         }
     ],
     [
         1553904000000,
         {
-            "BTC/USD actual": 4373.959317437648,
-            "ETH/USD actual": 147.85844318882351
+            "BTC/USD actual": 4462.270799140305,
+            "ETH/USD actual": 150.58161426151509
         }
     ],
     [
         1553990400000,
         {
-            "BTC/USD actual": 4449.211370565882,
-            "ETH/USD actual": 150.44904243352943
+            "BTC/USD actual": 4503.109527454849,
+            "ETH/USD actual": 151.64063845939387
         }
     ],
     [
         1554076800000,
         {
-            "BTC/USD actual": 4518.2999784888225,
-            "ETH/USD actual": 152.67659488411763
+            "BTC/USD actual": 4543.459278235456,
+            "ETH/USD actual": 152.56189791575753
         }
     ],
     [
         1554163200000,
         {
-            "BTC/USD actual": 4597.58272330647,
-            "ETH/USD actual": 155.15131127235293
+            "BTC/USD actual": 4582.651716830909,
+            "ETH/USD actual": 153.5581412972727
         }
     ],
     [
         1554249600000,
         {
-            "BTC/USD actual": 4664.402962569411,
-            "ETH/USD actual": 157.0250015811764
+            "BTC/USD actual": 4622.603673252121,
+            "ETH/USD actual": 154.64289547121209
         }
     ],
     [
         1554336000000,
         {
-            "BTC/USD actual": 4733.03590907647,
-            "ETH/USD actual": 158.87857092058817
+            "BTC/USD actual": 4663.551734721514,
+            "ETH/USD actual": 155.720601890303
         }
     ],
     [
         1554422400000,
         {
-            "BTC/USD actual": 4794.684244645881,
-            "ETH/USD actual": 160.3285517129411
+            "BTC/USD actual": 4702.861047656362,
+            "ETH/USD actual": 156.68598571666664
         }
     ],
     [
         1554508800000,
         {
-            "BTC/USD actual": 4862.272651439999,
-            "ETH/USD actual": 162.14802149411761
+            "BTC/USD actual": 4743.893418674545,
+            "ETH/USD actual": 157.65882649242425
         }
     ],
     [
         1554595200000,
         {
-            "BTC/USD actual": 4918.251240929412,
-            "ETH/USD actual": 163.2365240523529
+            "BTC/USD actual": 4791.26026953303,
+            "ETH/USD actual": 158.7515544290909
         }
     ],
     [
         1554681600000,
         {
-            "BTC/USD actual": 4983.513555230588,
-            "ETH/USD actual": 164.64977093999997
+            "BTC/USD actual": 4834.7933301818175,
+            "ETH/USD actual": 159.62311630727274
         }
     ],
     [
         1554768000000,
         {
-            "BTC/USD actual": 5050.369902688824,
-            "ETH/USD actual": 166.09571258999998
+            "BTC/USD actual": 4872.764172358788,
+            "ETH/USD actual": 160.0508764124243
         }
     ],
     [
         1554854400000,
         {
-            "BTC/USD actual": 5117.838576287648,
-            "ETH/USD actual": 167.99448239941174
+            "BTC/USD actual": 4908.201944128183,
+            "ETH/USD actual": 160.59745510030308
         }
     ],
     [
         1554940800000,
         {
-            "BTC/USD actual": 5139.993485997059,
-            "ETH/USD actual": 168.53613534294118
+            "BTC/USD actual": 4946.439543026971,
+            "ETH/USD actual": 161.29929089818188
         }
     ],
     [
         1555027200000,
         {
-            "BTC/USD actual": 5160.25044649,
-            "ETH/USD actual": 169.26344309235293
+            "BTC/USD actual": 4984.090710543636,
+            "ETH/USD actual": 161.96640514393945
         }
     ],
     [
         1555113600000,
         {
-            "BTC/USD actual": 5183.110287232353,
-            "ETH/USD actual": 170.0083731117647
+            "BTC/USD actual": 5018.124383534546,
+            "ETH/USD actual": 162.3872121233334
         }
     ],
     [
         1555200000000,
         {
-            "BTC/USD actual": 5203.3981183241185,
-            "ETH/USD actual": 170.29466229882354
+            "BTC/USD actual": 5056.193794684243,
+            "ETH/USD actual": 163.10417680454552
         }
     ],
     [
         1555286400000,
         {
-            "BTC/USD actual": 5232.372220489412,
-            "ETH/USD actual": 170.61501789058823
+            "BTC/USD actual": 5093.924489227576,
+            "ETH/USD actual": 163.6463287172728
         }
     ],
     [
         1555372800000,
         {
-            "BTC/USD actual": 5247.028624154118,
-            "ETH/USD actual": 170.06307062000002
+            "BTC/USD actual": 5133.242464052424,
+            "ETH/USD actual": 164.1635269833334
         }
     ],
     [
         1555459200000,
         {
-            "BTC/USD actual": 5246.184688094118,
-            "ETH/USD actual": 168.3671542094118
+            "BTC/USD actual": 5180.716848833939,
+            "ETH/USD actual": 164.87915526606065
         }
     ],
     [
         1555545600000,
         {
-            "BTC/USD actual": 5243.017117620002,
-            "ETH/USD actual": 167.0427141247059
+            "BTC/USD actual": 5230.208089748788,
+            "ETH/USD actual": 165.52891548121215
         }
     ],
     [
         1555632000000,
         {
-            "BTC/USD actual": 5234.256880188237,
-            "ETH/USD actual": 165.79419321058828
+            "BTC/USD actual": 5254.950406758182,
+            "ETH/USD actual": 165.4574489824243
         }
     ],
     [
         1555718400000,
         {
-            "BTC/USD actual": 5241.192760864119,
-            "ETH/USD actual": 165.23658003176473
+            "BTC/USD actual": 5276.539193521515,
+            "ETH/USD actual": 165.7889455445455
         }
     ],
     [
         1555804800000,
         {
-            "BTC/USD actual": 5244.938081075883,
-            "ETH/USD actual": 164.55914942529415
+            "BTC/USD actual": 5301.920502533029,
+            "ETH/USD actual": 166.0727592975758
         }
     ],
     [
         1555891200000,
         {
-            "BTC/USD actual": 5256.341955058236,
-            "ETH/USD actual": 164.3797774470588
+            "BTC/USD actual": 5329.171363793332,
+            "ETH/USD actual": 166.1861693730303
         }
     ],
     [
         1555977600000,
         {
-            "BTC/USD actual": 5266.241420572353,
-            "ETH/USD actual": 163.86355812529413
+            "BTC/USD actual": 5362.523334406968,
+            "ETH/USD actual": 166.32975084272724
         }
     ],
     [
         1556064000000,
         {
-            "BTC/USD actual": 5287.113815027058,
-            "ETH/USD actual": 163.82735242411766
+            "BTC/USD actual": 5398.27516474212,
+            "ETH/USD actual": 166.25171097999998
         }
     ],
     [
         1556150400000,
         {
-            "BTC/USD actual": 5314.062863131176,
-            "ETH/USD actual": 163.77208625411765
+            "BTC/USD actual": 5457.053319170301,
+            "ETH/USD actual": 166.59157794969695
         }
     ],
     [
         1556236800000,
         {
-            "BTC/USD actual": 5345.71778672647,
-            "ETH/USD actual": 163.54999408882352
+            "BTC/USD actual": 5525.977663549089,
+            "ETH/USD actual": 166.9351291809091
         }
     ],
     [
         1556323200000,
         {
-            "BTC/USD actual": 5371.6287787929405,
-            "ETH/USD actual": 162.88975392000003
+            "BTC/USD actual": 5600.4436863954525,
+            "ETH/USD actual": 167.50912220939392
         }
     ],
     [
         1556409600000,
         {
-            "BTC/USD actual": 5395.464689121177,
-            "ETH/USD actual": 162.7576071252941
+            "BTC/USD actual": 5689.417136876363,
+            "ETH/USD actual": 169.08948607484845
         }
     ],
     [
         1556496000000,
         {
-            "BTC/USD actual": 5420.402149609411,
-            "ETH/USD actual": 162.3946555411765
+            "BTC/USD actual": 5783.643986729091,
+            "ETH/USD actual": 171.63935699696964
         }
     ],
     [
         1556582400000,
         {
-            "BTC/USD actual": 5458.329539945294,
-            "ETH/USD actual": 162.35848990117648
+            "BTC/USD actual": 5868.67153668394,
+            "ETH/USD actual": 174.67959305606058
         }
     ],
     [
         1556668800000,
         {
-            "BTC/USD actual": 5503.010667561176,
-            "ETH/USD actual": 162.31608048294115
+            "BTC/USD actual": 5938.841888507576,
+            "ETH/USD actual": 176.99700580272722
         }
     ],
     [
         1556755200000,
         {
-            "BTC/USD actual": 5552.282349314117,
-            "ETH/USD actual": 162.41757061117647
+            "BTC/USD actual": 6006.61493927303,
+            "ETH/USD actual": 179.24187617878786
         }
     ],
     [
         1556841600000,
         {
-            "BTC/USD actual": 5657.127819778824,
-            "ETH/USD actual": 163.97605621
+            "BTC/USD actual": 6096.590824923031,
+            "ETH/USD actual": 182.1117577884848
         }
     ],
     [
         1556928000000,
         {
-            "BTC/USD actual": 5786.302637858236,
-            "ETH/USD actual": 166.04014437588236
+            "BTC/USD actual": 6180.5992901278805,
+            "ETH/USD actual": 184.72080062393937
         }
     ],
     [
         1557014400000,
         {
-            "BTC/USD actual": 5941.346105354705,
-            "ETH/USD actual": 168.5680768370588
+            "BTC/USD actual": 6261.535581472728,
+            "ETH/USD actual": 187.1913314063636
         }
     ],
     [
         1557100800000,
         {
-            "BTC/USD actual": 6106.653585924118,
-            "ETH/USD actual": 172.14714515941176
+            "BTC/USD actual": 6332.318384985759,
+            "ETH/USD actual": 189.30073381575755
         }
     ],
     [
         1557187200000,
         {
-            "BTC/USD actual": 6285.109915789412,
-            "ETH/USD actual": 177.6554774588235
+            "BTC/USD actual": 6409.849165270003,
+            "ETH/USD actual": 191.4987589742424
         }
     ],
     [
         1557273600000,
         {
-            "BTC/USD actual": 6445.746365465296,
-            "ETH/USD actual": 184.19023234705878
+            "BTC/USD actual": 6491.909254111821,
+            "ETH/USD actual": 193.9088367230303
         }
     ],
     [
         1557360000000,
         {
-            "BTC/USD actual": 6575.648362979413,
-            "ETH/USD actual": 189.1164542552941
+            "BTC/USD actual": 6573.366421385759,
+            "ETH/USD actual": 196.37036357969697
         }
     ],
     [
         1557446400000,
         {
-            "BTC/USD actual": 6689.944467488236,
-            "ETH/USD actual": 193.51023383058822
+            "BTC/USD actual": 6670.690865560001,
+            "ETH/USD actual": 199.31791023
         }
     ],
     [
         1557532800000,
         {
-            "BTC/USD actual": 6853.542726332354,
-            "ETH/USD actual": 199.490454267647
+            "BTC/USD actual": 6771.7806554242425,
+            "ETH/USD actual": 202.52317352939397
         }
     ],
     [
         1557619200000,
         {
-            "BTC/USD actual": 6991.318171082943,
-            "ETH/USD actual": 204.61184769647056
+            "BTC/USD actual": 6876.41246889091,
+            "ETH/USD actual": 206.1393124069697
         }
     ],
     [
         1557705600000,
         {
-            "BTC/USD actual": 7119.827236692941,
-            "ETH/USD actual": 210.04505448941174
+            "BTC/USD actual": 6983.140407623638,
+            "ETH/USD actual": 209.6494843990909
         }
     ],
     [
         1557792000000,
         {
-            "BTC/USD actual": 7231.354855497648,
-            "ETH/USD actual": 214.82015884294117
+            "BTC/USD actual": 7077.175885766364,
+            "ETH/USD actual": 212.62105807484852
         }
     ],
     [
         1557878400000,
         {
-            "BTC/USD actual": 7360.205097531178,
-            "ETH/USD actual": 219.1707279852941
+            "BTC/USD actual": 7178.71850157303,
+            "ETH/USD actual": 215.8862432569697
         }
     ],
     [
         1557964800000,
         {
-            "BTC/USD actual": 7493.088452061766,
-            "ETH/USD actual": 224.04311164352944
+            "BTC/USD actual": 7281.800397476364,
+            "ETH/USD actual": 219.25010013545452
         }
     ],
     [
         1558051200000,
         {
-            "BTC/USD actual": 7618.600288944706,
-            "ETH/USD actual": 228.88750987647057
+            "BTC/USD actual": 7387.143403439394,
+            "ETH/USD actual": 222.53060851727273
         }
     ],
     [
         1558137600000,
         {
-            "BTC/USD actual": 7771.756251551176,
-            "ETH/USD actual": 234.65085670117645
+            "BTC/USD actual": 7474.601917497575,
+            "ETH/USD actual": 225.2538175433333
         }
     ],
     [
         1558224000000,
         {
-            "BTC/USD actual": 7913.24516489,
-            "ETH/USD actual": 240.47238027470593
+            "BTC/USD actual": 7544.3406327484845,
+            "ETH/USD actual": 227.71096394484846
         }
     ],
     [
         1558310400000,
         {
-            "BTC/USD actual": 8001.411272845883,
-            "ETH/USD actual": 245.13628580294122
+            "BTC/USD actual": 7608.4459429418175,
+            "ETH/USD actual": 230.15079925212117
         }
     ],
     [
         1558396800000,
         {
-            "BTC/USD actual": 8071.627150235294,
-            "ETH/USD actual": 249.95881543058823
+            "BTC/USD actual": 7670.131301450606,
+            "ETH/USD actual": 232.7553320769697
         }
     ],
     [
         1558483200000,
         {
-            "BTC/USD actual": 8100.854678967057,
-            "ETH/USD actual": 253.36442165529414
+            "BTC/USD actual": 7739.188194807271,
+            "ETH/USD actual": 235.33776203575755
         }
     ],
     [
         1558569600000,
         {
-            "BTC/USD actual": 8132.189527628233,
-            "ETH/USD actual": 256.07734397352937
+            "BTC/USD actual": 7807.281577962726,
+            "ETH/USD actual": 237.55031222515154
         }
     ],
     [
         1558656000000,
         {
-            "BTC/USD actual": 8153.12405487941,
-            "ETH/USD actual": 256.9800037529411
+            "BTC/USD actual": 7864.758238052726,
+            "ETH/USD actual": 239.50132205393936
         }
     ],
     [
         1558742400000,
         {
-            "BTC/USD actual": 8203.963814054116,
-            "ETH/USD actual": 257.2670427541176
+            "BTC/USD actual": 7927.88432438606,
+            "ETH/USD actual": 241.8463863048485
         }
     ],
     [
         1558828800000,
         {
-            "BTC/USD actual": 8247.422653317644,
-            "ETH/USD actual": 257.5385456217647
+            "BTC/USD actual": 7981.652564223332,
+            "ETH/USD actual": 244.12108452939395
         }
     ],
     [
         1558915200000,
         {
-            "BTC/USD actual": 8272.110749420586,
-            "ETH/USD actual": 257.91440514647053
+            "BTC/USD actual": 8036.214620109697,
+            "ETH/USD actual": 246.85633336272727
         }
     ],
     [
         1559001600000,
         {
-            "BTC/USD actual": 8248.840445167647,
-            "ETH/USD actual": 257.0243432129412
+            "BTC/USD actual": 8067.378085626363,
+            "ETH/USD actual": 248.7862622121212
         }
     ],
     [
         1559088000000,
         {
-            "BTC/USD actual": 8237.162279294118,
-            "ETH/USD actual": 256.79349632117646
+            "BTC/USD actual": 8104.054946295758,
+            "ETH/USD actual": 251.09967329303024
         }
     ],
     [
         1559174400000,
         {
-            "BTC/USD actual": 8240.013263501176,
-            "ETH/USD actual": 256.35047220058823
+            "BTC/USD actual": 8136.812118586363,
+            "ETH/USD actual": 253.30168512030298
         }
     ],
     [
         1559260800000,
         {
-            "BTC/USD actual": 8258.628534311763,
-            "ETH/USD actual": 256.41855344941183
+            "BTC/USD actual": 8169.415273069393,
+            "ETH/USD actual": 254.86004844333326
         }
     ],
     [
         1559347200000,
         {
-            "BTC/USD actual": 8244.637408540588,
-            "ETH/USD actual": 255.57610151941176
+            "BTC/USD actual": 8202.789553201514,
+            "ETH/USD actual": 255.60647420575756
         }
     ],
     [
         1559433600000,
         {
-            "BTC/USD actual": 8245.81055871294,
-            "ETH/USD actual": 255.41373320705884
+            "BTC/USD actual": 8239.514372107878,
+            "ETH/USD actual": 255.59573865212118
         }
     ],
     [
         1559520000000,
         {
-            "BTC/USD actual": 8236.74259189294,
-            "ETH/USD actual": 255.00865644411763
+            "BTC/USD actual": 8294.209977970906,
+            "ETH/USD actual": 256.32594085181813
         }
     ],
     [
         1559606400000,
         {
-            "BTC/USD actual": 8203.004931675294,
-            "ETH/USD actual": 254.6980390452941
+            "BTC/USD actual": 8362.740083088182,
+            "ETH/USD actual": 257.46422742545457
         }
     ],
     [
         1559692800000,
         {
-            "BTC/USD actual": 8172.111066641765,
-            "ETH/USD actual": 253.78087541764702
+            "BTC/USD actual": 8425.19467874818,
+            "ETH/USD actual": 258.5257414836364
         }
     ],
     [
         1559779200000,
         {
-            "BTC/USD actual": 8169.373329291178,
-            "ETH/USD actual": 253.3161390370588
+            "BTC/USD actual": 8515.956471335756,
+            "ETH/USD actual": 260.2145558875757
         }
     ],
     [
         1559865600000,
         {
-            "BTC/USD actual": 8180.826485458823,
-            "ETH/USD actual": 253.30470176647057
+            "BTC/USD actual": 8603.62263521818,
+            "ETH/USD actual": 261.7780123878788
         }
     ],
     [
         1559952000000,
         {
-            "BTC/USD actual": 8226.882984806472,
-            "ETH/USD actual": 254.14047940411766
+            "BTC/USD actual": 8706.960973493331,
+            "ETH/USD actual": 263.792845230909
         }
     ],
     [
         1560038400000,
         {
-            "BTC/USD actual": 8273.012545421177,
-            "ETH/USD actual": 254.7594551829412
+            "BTC/USD actual": 8824.535254116361,
+            "ETH/USD actual": 265.9445516633333
         }
     ],
     [
         1560124800000,
         {
-            "BTC/USD actual": 8304.838198573527,
-            "ETH/USD actual": 254.74353064411764
+            "BTC/USD actual": 8973.9918633403,
+            "ETH/USD actual": 268.50492267969696
         }
     ],
     [
         1560211200000,
         {
-            "BTC/USD actual": 8336.424654717057,
-            "ETH/USD actual": 254.71915819882355
+            "BTC/USD actual": 9066.995584317876,
+            "ETH/USD actual": 269.7552027742424
         }
     ],
     [
         1560297600000,
         {
-            "BTC/USD actual": 8413.977377164116,
-            "ETH/USD actual": 256.03632360176476
+            "BTC/USD actual": 9177.240813034545,
+            "ETH/USD actual": 271.01108868
         }
     ],
     [
         1560384000000,
         {
-            "BTC/USD actual": 8563.435874449411,
-            "ETH/USD actual": 259.30737537235296
+            "BTC/USD actual": 9271.326613213334,
+            "ETH/USD actual": 272.4128424618182
         }
     ],
     [
         1560470400000,
         {
-            "BTC/USD actual": 8752.956255612353,
-            "ETH/USD actual": 262.9709046947059
+            "BTC/USD actual": 9332.530260621821,
+            "ETH/USD actual": 272.9575471618182
         }
     ],
     [
         1560556800000,
         {
-            "BTC/USD actual": 8931.898649300587,
-            "ETH/USD actual": 266.3831986223529
+            "BTC/USD actual": 9386.715725795759,
+            "ETH/USD actual": 273.57394892181816
         }
     ],
     [
         1560643200000,
         {
-            "BTC/USD actual": 9109.972602358823,
-            "ETH/USD actual": 270.05649681
+            "BTC/USD actual": 9463.59540913576,
+            "ETH/USD actual": 274.6757007348485
         }
     ],
     [
         1560729600000,
         {
-            "BTC/USD actual": 9334.8739983,
-            "ETH/USD actual": 274.28895748294116
+            "BTC/USD actual": 9568.858165752728,
+            "ETH/USD actual": 275.85655271999997
         }
     ],
     [
         1560816000000,
         {
-            "BTC/USD actual": 9646.306665855294,
-            "ETH/USD actual": 280.34421874058825
+            "BTC/USD actual": 9647.42382274394,
+            "ETH/USD actual": 276.4358867090909
         }
     ],
     [
         1560902400000,
         {
-            "BTC/USD actual": 9829.81626410647,
-            "ETH/USD actual": 283.0634477288236
+            "BTC/USD actual": 9715.65575998485,
+            "ETH/USD actual": 276.9843292069697
         }
     ],
     [
         1560988800000,
         {
-            "BTC/USD actual": 10092.604028655292,
-            "ETH/USD actual": 286.849100052353
+            "BTC/USD actual": 9807.085779134244,
+            "ETH/USD actual": 278.14413193030293
         }
     ],
     [
         1561075200000,
         {
-            "BTC/USD actual": 10310.815504444117,
-            "ETH/USD actual": 290.0820744082353
+            "BTC/USD actual": 9921.869063971213,
+            "ETH/USD actual": 280.1268643572726
         }
     ],
     [
         1561161600000,
         {
-            "BTC/USD actual": 10457.294906660589,
-            "ETH/USD actual": 292.05701541117645
+            "BTC/USD actual": 10059.47158786,
+            "ETH/USD actual": 282.1688108318181
         }
     ],
     [
         1561248000000,
         {
-            "BTC/USD actual": 10561.498075147058,
-            "ETH/USD actual": 293.5853504747059
+            "BTC/USD actual": 10205.076717533639,
+            "ETH/USD actual": 283.9641037466666
         }
     ],
     [
         1561334400000,
         {
-            "BTC/USD actual": 10676.375184151177,
-            "ETH/USD actual": 294.85515784823525
+            "BTC/USD actual": 10329.150060270305,
+            "ETH/USD actual": 285.2197211224242
         }
     ],
     [
         1561420800000,
         {
-            "BTC/USD actual": 10848.755142837059,
-            "ETH/USD actual": 296.83526403999997
+            "BTC/USD actual": 10431.650993161516,
+            "ETH/USD actual": 285.92848518999995
         }
     ],
     [
         1561507200000,
         {
-            "BTC/USD actual": 10957.414107520588,
-            "ETH/USD actual": 297.4135692005882
+            "BTC/USD actual": 10557.308377411215,
+            "ETH/USD actual": 287.25575236636354
         }
     ],
     [
         1561593600000,
         {
-            "BTC/USD actual": 11069.414743462354,
-            "ETH/USD actual": 298.7860714782352
+            "BTC/USD actual": 10658.83241521182,
+            "ETH/USD actual": 287.92505773393935
         }
     ],
     [
         1561680000000,
         {
-            "BTC/USD actual": 11184.181561458236,
-            "ETH/USD actual": 299.8915047741176
+            "BTC/USD actual": 10727.347895757575,
+            "ETH/USD actual": 287.45312508515144
         }
     ],
     [
         1561766400000,
         {
-            "BTC/USD actual": 11298.655241722943,
-            "ETH/USD actual": 301.90658271999996
+            "BTC/USD actual": 10808.657970952423,
+            "ETH/USD actual": 286.39305000969694
         }
     ],
     [
         1561852800000,
         {
-            "BTC/USD actual": 11421.260327561176,
-            "ETH/USD actual": 302.9197131241176
+            "BTC/USD actual": 10844.21036729697,
+            "ETH/USD actual": 284.6561770951515
         }
     ],
     [
         1561939200000,
         {
-            "BTC/USD actual": 11516.04275720765,
-            "ETH/USD actual": 302.8955598123529
+            "BTC/USD actual": 10875.231357930608,
+            "ETH/USD actual": 283.0671423981819
         }
     ],
     [
         1562025600000,
         {
-            "BTC/USD actual": 11589.566500367058,
-            "ETH/USD actual": 301.8549656264706
+            "BTC/USD actual": 10929.47278610788,
+            "ETH/USD actual": 281.7665980203031
         }
     ],
     [
         1562112000000,
         {
-            "BTC/USD actual": 11606.55621955,
-            "ETH/USD actual": 299.3877368994118
+            "BTC/USD actual": 10974.344158500911,
+            "ETH/USD actual": 280.33914538393947
         }
     ],
     [
         1562198400000,
         {
-            "BTC/USD actual": 11608.255824348234,
-            "ETH/USD actual": 296.9449028841177
+            "BTC/USD actual": 11018.450264799396,
+            "ETH/USD actual": 278.98119923424247
         }
     ],
     [
         1562284800000,
         {
-            "BTC/USD actual": 11516.383394698823,
-            "ETH/USD actual": 293.11164243
+            "BTC/USD actual": 11063.686417366669,
+            "ETH/USD actual": 277.8075321654546
         }
     ],
     [
         1562371200000,
         {
-            "BTC/USD actual": 11459.77943174647,
-            "ETH/USD actual": 289.363446812353
+            "BTC/USD actual": 11095.322357315456,
+            "ETH/USD actual": 276.22639693757577
         }
     ],
     [
         1562457600000,
         {
-            "BTC/USD actual": 11369.873532339412,
-            "ETH/USD actual": 284.5571404500001
+            "BTC/USD actual": 11104.652538994244,
+            "ETH/USD actual": 274.4188475339394
         }
     ],
     [
         1562544000000,
         {
-            "BTC/USD actual": 11225.356001039412,
-            "ETH/USD actual": 277.5473485294118
+            "BTC/USD actual": 11090.681361393334,
+            "ETH/USD actual": 271.9992921854546
         }
     ],
     [
         1562630400000,
         {
-            "BTC/USD actual": 11164.028400537649,
-            "ETH/USD actual": 272.94064743705883
+            "BTC/USD actual": 11057.691698306062,
+            "ETH/USD actual": 269.31363045787884
         }
     ],
     [
         1562716800000,
         {
-            "BTC/USD actual": 11175.590190770588,
-            "ETH/USD actual": 269.20807942823524
+            "BTC/USD actual": 11027.495856080608,
+            "ETH/USD actual": 266.66432693060614
         }
     ],
     [
         1562803200000,
         {
-            "BTC/USD actual": 11159.512910044708,
-            "ETH/USD actual": 265.1342248994117
+            "BTC/USD actual": 10980.468265206364,
+            "ETH/USD actual": 263.5374745530304
         }
     ],
     [
         1562889600000,
         {
-            "BTC/USD actual": 11086.92662004118,
-            "ETH/USD actual": 260.8249454752941
+            "BTC/USD actual": 10912.698352462729,
+            "ETH/USD actual": 260.3243075933334
         }
     ],
     [
         1562976000000,
         {
-            "BTC/USD actual": 11054.053823429413,
-            "ETH/USD actual": 257.40613652999997
+            "BTC/USD actual": 10808.877638479697,
+            "ETH/USD actual": 256.577348709091
         }
     ],
     [
         1563062400000,
         {
-            "BTC/USD actual": 11014.600990711766,
-            "ETH/USD actual": 253.24787791117646
+            "BTC/USD actual": 10761.942294037875,
+            "ETH/USD actual": 254.0395070139394
         }
     ],
     [
         1563148800000,
         {
-            "BTC/USD actual": 10932.783440421765,
-            "ETH/USD actual": 248.80488918529414
+            "BTC/USD actual": 10692.075517218484,
+            "ETH/USD actual": 251.27693004636367
         }
     ],
     [
         1563235200000,
         {
-            "BTC/USD actual": 10832.306804739414,
-            "ETH/USD actual": 243.53032350941174
+            "BTC/USD actual": 10646.923788811815,
+            "ETH/USD actual": 248.22902298030306
         }
     ],
     [
         1563321600000,
         {
-            "BTC/USD actual": 10690.677646478236,
-            "ETH/USD actual": 238.0167310276471
+            "BTC/USD actual": 10640.33836778212,
+            "ETH/USD actual": 246.05372992424245
         }
     ],
     [
         1563408000000,
         {
-            "BTC/USD actual": 10528.359330009414,
-            "ETH/USD actual": 232.80127892058826
+            "BTC/USD actual": 10651.429082006063,
+            "ETH/USD actual": 244.0047962290909
         }
     ],
     [
         1563494400000,
         {
-            "BTC/USD actual": 10374.296176646469,
-            "ETH/USD actual": 227.96742994000005
+            "BTC/USD actual": 10656.888549904545,
+            "ETH/USD actual": 241.94591235939393
         }
     ],
     [
         1563580800000,
         {
-            "BTC/USD actual": 10268.671813414117,
-            "ETH/USD actual": 224.58673038352944
+            "BTC/USD actual": 10651.167927832728,
+            "ETH/USD actual": 239.8449634030303
         }
     ],
     [
         1563667200000,
         {
-            "BTC/USD actual": 10134.646996164705,
-            "ETH/USD actual": 220.7920234058824
+            "BTC/USD actual": 10660.847346968487,
+            "ETH/USD actual": 238.09885965333334
         }
     ],
     [
         1563753600000,
         {
-            "BTC/USD actual": 10029.970734768822,
-            "ETH/USD actual": 217.28561397823532
+            "BTC/USD actual": 10690.874912538184,
+            "ETH/USD actual": 236.24320165515152
         }
     ],
     [
         1563840000000,
         {
-            "BTC/USD actual": 10024.134117373529,
-            "ETH/USD actual": 216.6247214476471
+            "BTC/USD actual": 10708.732278541516,
+            "ETH/USD actual": 234.16158835454547
         }
     ],
     [
         1563926400000,
         {
-            "BTC/USD actual": 9996.860915582938,
-            "ETH/USD actual": 215.99896311588236
+            "BTC/USD actual": 10720.131951145759,
+            "ETH/USD actual": 231.24982072121216
         }
     ],
     [
         1564012800000,
         {
-            "BTC/USD actual": 10061.543378190589,
-            "ETH/USD actual": 217.12285325588235
+            "BTC/USD actual": 10688.80204217182,
+            "ETH/USD actual": 227.99753800666667
         }
     ],
     [
         1564099200000,
         {
-            "BTC/USD actual": 10127.058363058237,
-            "ETH/USD actual": 217.75844320529413
+            "BTC/USD actual": 10655.979818390606,
+            "ETH/USD actual": 225.21082650272731
         }
     ],
     [
         1564185600000,
         {
-            "BTC/USD actual": 10147.24107858,
-            "ETH/USD actual": 217.55617980058824
+            "BTC/USD actual": 10634.212846634546,
+            "ETH/USD actual": 222.8490895709091
         }
     ],
     [
         1564272000000,
         {
-            "BTC/USD actual": 10221.413048010589,
-            "ETH/USD actual": 218.22891078294117
+            "BTC/USD actual": 10620.12674616,
+            "ETH/USD actual": 221.04316314
         }
     ],
     [
         1564358400000,
         {
-            "BTC/USD actual": 10263.243737613531,
-            "ETH/USD actual": 218.05373354352943
+            "BTC/USD actual": 10566.435962800908,
+            "ETH/USD actual": 218.34294619666665
         }
     ],
     [
         1564444800000,
         {
-            "BTC/USD actual": 10345.721822324704,
-            "ETH/USD actual": 218.10237107588236
+            "BTC/USD actual": 10533.808914558484,
+            "ETH/USD actual": 215.8810466369697
         }
     ],
     [
         1564531200000,
         {
-            "BTC/USD actual": 10433.741996779412,
-            "ETH/USD actual": 218.2362881129412
+            "BTC/USD actual": 10539.154170288484,
+            "ETH/USD actual": 214.5347268478788
         }
     ],
     [
         1564617600000,
         {
-            "BTC/USD actual": 10552.232924134705,
-            "ETH/USD actual": 218.10788361294118
+            "BTC/USD actual": 10519.716570785758,
+            "ETH/USD actual": 213.24866788636362
         }
     ],
     [
         1564704000000,
         {
-            "BTC/USD actual": 10641.141649072353,
-            "ETH/USD actual": 217.50454324764706
+            "BTC/USD actual": 10546.648838313335,
+            "ETH/USD actual": 213.1233187639394
         }
     ],
     [
         1564790400000,
         {
-            "BTC/USD actual": 10736.249107959999,
-            "ETH/USD actual": 217.28423448764707
+            "BTC/USD actual": 10583.397036763032,
+            "ETH/USD actual": 212.8663252239394
         }
     ],
     [
         1564876800000,
         {
-            "BTC/USD actual": 10826.134776148234,
-            "ETH/USD actual": 216.80185781058822
+            "BTC/USD actual": 10586.37176423606,
+            "ETH/USD actual": 211.96331776090906
         }
     ],
     [
         1564963200000,
         {
-            "BTC/USD actual": 10907.069741401176,
-            "ETH/USD actual": 216.89877945058822
+            "BTC/USD actual": 10573.861078103939,
+            "ETH/USD actual": 210.9102581518182
         }
     ],
     [
         1565049600000,
         {
-            "BTC/USD actual": 10936.099420887058,
-            "ETH/USD actual": 215.45167193764706
+            "BTC/USD actual": 10556.112374137576,
+            "ETH/USD actual": 209.82770042060605
         }
     ],
     [
         1565136000000,
         {
-            "BTC/USD actual": 10982.426460028235,
-            "ETH/USD actual": 214.11293840764705
+            "BTC/USD actual": 10550.713315370605,
+            "ETH/USD actual": 208.89284609242424
         }
     ],
     [
         1565222400000,
         {
-            "BTC/USD actual": 11027.308367997648,
-            "ETH/USD actual": 212.67769707823535
+            "BTC/USD actual": 10545.417171890605,
+            "ETH/USD actual": 208.1081348481818
         }
     ],
     [
         1565308800000,
         {
-            "BTC/USD actual": 11035.294401028825,
-            "ETH/USD actual": 210.7375727276471
+            "BTC/USD actual": 10554.290589491817,
+            "ETH/USD actual": 207.3200620163636
         }
     ],
     [
         1565395200000,
         {
-            "BTC/USD actual": 11030.704626542354,
-            "ETH/USD actual": 209.40098152117653
+            "BTC/USD actual": 10572.158409430605,
+            "ETH/USD actual": 206.47482272333332
         }
     ],
     [
         1565481600000,
         {
-            "BTC/USD actual": 11053.495228559414,
-            "ETH/USD actual": 208.5180383129412
+            "BTC/USD actual": 10580.441804645148,
+            "ETH/USD actual": 205.47119518969694
         }
     ],
     [
         1565568000000,
         {
-            "BTC/USD actual": 11049.302456275884,
-            "ETH/USD actual": 207.0099153429412
+            "BTC/USD actual": 10576.681461961818,
+            "ETH/USD actual": 204.06015677363632
         }
     ],
     [
         1565654400000,
         {
-            "BTC/USD actual": 10998.341935372942,
-            "ETH/USD actual": 204.88854320235293
+            "BTC/USD actual": 10576.727689096668,
+            "ETH/USD actual": 202.90005408575755
         }
     ],
     [
         1565740800000,
         {
-            "BTC/USD actual": 10902.407015809413,
-            "ETH/USD actual": 202.55614086235292
+            "BTC/USD actual": 10578.181652137879,
+            "ETH/USD actual": 201.61272081060605
         }
     ],
     [
         1565827200000,
         {
-            "BTC/USD actual": 10840.26423268059,
-            "ETH/USD actual": 200.71211020588234
+            "BTC/USD actual": 10581.097900797273,
+            "ETH/USD actual": 200.43727838939395
         }
     ],
     [
         1565913600000,
         {
-            "BTC/USD actual": 10732.241847101765,
-            "ETH/USD actual": 198.63274822705878
+            "BTC/USD actual": 10586.492582895455,
+            "ETH/USD actual": 199.2702895781818
         }
     ],
     [
         1566000000000,
         {
-            "BTC/USD actual": 10632.984867560592,
-            "ETH/USD actual": 196.7007498229412
+            "BTC/USD actual": 10595.881137344848,
+            "ETH/USD actual": 198.0679753790909
         }
     ],
     [
         1566086400000,
         {
-            "BTC/USD actual": 10545.064047292355,
-            "ETH/USD actual": 195.43768033705885
+            "BTC/USD actual": 10603.181018430303,
+            "ETH/USD actual": 196.92031126363636
         }
     ],
     [
         1566172800000,
         {
-            "BTC/USD actual": 10480.331303044119,
-            "ETH/USD actual": 194.28912438294117
+            "BTC/USD actual": 10604.857748675151,
+            "ETH/USD actual": 195.62793373242422
         }
     ],
     [
         1566259200000,
         {
-            "BTC/USD actual": 10374.427226353533,
-            "ETH/USD actual": 191.7440965052941
+            "BTC/USD actual": 10597.646305364546,
+            "ETH/USD actual": 194.19306576333332
         }
     ],
     [
         1566345600000,
         {
-            "BTC/USD actual": 10262.707341425885,
-            "ETH/USD actual": 189.2428316452941
+            "BTC/USD actual": 10578.25065512212,
+            "ETH/USD actual": 192.54419619090908
         }
     ],
     [
         1566432000000,
         {
-            "BTC/USD actual": 10187.248983841764,
-            "ETH/USD actual": 186.86881292058823
+            "BTC/USD actual": 10538.399143623938,
+            "ETH/USD actual": 190.88842419151516
         }
     ],
     [
         1566518400000,
         {
-            "BTC/USD actual": 10163.10840521647,
-            "ETH/USD actual": 186.0339623682353
+            "BTC/USD actual": 10506.3568299103,
+            "ETH/USD actual": 189.53727687181816
         }
     ],
     [
         1566604800000,
         {
-            "BTC/USD actual": 10132.239032128822,
-            "ETH/USD actual": 185.04120321705878
+            "BTC/USD actual": 10455.622725761816,
+            "ETH/USD actual": 188.16257267242423
         }
     ],
     [
         1566691200000,
         {
-            "BTC/USD actual": 10134.251171071175,
-            "ETH/USD actual": 184.65985094941175
+            "BTC/USD actual": 10403.412851506362,
+            "ETH/USD actual": 186.96531757363633
         }
     ],
     [
         1566777600000,
         {
-            "BTC/USD actual": 10158.880137481176,
-            "ETH/USD actual": 184.30274143647057
+            "BTC/USD actual": 10352.168550859999,
+            "ETH/USD actual": 186.00419817636362
         }
     ],
     [
         1566864000000,
         {
-            "BTC/USD actual": 10174.537145363529,
-            "ETH/USD actual": 183.1612234888235
+            "BTC/USD actual": 10326.170309073334,
+            "ETH/USD actual": 185.23286395757574
         }
     ],
     [
         1566950400000,
         {
-            "BTC/USD actual": 10154.718707990589,
-            "ETH/USD actual": 181.51035131117646
+            "BTC/USD actual": 10290.77662312303,
+            "ETH/USD actual": 184.18198554424237
         }
     ],
     [
         1567036800000,
         {
-            "BTC/USD actual": 10131.47657265294,
-            "ETH/USD actual": 179.86023792941174
+            "BTC/USD actual": 10259.961285935153,
+            "ETH/USD actual": 183.5039197260606
         }
     ],
     [
         1567123200000,
         {
-            "BTC/USD actual": 10152.57517519647,
-            "ETH/USD actual": 179.36299780117648
+            "BTC/USD actual": 10243.612216134848,
+            "ETH/USD actual": 182.91807382090906
         }
     ],
     [
         1567209600000,
         {
-            "BTC/USD actual": 10166.659445878235,
-            "ETH/USD actual": 178.66644077235296
+            "BTC/USD actual": 10250.962718592727,
+            "ETH/USD actual": 183.2526165612121
         }
     ],
     [
         1567296000000,
         {
-            "BTC/USD actual": 10161.134207201765,
-            "ETH/USD actual": 177.86125208411767
+            "BTC/USD actual": 10247.755622911212,
+            "ETH/USD actual": 183.84055807242424
         }
     ],
     [
         1567382400000,
         {
-            "BTC/USD actual": 10158.08655132765,
-            "ETH/USD actual": 177.19434869764706
+            "BTC/USD actual": 10241.83876993485,
+            "ETH/USD actual": 184.60661065909093
         }
     ],
     [
         1567468800000,
         {
-            "BTC/USD actual": 10159.878378555295,
-            "ETH/USD actual": 176.7300302764706
+            "BTC/USD actual": 10242.554179782424,
+            "ETH/USD actual": 185.67046834333334
         }
     ],
     [
         1567555200000,
         {
-            "BTC/USD actual": 10163.635336614117,
-            "ETH/USD actual": 176.27015270235296
+            "BTC/USD actual": 10238.036730493635,
+            "ETH/USD actual": 186.3962753436364
         }
     ],
     [
         1567641600000,
         {
-            "BTC/USD actual": 10173.957873240588,
-            "ETH/USD actual": 175.95812164647057
+            "BTC/USD actual": 10209.69544816515,
+            "ETH/USD actual": 186.7700254042425
         }
     ],
     [
         1567728000000,
         {
-            "BTC/USD actual": 10211.325022684705,
-            "ETH/USD actual": 176.89857413000001
+            "BTC/USD actual": 10188.03850134394,
+            "ETH/USD actual": 187.22333469272735
         }
     ],
     [
         1567814400000,
         {
-            "BTC/USD actual": 10260.433823298823,
-            "ETH/USD actual": 178.11022952470591
+            "BTC/USD actual": 10174.967193352122,
+            "ETH/USD actual": 187.64728441090912
         }
     ],
     [
         1567900800000,
         {
-            "BTC/USD actual": 10300.909726358235,
-            "ETH/USD actual": 179.8114695711765
+            "BTC/USD actual": 10125.692465348786,
+            "ETH/USD actual": 186.82386273424248
         }
     ],
     [
         1567987200000,
         {
-            "BTC/USD actual": 10335.350273543529,
-            "ETH/USD actual": 181.8957754394118
+            "BTC/USD actual": 10065.814799532727,
+            "ETH/USD actual": 186.0751845975758
         }
     ],
     [
         1568073600000,
         {
-            "BTC/USD actual": 10358.27449578,
-            "ETH/USD actual": 184.21290858823534
+            "BTC/USD actual": 10002.584993667577,
+            "ETH/USD actual": 185.30860129696973
         }
     ],
     [
         1568160000000,
         {
-            "BTC/USD actual": 10349.424424584118,
-            "ETH/USD actual": 186.67182377588242
+            "BTC/USD actual": 9943.839067389998,
+            "ETH/USD actual": 184.93087297878787
         }
     ],
     [
         1568246400000,
         {
-            "BTC/USD actual": 10321.89512643,
-            "ETH/USD actual": 188.97197061764712
+            "BTC/USD actual": 9878.379927214544,
+            "ETH/USD actual": 184.48071120000003
         }
     ],
     [
         1568332800000,
         {
-            "BTC/USD actual": 10286.415468745883,
-            "ETH/USD actual": 191.3232750876471
+            "BTC/USD actual": 9813.965161457874,
+            "ETH/USD actual": 183.97360734151516
         }
     ],
     [
         1568419200000,
         {
-            "BTC/USD actual": 10254.181424941766,
-            "ETH/USD actual": 193.48043738235293
+            "BTC/USD actual": 9770.800881612118,
+            "ETH/USD actual": 184.2195687351515
         }
     ],
     [
         1568505600000,
         {
-            "BTC/USD actual": 10215.497568407645,
-            "ETH/USD actual": 195.38277327647057
+            "BTC/USD actual": 9735.975953841815,
+            "ETH/USD actual": 184.45096225545456
         }
     ],
     [
         1568592000000,
         {
-            "BTC/USD actual": 10101.270522687058,
-            "ETH/USD actual": 194.6661097982353
+            "BTC/USD actual": 9700.009547759393,
+            "ETH/USD actual": 184.8275746221212
         }
     ],
     [
         1568678400000,
         {
-            "BTC/USD actual": 9985.09440900647,
-            "ETH/USD actual": 193.99157814411765
+            "BTC/USD actual": 9657.657770016665,
+            "ETH/USD actual": 184.909303510606
         }
     ],
     [
         1568764800000,
         {
-            "BTC/USD actual": 9852.815661271763,
-            "ETH/USD actual": 193.09268614529412
+            "BTC/USD actual": 9608.69503363606,
+            "ETH/USD actual": 185.05704354090906
         }
     ],
     [
         1568851200000,
         {
-            "BTC/USD actual": 9740.871051334703,
-            "ETH/USD actual": 192.75153384470588
+            "BTC/USD actual": 9540.39925182606,
+            "ETH/USD actual": 184.9752182733333
         }
     ],
     [
         1568937600000,
         {
-            "BTC/USD actual": 9625.35671903941,
-            "ETH/USD actual": 192.48032326529415
+            "BTC/USD actual": 9456.25308481697,
+            "ETH/USD actual": 184.69508760242422
         }
     ],
     [
         1569024000000,
         {
-            "BTC/USD actual": 9486.05072237882,
-            "ETH/USD actual": 191.84468506941175
+            "BTC/USD actual": 9384.268999048787,
+            "ETH/USD actual": 184.8637883921212
         }
     ],
     [
         1569110400000,
         {
-            "BTC/USD actual": 9365.06255165588,
-            "ETH/USD actual": 191.8170521111765
+            "BTC/USD actual": 9311.809844299696,
+            "ETH/USD actual": 185.0613909363636
         }
     ],
     [
         1569196800000,
         {
-            "BTC/USD actual": 9245.559343832942,
-            "ETH/USD actual": 191.08120832000003
+            "BTC/USD actual": 9258.553890646972,
+            "ETH/USD actual": 185.82085379727272
         }
     ],
     [
         1569283200000,
         {
-            "BTC/USD actual": 9132.020274642355,
-            "ETH/USD actual": 190.5754909464706
+            "BTC/USD actual": 9201.165576527274,
+            "ETH/USD actual": 186.22580248818178
         }
     ],
     [
         1569369600000,
         {
-            "BTC/USD actual": 9011.398799157061,
-            "ETH/USD actual": 189.2498840935294
+            "BTC/USD actual": 9136.493029681213,
+            "ETH/USD actual": 186.20465629545453
         }
     ],
     [
         1569456000000,
         {
-            "BTC/USD actual": 8891.70965294765,
-            "ETH/USD actual": 187.4026161852941
+            "BTC/USD actual": 9075.749391261816,
+            "ETH/USD actual": 186.17482339090907
         }
     ],
     [
         1569542400000,
         {
-            "BTC/USD actual": 8772.633282977647,
-            "ETH/USD actual": 185.3753833770588
+            "BTC/USD actual": 9020.476824520301,
+            "ETH/USD actual": 186.2182331963636
         }
     ],
     [
         1569628800000,
         {
-            "BTC/USD actual": 8632.53095313647,
-            "ETH/USD actual": 182.40935529235293
+            "BTC/USD actual": 8965.40674706485,
+            "ETH/USD actual": 186.46718856575754
         }
     ],
     [
         1569715200000,
         {
-            "BTC/USD actual": 8517.223313735292,
-            "ETH/USD actual": 180.18639587705886
+            "BTC/USD actual": 8896.820105695759,
+            "ETH/USD actual": 186.460448010606
         }
     ],
     [
         1569801600000,
         {
-            "BTC/USD actual": 8411.764300487057,
-            "ETH/USD actual": 178.1935902852941
+            "BTC/USD actual": 8825.39397471091,
+            "ETH/USD actual": 186.25557603757574
         }
     ],
     [
         1569888000000,
         {
-            "BTC/USD actual": 8327.182916594118,
-            "ETH/USD actual": 177.1377750147059
+            "BTC/USD actual": 8756.069126446364,
+            "ETH/USD actual": 185.90931084606058
         }
     ],
     [
         1569974400000,
         {
-            "BTC/USD actual": 8262.254389595293,
-            "ETH/USD actual": 176.60365053941177
+            "BTC/USD actual": 8684.736571993637,
+            "ETH/USD actual": 185.40821117363637
         }
     ],
     [
         1570060800000,
         {
-            "BTC/USD actual": 8246.448776641177,
-            "ETH/USD actual": 177.46445180294117
+            "BTC/USD actual": 8614.886547525151,
+            "ETH/USD actual": 184.64106756424243
         }
     ],
     [
         1570147200000,
         {
-            "BTC/USD actual": 8239.24253232294,
-            "ETH/USD actual": 178.05466856529415
+            "BTC/USD actual": 8555.34083566818,
+            "ETH/USD actual": 183.6605908936364
         }
     ],
     [
         1570233600000,
         {
-            "BTC/USD actual": 8251.641281806471,
-            "ETH/USD actual": 178.96010473764707
+            "BTC/USD actual": 8496.249649902726,
+            "ETH/USD actual": 182.56823620818184
         }
     ],
     [
         1570320000000,
         {
-            "BTC/USD actual": 8260.568580277059,
-            "ETH/USD actual": 179.71228994529412
+            "BTC/USD actual": 8429.018678680302,
+            "ETH/USD actual": 181.07884090606063
         }
     ],
     [
         1570406400000,
         {
-            "BTC/USD actual": 8258.25450660706,
-            "ETH/USD actual": 180.11317121705883
+            "BTC/USD actual": 8347.200334846968,
+            "ETH/USD actual": 179.3855417945455
         }
     ],
     [
         1570492800000,
         {
-            "BTC/USD actual": 8254.966746025882,
-            "ETH/USD actual": 180.38782558588238
+            "BTC/USD actual": 8270.94151781515,
+            "ETH/USD actual": 177.75104101424245
         }
     ],
     [
         1570579200000,
         {
-            "BTC/USD actual": 8241.551615598237,
-            "ETH/USD actual": 180.17866175705885
+            "BTC/USD actual": 8229.694863496969,
+            "ETH/USD actual": 176.8551151409091
         }
     ],
     [
         1570665600000,
         {
-            "BTC/USD actual": 8219.792670299412,
-            "ETH/USD actual": 179.9684186011765
+            "BTC/USD actual": 8216.935530806362,
+            "ETH/USD actual": 176.23431974060608
         }
     ],
     [
         1570752000000,
         {
-            "BTC/USD actual": 8194.494490609412,
-            "ETH/USD actual": 179.44942645882355
+            "BTC/USD actual": 8247.40852718606,
+            "ETH/USD actual": 176.77703793242426
         }
     ],
     [
         1570838400000,
         {
-            "BTC/USD actual": 8195.558577455295,
-            "ETH/USD actual": 179.4718038888236
+            "BTC/USD actual": 8271.274541658486,
+            "ETH/USD actual": 177.14837556757578
         }
     ],
     [
         1570924800000,
         {
-            "BTC/USD actual": 8198.821692062353,
-            "ETH/USD actual": 179.38169435411766
+            "BTC/USD actual": 8312.703190961514,
+            "ETH/USD actual": 177.922666999697
         }
     ],
     [
         1571011200000,
         {
-            "BTC/USD actual": 8192.038606124706,
-            "ETH/USD actual": 179.10826771000004
+            "BTC/USD actual": 8342.220702840608,
+            "ETH/USD actual": 178.20435340151516
         }
     ],
     [
         1571097600000,
         {
-            "BTC/USD actual": 8169.028023547058,
-            "ETH/USD actual": 178.66520522588235
+            "BTC/USD actual": 8371.060797154243,
+            "ETH/USD actual": 178.48211346696965
         }
     ],
     [
         1571184000000,
         {
-            "BTC/USD actual": 8125.2503581158835,
-            "ETH/USD actual": 177.5161772364706
+            "BTC/USD actual": 8407.084569553639,
+            "ETH/USD actual": 178.88161605878787
         }
     ],
     [
         1571270400000,
         {
-            "BTC/USD actual": 8153.60528573647,
-            "ETH/USD actual": 177.55060789705882
+            "BTC/USD actual": 8437.542025919694,
+            "ETH/USD actual": 178.95003519212116
         }
     ],
     [
         1571356800000,
         {
-            "BTC/USD actual": 8193.532516952353,
-            "ETH/USD actual": 176.7736189311765
+            "BTC/USD actual": 8464.332157707573,
+            "ETH/USD actual": 179.1104657042424
         }
     ],
     [
         1571443200000,
         {
-            "BTC/USD actual": 8249.859779848237,
-            "ETH/USD actual": 176.3243903664706
+            "BTC/USD actual": 8495.577943595454,
+            "ETH/USD actual": 179.27822130696967
         }
     ],
     [
         1571529600000,
         {
-            "BTC/USD actual": 8305.552638138824,
-            "ETH/USD actual": 176.41173908411767
+            "BTC/USD actual": 8528.919153086365,
+            "ETH/USD actual": 179.71177957727267
         }
     ],
     [
         1571616000000,
         {
-            "BTC/USD actual": 8371.608331277059,
-            "ETH/USD actual": 177.0737943270588
+            "BTC/USD actual": 8565.06311294273,
+            "ETH/USD actual": 180.18124375030297
         }
     ],
     [
         1571702400000,
         {
-            "BTC/USD actual": 8424.256226897647,
-            "ETH/USD actual": 177.19517894882352
+            "BTC/USD actual": 8597.296108213939,
+            "ETH/USD actual": 180.50312200212116
         }
     ],
     [
         1571788800000,
         {
-            "BTC/USD actual": 8471.62634568353,
-            "ETH/USD actual": 176.97988336764703
+            "BTC/USD actual": 8624.814958188786,
+            "ETH/USD actual": 180.90918462575752
         }
     ],
     [
         1571875200000,
         {
-            "BTC/USD actual": 8535.387622808825,
-            "ETH/USD actual": 177.13283480999996
+            "BTC/USD actual": 8642.998459658485,
+            "ETH/USD actual": 181.03828834969693
         }
     ],
     [
         1571961600000,
         {
-            "BTC/USD actual": 8612.173474590589,
-            "ETH/USD actual": 177.63570811705878
+            "BTC/USD actual": 8668.814785936971,
+            "ETH/USD actual": 181.27047313393942
         }
     ],
     [
         1572048000000,
         {
-            "BTC/USD actual": 8679.246404516469,
-            "ETH/USD actual": 177.88345010352938
+            "BTC/USD actual": 8672.696949318488,
+            "ETH/USD actual": 180.99497910999997
         }
     ],
     [
         1572134400000,
         {
-            "BTC/USD actual": 8764.829995987058,
-            "ETH/USD actual": 178.6760988523529
+            "BTC/USD actual": 8679.177629859394,
+            "ETH/USD actual": 180.8498807830303
         }
     ],
     [
         1572220800000,
         {
-            "BTC/USD actual": 8844.520915834708,
-            "ETH/USD actual": 179.68126623647055
+            "BTC/USD actual": 8693.995860918485,
+            "ETH/USD actual": 181.06415660848484
         }
     ],
     [
         1572307200000,
         {
-            "BTC/USD actual": 8910.582308833531,
-            "ETH/USD actual": 180.64858937764703
+            "BTC/USD actual": 8703.609438553636,
+            "ETH/USD actual": 181.20254152575757
         }
     ],
     [
         1572393600000,
         {
-            "BTC/USD actual": 8968.782290287649,
-            "ETH/USD actual": 181.36663227117643
+            "BTC/USD actual": 8709.099288925756,
+            "ETH/USD actual": 181.16685310454545
         }
     ],
     [
         1572480000000,
         {
-            "BTC/USD actual": 9012.606083947057,
-            "ETH/USD actual": 182.08002251294116
+            "BTC/USD actual": 8713.072805304848,
+            "ETH/USD actual": 181.0368611957576
         }
     ],
     [
         1572566400000,
         {
-            "BTC/USD actual": 9091.41967366353,
-            "ETH/USD actual": 183.39466860176466
+            "BTC/USD actual": 8723.287277581212,
+            "ETH/USD actual": 181.13531371363638
         }
     ],
     [
         1572652800000,
         {
-            "BTC/USD actual": 9184.106526841177,
-            "ETH/USD actual": 185.02542910588238
+            "BTC/USD actual": 8728.673762656666,
+            "ETH/USD actual": 181.2364924533334
         }
     ],
     [
         1572739200000,
         {
-            "BTC/USD actual": 9187.128142012356,
-            "ETH/USD actual": 185.17398154294114
+            "BTC/USD actual": 8730.079953425453,
+            "ETH/USD actual": 181.17884383696975
         }
     ],
     [
         1572825600000,
         {
-            "BTC/USD actual": 9159.547875992354,
-            "ETH/USD actual": 185.56326903352942
+            "BTC/USD actual": 8733.665553558787,
+            "ETH/USD actual": 181.22369473303036
         }
     ],
     [
         1572912000000,
         {
-            "BTC/USD actual": 9113.353600945293,
-            "ETH/USD actual": 185.78650570352943
+            "BTC/USD actual": 8726.226913190001,
+            "ETH/USD actual": 180.88767341242428
         }
     ],
     [
         1572998400000,
         {
-            "BTC/USD actual": 9078.48086159,
-            "ETH/USD actual": 185.92452013117648
+            "BTC/USD actual": 8697.74352475212,
+            "ETH/USD actual": 180.13587287363637
         }
     ],
     [
         1573084800000,
         {
-            "BTC/USD actual": 9021.116060207645,
-            "ETH/USD actual": 185.25764247058825
+            "BTC/USD actual": 8670.96576928879,
+            "ETH/USD actual": 179.46111045727275
         }
     ],
     [
         1573171200000,
         {
-            "BTC/USD actual": 8980.457955648822,
-            "ETH/USD actual": 185.2106874282353
+            "BTC/USD actual": 8636.752020096366,
+            "ETH/USD actual": 178.5137097475758
         }
     ],
     [
         1573257600000,
         {
-            "BTC/USD actual": 8941.988262730001,
-            "ETH/USD actual": 185.26350110764704
+            "BTC/USD actual": 8626.2328361897,
+            "ETH/USD actual": 178.02354181303033
         }
     ],
     [
         1573344000000,
         {
-            "BTC/USD actual": 8879.228120872942,
-            "ETH/USD actual": 184.95905623411767
+            "BTC/USD actual": 8616.88506871,
+            "ETH/USD actual": 177.62561924848487
         }
     ],
     [
         1573430400000,
         {
-            "BTC/USD actual": 8809.41935722706,
-            "ETH/USD actual": 184.50517265588238
+            "BTC/USD actual": 8582.034032222728,
+            "ETH/USD actual": 176.74848040939395
         }
     ],
     [
         1573516800000,
         {
-            "BTC/USD actual": 8742.616321069412,
-            "ETH/USD actual": 184.07056906882354
+            "BTC/USD actual": 8526.226923236667,
+            "ETH/USD actual": 175.8647043048485
         }
     ],
     [
         1573603200000,
         {
-            "BTC/USD actual": 8642.224843351765,
-            "ETH/USD actual": 182.5736570164706
+            "BTC/USD actual": 8472.023875027879,
+            "ETH/USD actual": 174.9712934515151
         }
     ],
     [
         1573689600000,
         {
-            "BTC/USD actual": 8523.276475394707,
-            "ETH/USD actual": 180.29504381705883
+            "BTC/USD actual": 8421.561483825151,
+            "ETH/USD actual": 174.05256605090906
         }
     ],
     [
         1573776000000,
         {
-            "BTC/USD actual": 8404.39743673412,
-            "ETH/USD actual": 177.98378854999999
+            "BTC/USD actual": 8360.029504316364,
+            "ETH/USD actual": 172.84354004303026
         }
     ],
     [
         1573862400000,
         {
-            "BTC/USD actual": 8268.629493896471,
-            "ETH/USD actual": 175.24646745117644
+            "BTC/USD actual": 8303.38003312091,
+            "ETH/USD actual": 171.8104326766666
         }
     ],
     [
         1573948800000,
         {
-            "BTC/USD actual": 8171.780374960588,
-            "ETH/USD actual": 173.0636632952941
+            "BTC/USD actual": 8247.239223061215,
+            "ETH/USD actual": 170.73531877181813
         }
     ],
     [
         1574035200000,
         {
-            "BTC/USD actual": 8074.559658039412,
-            "ETH/USD actual": 170.89158427529412
+            "BTC/USD actual": 8184.99274266879,
+            "ETH/USD actual": 169.5914570221212
         }
     ],
     [
         1574121600000,
         {
-            "BTC/USD actual": 7985.148528526472,
-            "ETH/USD actual": 168.77262202
+            "BTC/USD actual": 8126.980576658182,
+            "ETH/USD actual": 168.51834068606058
         }
     ],
     [
         1574208000000,
         {
-            "BTC/USD actual": 7909.208348675883,
-            "ETH/USD actual": 166.81485019176472
+            "BTC/USD actual": 8076.345846698789,
+            "ETH/USD actual": 167.52310669515148
         }
     ],
     [
         1574294400000,
         {
-            "BTC/USD actual": 7847.7377851752935,
-            "ETH/USD actual": 164.9130149582353
+            "BTC/USD actual": 8018.298354892122,
+            "ETH/USD actual": 166.34643874545452
         }
     ],
     [
         1574380800000,
         {
-            "BTC/USD actual": 7776.709435545882,
-            "ETH/USD actual": 162.80100447235296
+            "BTC/USD actual": 7964.326311339393,
+            "ETH/USD actual": 165.18279109666662
         }
     ],
     [
         1574467200000,
         {
-            "BTC/USD actual": 7704.659047169412,
-            "ETH/USD actual": 160.84749733117644
+            "BTC/USD actual": 7903.40754528303,
+            "ETH/USD actual": 163.84409947666663
         }
     ],
     [
         1574553600000,
         {
-            "BTC/USD actual": 7636.6835538647065,
-            "ETH/USD actual": 159.03271576529409
+            "BTC/USD actual": 7843.385428107878,
+            "ETH/USD actual": 162.6013184321212
         }
     ],
     [
         1574640000000,
         {
-            "BTC/USD actual": 7567.3611566223535,
-            "ETH/USD actual": 156.9827716035294
+            "BTC/USD actual": 7795.880691959393,
+            "ETH/USD actual": 161.3784003533333
         }
     ],
     [
         1574726400000,
         {
-            "BTC/USD actual": 7490.462937390589,
-            "ETH/USD actual": 154.72417182058823
+            "BTC/USD actual": 7746.932577934847,
+            "ETH/USD actual": 160.16312115060603
         }
     ],
     [
         1574812800000,
         {
-            "BTC/USD actual": 7444.18081941706,
-            "ETH/USD actual": 152.94753115705885
+            "BTC/USD actual": 7692.691567340605,
+            "ETH/USD actual": 158.8229916633333
         }
     ],
     [
         1574899200000,
         {
-            "BTC/USD actual": 7410.233138517648,
-            "ETH/USD actual": 151.37525447529413
+            "BTC/USD actual": 7642.7264160333325,
+            "ETH/USD actual": 157.53576230575754
         }
     ],
     [
         1574985600000,
         {
-            "BTC/USD actual": 7376.176022104707,
-            "ETH/USD actual": 149.79671958235295
+            "BTC/USD actual": 7591.720365583029,
+            "ETH/USD actual": 156.187338950303
         }
     ],
     [
         1575072000000,
         {
-            "BTC/USD actual": 7365.537394595295,
-            "ETH/USD actual": 149.19531821176471
+            "BTC/USD actual": 7534.737501901818,
+            "ETH/USD actual": 154.51152995060608
         }
     ],
     [
         1575158400000,
         {
-            "BTC/USD actual": 7368.635995746471,
-            "ETH/USD actual": 149.02338219529415
+            "BTC/USD actual": 7473.781290167273,
+            "ETH/USD actual": 152.7304174427273
         }
     ],
     [
         1575244800000,
         {
-            "BTC/USD actual": 7362.302804465882,
-            "ETH/USD actual": 148.6388006929412
+            "BTC/USD actual": 7438.445085497273,
+            "ETH/USD actual": 151.29759964030305
         }
     ],
     [
         1575331200000,
         {
-            "BTC/USD actual": 7380.326446975293,
-            "ETH/USD actual": 148.81736310058824
+            "BTC/USD actual": 7398.184270405454,
+            "ETH/USD actual": 149.65545798090912
         }
     ],
     [
         1575417600000,
         {
-            "BTC/USD actual": 7384.542701757058,
-            "ETH/USD actual": 148.72444025705883
+            "BTC/USD actual": 7358.366611143636,
+            "ETH/USD actual": 147.9752929536364
         }
     ],
     [
         1575504000000,
         {
-            "BTC/USD actual": 7390.083847712352,
-            "ETH/USD actual": 148.52621085235293
+            "BTC/USD actual": 7326.864018563635,
+            "ETH/USD actual": 146.43316475606065
         }
     ],
     [
         1575590400000,
         {
-            "BTC/USD actual": 7363.766298821176,
-            "ETH/USD actual": 147.87870522411762
+            "BTC/USD actual": 7308.448494602728,
+            "ETH/USD actual": 145.12243322606062
         }
     ],
     [
         1575676800000,
         {
-            "BTC/USD actual": 7345.505734664704,
-            "ETH/USD actual": 147.36603040411762
+            "BTC/USD actual": 7285.344841066668,
+            "ETH/USD actual": 143.7262701948485
         }
     ],
     [
         1575763200000,
         {
-            "BTC/USD actual": 7293.915347229999,
-            "ETH/USD actual": 146.07049420176472
+            "BTC/USD actual": 7271.756517319395,
+            "ETH/USD actual": 142.7229680530303
         }
     ],
     [
         1575849600000,
         {
-            "BTC/USD actual": 7238.672250371765,
-            "ETH/USD actual": 144.53446695058824
+            "BTC/USD actual": 7268.8738318078795,
+            "ETH/USD actual": 141.95663534363635
         }
     ],
     [
         1575936000000,
         {
-            "BTC/USD actual": 7232.158070735293,
-            "ETH/USD actual": 143.43316992411766
+            "BTC/USD actual": 7264.835868534243,
+            "ETH/USD actual": 141.14311167939394
         }
     ],
     [
         1576022400000,
         {
-            "BTC/USD actual": 7223.313239789412,
-            "ETH/USD actual": 142.20397184235296
+            "BTC/USD actual": 7275.368021803031,
+            "ETH/USD actual": 140.71912648515152
         }
     ],
     [
         1576108800000,
         {
-            "BTC/USD actual": 7216.529663125293,
-            "ETH/USD actual": 141.08227451941178
+            "BTC/USD actual": 7280.79209959394,
+            "ETH/USD actual": 140.15967918121214
         }
     ],
     [
         1576195200000,
         {
-            "BTC/USD actual": 7213.448832904117,
-            "ETH/USD actual": 140.0047241882353
+            "BTC/USD actual": 7287.8972225590915,
+            "ETH/USD actual": 139.74160297848488
         }
     ],
     [
         1576281600000,
         {
-            "BTC/USD actual": 7220.504139119413,
-            "ETH/USD actual": 139.08958758647057
+            "BTC/USD actual": 7278.690888591213,
+            "ETH/USD actual": 139.08619057606063
         }
     ],
     [
         1576368000000,
         {
-            "BTC/USD actual": 7207.143780724706,
-            "ETH/USD actual": 137.87670998
+            "BTC/USD actual": 7270.640714385151,
+            "ETH/USD actual": 138.4111176233333
         }
     ],
     [
         1576454400000,
         {
-            "BTC/USD actual": 7193.055393945883,
-            "ETH/USD actual": 136.71633155470587
+            "BTC/USD actual": 7252.907489241516,
+            "ETH/USD actual": 137.67287546393936
         }
     ],
     [
         1576540800000,
         {
-            "BTC/USD actual": 7173.280485715883,
-            "ETH/USD actual": 135.20897676705886
+            "BTC/USD actual": 7234.442390480909,
+            "ETH/USD actual": 136.90931782909092
         }
     ],
     [
         1576627200000,
         {
-            "BTC/USD actual": 7164.8171230452945,
-            "ETH/USD actual": 133.91716517882355
+            "BTC/USD actual": 7232.357187961516,
+            "ETH/USD actual": 136.37691215545453
         }
     ],
     [
         1576713600000,
         {
-            "BTC/USD actual": 7166.007469892941,
-            "ETH/USD actual": 132.76927131882354
+            "BTC/USD actual": 7233.909728388182,
+            "ETH/USD actual": 135.9247042742424
         }
     ],
     [
         1576800000000,
         {
-            "BTC/USD actual": 7171.902519192352,
-            "ETH/USD actual": 131.87438102000002
+            "BTC/USD actual": 7235.4372961809095,
+            "ETH/USD actual": 135.55698769818184
         }
     ],
     [
         1576886400000,
         {
-            "BTC/USD actual": 7183.491027015882,
-            "ETH/USD actual": 131.24981370588236
+            "BTC/USD actual": 7252.70297812697,
+            "ETH/USD actual": 135.51100237636365
         }
     ],
     [
         1576972800000,
         {
-            "BTC/USD actual": 7181.500152130588,
-            "ETH/USD actual": 130.46000814470585
+            "BTC/USD actual": 7275.894130696061,
+            "ETH/USD actual": 135.36656466454542
         }
     ],
     [
         1577059200000,
         {
-            "BTC/USD actual": 7186.924339594116,
-            "ETH/USD actual": 129.69053992588235
+            "BTC/USD actual": 7290.993809456971,
+            "ETH/USD actual": 135.1287413681818
         }
     ],
     [
         1577145600000,
         {
-            "BTC/USD actual": 7190.042201688823,
-            "ETH/USD actual": 128.97317407294116
+            "BTC/USD actual": 7300.688866134546,
+            "ETH/USD actual": 134.84137173272723
         }
     ],
     [
         1577232000000,
         {
-            "BTC/USD actual": 7193.78363102294,
-            "ETH/USD actual": 128.63200447176473
+            "BTC/USD actual": 7320.772482877878,
+            "ETH/USD actual": 134.65468950787871
         }
     ],
     [
         1577318400000,
         {
-            "BTC/USD actual": 7236.012260534706,
-            "ETH/USD actual": 129.10245765588235
+            "BTC/USD actual": 7341.490837569393,
+            "ETH/USD actual": 134.51392869909088
         }
     ],
     [
         1577404800000,
         {
-            "BTC/USD actual": 7239.644331241177,
-            "ETH/USD actual": 129.19121299588235
+            "BTC/USD actual": 7370.330549415152,
+            "ETH/USD actual": 134.53855252484846
         }
     ],
     [
         1577491200000,
         {
-            "BTC/USD actual": 7251.440559598235,
-            "ETH/USD actual": 129.61515281941178
+            "BTC/USD actual": 7397.88988709697,
+            "ETH/USD actual": 134.557865910303
         }
     ],
     [
         1577577600000,
         {
-            "BTC/USD actual": 7285.3511791817655,
-            "ETH/USD actual": 130.52878422941177
+            "BTC/USD actual": 7447.389983695151,
+            "ETH/USD actual": 135.19098184545456
         }
     ],
     [
         1577664000000,
         {
-            "BTC/USD actual": 7345.239272380001,
-            "ETH/USD actual": 131.46530744999998
+            "BTC/USD actual": 7494.763152452423,
+            "ETH/USD actual": 135.83725992757576
         }
     ],
     [
         1577750400000,
         {
-            "BTC/USD actual": 7376.350514411179,
-            "ETH/USD actual": 131.97573498647057
+            "BTC/USD actual": 7544.529491841817,
+            "ETH/USD actual": 136.50715990060604
         }
     ],
     [
         1577836800000,
         {
-            "BTC/USD actual": 7405.96148253059,
-            "ETH/USD actual": 132.54956374411762
+            "BTC/USD actual": 7598.463869869393,
+            "ETH/USD actual": 137.34109400363633
         }
     ],
     [
         1577923200000,
         {
-            "BTC/USD actual": 7460.686033620589,
-            "ETH/USD actual": 133.5333657417647
+            "BTC/USD actual": 7659.8707615918165,
+            "ETH/USD actual": 138.5975005681818
         }
     ],
     [
         1578009600000,
         {
-            "BTC/USD actual": 7509.598418695296,
-            "ETH/USD actual": 134.57577517941175
+            "BTC/USD actual": 7723.033477298484,
+            "ETH/USD actual": 139.8403105184848
         }
     ],
     [
         1578096000000,
         {
-            "BTC/USD actual": 7567.08659676412,
-            "ETH/USD actual": 135.81818586352938
+            "BTC/USD actual": 7763.535048020908,
+            "ETH/USD actual": 140.87631065757574
         }
     ],
     [
         1578182400000,
         {
-            "BTC/USD actual": 7618.163009016473,
-            "ETH/USD actual": 136.85726904352939
+            "BTC/USD actual": 7810.975202490302,
+            "ETH/USD actual": 142.1198908463636
         }
     ],
     [
         1578268800000,
         {
-            "BTC/USD actual": 7707.938594424118,
-            "ETH/USD actual": 139.07932189941175
+            "BTC/USD actual": 7855.640052286665,
+            "ETH/USD actual": 143.30866137636363
         }
     ],
     [
         1578355200000,
         {
-            "BTC/USD actual": 7791.647123387646,
-            "ETH/USD actual": 140.94719198882353
+            "BTC/USD actual": 7893.603462993332,
+            "ETH/USD actual": 144.38083063393935
         }
     ],
     [
         1578441600000,
         {
-            "BTC/USD actual": 7879.805940425294,
-            "ETH/USD actual": 142.87235155999997
+            "BTC/USD actual": 7921.242149669999,
+            "ETH/USD actual": 145.28977724606057
         }
     ],
     [
         1578528000000,
         {
-            "BTC/USD actual": 7981.868330604707,
-            "ETH/USD actual": 145.2889257305882
+            "BTC/USD actual": 7951.951904796665,
+            "ETH/USD actual": 146.2563649442424
         }
     ],
     [
         1578614400000,
         {
-            "BTC/USD actual": 8083.902875909999,
-            "ETH/USD actual": 147.86535469823525
+            "BTC/USD actual": 7992.051135188787,
+            "ETH/USD actual": 147.4625236348485
         }
     ],
     [
         1578700800000,
         {
-            "BTC/USD actual": 8187.1137718411765,
-            "ETH/USD actual": 150.22404099470586
+            "BTC/USD actual": 8043.866985037877,
+            "ETH/USD actual": 148.81915009212122
         }
     ],
     [
         1578787200000,
         {
-            "BTC/USD actual": 8263.26803438,
-            "ETH/USD actual": 152.1672964282353
+            "BTC/USD actual": 8110.6281539133315,
+            "ETH/USD actual": 150.3560985836364
         }
     ],
     [
         1578873600000,
         {
-            "BTC/USD actual": 8343.499160105293,
-            "ETH/USD actual": 154.22992224705882
+            "BTC/USD actual": 8172.3973180545445,
+            "ETH/USD actual": 151.79042966212126
         }
     ],
     [
         1578960000000,
         {
-            "BTC/USD actual": 8420.452660271765,
-            "ETH/USD actual": 156.12964107117645
+            "BTC/USD actual": 8238.97160775182,
+            "ETH/USD actual": 153.50057720969698
         }
     ],
     [
         1579046400000,
         {
-            "BTC/USD actual": 8457.549774115294,
-            "ETH/USD actual": 157.22262609999999
+            "BTC/USD actual": 8297.80564656909,
+            "ETH/USD actual": 154.87898432666668
         }
     ],
     [
         1579132800000,
         {
-            "BTC/USD actual": 8473.238528892354,
-            "ETH/USD actual": 158.35229436235292
+            "BTC/USD actual": 8363.422825352121,
+            "ETH/USD actual": 156.4663249612121
         }
     ],
     [
         1579219200000,
         {
-            "BTC/USD actual": 8490.18008344294,
-            "ETH/USD actual": 159.47739103941174
+            "BTC/USD actual": 8428.919462588485,
+            "ETH/USD actual": 158.26875722787878
         }
     ],
     [
         1579305600000,
         {
-            "BTC/USD actual": 8535.111563286468,
-            "ETH/USD actual": 161.21621465882353
+            "BTC/USD actual": 8493.002243917877,
+            "ETH/USD actual": 160.07640284545457
         }
     ],
     [
         1579392000000,
         {
-            "BTC/USD actual": 8576.934519320586,
-            "ETH/USD actual": 162.7046943717647
+            "BTC/USD actual": 8560.284520745758,
+            "ETH/USD actual": 161.94386816787883
         }
     ],
     [
         1579478400000,
         {
-            "BTC/USD actual": 8657.84838418353,
-            "ETH/USD actual": 164.66961260176473
+            "BTC/USD actual": 8629.403741317274,
+            "ETH/USD actual": 164.08881498212125
         }
     ],
     [
         1579564800000,
         {
-            "BTC/USD actual": 8722.96060901647,
-            "ETH/USD actual": 166.25820929117648
+            "BTC/USD actual": 8702.561945201214,
+            "ETH/USD actual": 166.4805688736364
         }
     ],
     [
         1579651200000,
         {
-            "BTC/USD actual": 8804.590565169414,
-            "ETH/USD actual": 168.6455264835294
+            "BTC/USD actual": 8777.263024310609,
+            "ETH/USD actual": 169.16229862515155
         }
     ],
     [
         1579737600000,
         {
-            "BTC/USD actual": 8834.29790200647,
-            "ETH/USD actual": 169.4677008752941
+            "BTC/USD actual": 8842.411918757276,
+            "ETH/USD actual": 171.5775314075758
         }
     ],
     [
         1579824000000,
         {
-            "BTC/USD actual": 8867.721870112353,
-            "ETH/USD actual": 170.50466379823527
+            "BTC/USD actual": 8903.316906353943,
+            "ETH/USD actual": 174.17809347030308
         }
     ],
     [
         1579910400000,
         {
-            "BTC/USD actual": 8903.681341631765,
-            "ETH/USD actual": 171.93364062
+            "BTC/USD actual": 8958.408997427881,
+            "ETH/USD actual": 176.67824902181817
         }
     ],
     [
         1579996800000,
         {
-            "BTC/USD actual": 8926.49904543,
-            "ETH/USD actual": 173.1064206482353
+            "BTC/USD actual": 9032.634911916366,
+            "ETH/USD actual": 179.70537469424244
         }
     ],
     [
         1580083200000,
         {
-            "BTC/USD actual": 8941.64563408647,
-            "ETH/USD actual": 173.95142393
+            "BTC/USD actual": 9097.945933968183,
+            "ETH/USD actual": 183.4180563933334
         }
     ],
     [
         1580169600000,
         {
-            "BTC/USD actual": 8995.436890688825,
-            "ETH/USD actual": 176.17308396764707
+            "BTC/USD actual": 9165.276686630303,
+            "ETH/USD actual": 187.2364373784849
         }
     ],
     [
         1580256000000,
         {
-            "BTC/USD actual": 9062.461249297061,
-            "ETH/USD actual": 178.8935965917647
+            "BTC/USD actual": 9231.930038205759,
+            "ETH/USD actual": 191.47356136666667
         }
     ],
     [
         1580342400000,
         {
-            "BTC/USD actual": 9127.175743131766,
-            "ETH/USD actual": 182.10923850764704
+            "BTC/USD actual": 9286.274190217271,
+            "ETH/USD actual": 195.142058759697
         }
     ],
     [
         1580428800000,
         {
-            "BTC/USD actual": 9200.849508212943,
-            "ETH/USD actual": 185.40364958411766
+            "BTC/USD actual": 9319.814788933332,
+            "ETH/USD actual": 197.9666381287879
         }
     ],
     [
         1580515200000,
         {
-            "BTC/USD actual": 9305.271250668236,
-            "ETH/USD actual": 189.30705295588234
+            "BTC/USD actual": 9346.65251345515,
+            "ETH/USD actual": 201.0568251212121
         }
     ],
     [
         1580601600000,
         {
-            "BTC/USD actual": 9389.674395352942,
-            "ETH/USD actual": 192.90629784529412
+            "BTC/USD actual": 9391.408992296665,
+            "ETH/USD actual": 204.68061950878788
         }
     ],
     [
         1580688000000,
         {
-            "BTC/USD actual": 9503.757908115882,
-            "ETH/USD actual": 197.4799944352941
+            "BTC/USD actual": 9412.537760439696,
+            "ETH/USD actual": 207.38137821787885
         }
     ],
     [
         1580774400000,
         {
-            "BTC/USD actual": 9607.422995957058,
-            "ETH/USD actual": 203.32939992
+            "BTC/USD actual": 9433.821104019393,
+            "ETH/USD actual": 209.9202535509091
         }
     ],
     [
         1580860800000,
         {
-            "BTC/USD actual": 9686.452545315882,
-            "ETH/USD actual": 209.1505093235294
+            "BTC/USD actual": 9464.241607106664,
+            "ETH/USD actual": 212.92486366424245
         }
     ],
     [
         1580947200000,
         {
-            "BTC/USD actual": 9743.731430978822,
-            "ETH/USD actual": 215.6344371482353
+            "BTC/USD actual": 9495.999115338787,
+            "ETH/USD actual": 215.82306681484852
         }
     ],
     [
         1581033600000,
         {
-            "BTC/USD actual": 9780.394584391173,
-            "ETH/USD actual": 221.0104314094117
+            "BTC/USD actual": 9534.194392303029,
+            "ETH/USD actual": 219.05349786515157
         }
     ],
     [
         1581120000000,
         {
-            "BTC/USD actual": 9806.045946129409,
-            "ETH/USD actual": 225.3957930952941
+            "BTC/USD actual": 9564.674555539998,
+            "ETH/USD actual": 222.0285291706061
         }
     ],
     [
         1581206400000,
         {
-            "BTC/USD actual": 9827.643982637057,
-            "ETH/USD actual": 230.5865300017647
+            "BTC/USD actual": 9592.49918879606,
+            "ETH/USD actual": 224.5668493627273
         }
     ],
     [
         1581292800000,
         {
-            "BTC/USD actual": 9875.308499788236,
-            "ETH/USD actual": 236.4648056817647
+            "BTC/USD actual": 9603.33917156212,
+            "ETH/USD actual": 226.43469978515154
         }
     ],
     [
         1581379200000,
         {
-            "BTC/USD actual": 9891.245026433531,
-            "ETH/USD actual": 240.62519000529414
+            "BTC/USD actual": 9617.36706724303,
+            "ETH/USD actual": 228.46645028878788
         }
     ],
     [
         1581465600000,
         {
-            "BTC/USD actual": 9910.198310224707,
-            "ETH/USD actual": 244.6210648911765
+            "BTC/USD actual": 9621.035960166972,
+            "ETH/USD actual": 230.27220250363635
         }
     ],
     [
         1581552000000,
         {
-            "BTC/USD actual": 9941.85399830647,
-            "ETH/USD actual": 249.18714989941176
+            "BTC/USD actual": 9609.621625769094,
+            "ETH/USD actual": 231.71522503757578
         }
     ],
     [
         1581638400000,
         {
-            "BTC/USD actual": 9945.482583951178,
-            "ETH/USD actual": 252.5926088094118
+            "BTC/USD actual": 9583.240958277276,
+            "ETH/USD actual": 232.99091768151516
         }
     ],
     [
         1581724800000,
         {
-            "BTC/USD actual": 9957.844498597058,
-            "ETH/USD actual": 256.28325499529416
+            "BTC/USD actual": 9572.115838362122,
+            "ETH/USD actual": 234.76681194727274
         }
     ],
     [
         1581811200000,
         {
-            "BTC/USD actual": 9948.957397364118,
-            "ETH/USD actual": 258.7523238947059
+            "BTC/USD actual": 9549.516553081517,
+            "ETH/USD actual": 235.9504627957576
         }
     ],
     [
         1581897600000,
         {
-            "BTC/USD actual": 9913.601533602352,
-            "ETH/USD actual": 260.08424330705884
+            "BTC/USD actual": 9532.09569844879,
+            "ETH/USD actual": 237.3108236709091
         }
     ],
     [
         1581984000000,
         {
-            "BTC/USD actual": 9832.105279002351,
-            "ETH/USD actual": 259.79158897352943
+            "BTC/USD actual": 9522.59375849485,
+            "ETH/USD actual": 238.66844026575754
         }
     ],
     [
         1582070400000,
         {
-            "BTC/USD actual": 9769.333983672352,
-            "ETH/USD actual": 260.0074287929412
+            "BTC/USD actual": 9517.493876369092,
+            "ETH/USD actual": 240.40360317606056
         }
     ],
     [
         1582156800000,
         {
-            "BTC/USD actual": 9677.301833419999,
-            "ETH/USD actual": 259.3753509947059
+            "BTC/USD actual": 9505.819895723032,
+            "ETH/USD actual": 241.85055006818178
         }
     ],
     [
         1582243200000,
         {
-            "BTC/USD actual": 9570.187332816471,
-            "ETH/USD actual": 256.45802174000005
+            "BTC/USD actual": 9471.688208744545,
+            "ETH/USD actual": 242.19345426878783
         }
     ],
     [
         1582329600000,
         {
-            "BTC/USD actual": 9469.190793851178,
-            "ETH/USD actual": 253.48713319000004
+            "BTC/USD actual": 9414.658580154848,
+            "ETH/USD actual": 242.1378937175757
         }
     ],
     [
         1582416000000,
         {
-            "BTC/USD actual": 9383.321279908236,
-            "ETH/USD actual": 250.29804865352943
+            "BTC/USD actual": 9357.506267990302,
+            "ETH/USD actual": 241.76441583878784
         }
     ],
     [
         1582502400000,
         {
-            "BTC/USD actual": 9315.59044602353,
-            "ETH/USD actual": 247.86184020058826
+            "BTC/USD actual": 9300.493719330303,
+            "ETH/USD actual": 240.88696617545452
         }
     ],
     [
         1582588800000,
         {
-            "BTC/USD actual": 9246.372608712942,
-            "ETH/USD actual": 245.84170810411766
+            "BTC/USD actual": 9146.496262229393,
+            "ETH/USD actual": 237.42039287090907
         }
     ],
     [
         1582675200000,
         {
-            "BTC/USD actual": 9209.254875189412,
-            "ETH/USD actual": 243.51544613764702
+            "BTC/USD actual": 9004.68453574091,
+            "ETH/USD actual": 234.56251593363638
         }
     ],
     [
         1582761600000,
         {
-            "BTC/USD actual": 9148.43435189,
-            "ETH/USD actual": 241.27825597411763
+            "BTC/USD actual": 8862.534059717878,
+            "ETH/USD actual": 231.49503510666668
         }
     ],
     [
         1582848000000,
         {
-            "BTC/USD actual": 9107.576131568236,
-            "ETH/USD actual": 240.01716600470587
+            "BTC/USD actual": 8713.262465511212,
+            "ETH/USD actual": 228.0330244130303
         }
     ],
     [
         1582934400000,
         {
-            "BTC/USD actual": 9015.152366788236,
-            "ETH/USD actual": 236.5994017941176
+            "BTC/USD actual": 8552.336707453938,
+            "ETH/USD actual": 223.2933230221212
         }
     ],
     [
         1583020800000,
         {
-            "BTC/USD actual": 8899.187485429413,
-            "ETH/USD actual": 232.88073054176468
+            "BTC/USD actual": 8403.781591629393,
+            "ETH/USD actual": 218.68207520060605
         }
     ],
     [
         1583107200000,
         {
-            "BTC/USD actual": 8793.622192679411,
-            "ETH/USD actual": 229.25033293235288
+            "BTC/USD actual": 8253.712051302424,
+            "ETH/USD actual": 213.60028742636362
         }
     ],
     [
         1583193600000,
         {
-            "BTC/USD actual": 8673.52149559647,
-            "ETH/USD actual": 224.49185346294118
+            "BTC/USD actual": 8141.47220271697,
+            "ETH/USD actual": 209.72774605363637
         }
     ],
     [
         1583280000000,
         {
-            "BTC/USD actual": 8389.091644727645,
-            "ETH/USD actual": 215.28197323764707
+            "BTC/USD actual": 8028.484624280605,
+            "ETH/USD actual": 205.91290458
         }
     ],
     [
         1583366400000,
         {
-            "BTC/USD actual": 8164.219277090589,
-            "ETH/USD actual": 208.71040571117646
+            "BTC/USD actual": 7922.7057760106045,
+            "ETH/USD actual": 201.7982327939394
         }
     ],
     [
         1583452800000,
         {
-            "BTC/USD actual": 7951.6409429494115,
-            "ETH/USD actual": 202.72930170470588
+            "BTC/USD actual": 7790.809044563938,
+            "ETH/USD actual": 196.9190437506061
         }
     ],
     [
         1583539200000,
         {
-            "BTC/USD actual": 7748.731328283531,
-            "ETH/USD actual": 196.63863832352942
+            "BTC/USD actual": 7696.952633357574,
+            "ETH/USD actual": 193.21043791272731
         }
     ],
     [
         1583625600000,
         {
-            "BTC/USD actual": 7532.889152455294,
-            "ETH/USD actual": 189.78216327941178
+            "BTC/USD actual": 7611.057000379393,
+            "ETH/USD actual": 189.6148820766667
         }
     ],
     [
         1583712000000,
         {
-            "BTC/USD actual": 7345.704243750588,
-            "ETH/USD actual": 183.85086552235293
+            "BTC/USD actual": 7519.885006071515,
+            "ETH/USD actual": 185.69254805666668
         }
     ],
     [
         1583798400000,
         {
-            "BTC/USD actual": 7162.881199792354,
-            "ETH/USD actual": 177.99380194705884
+            "BTC/USD actual": 7430.322790478787,
+            "ETH/USD actual": 181.88837983212122
         }
     ],
     [
         1583884800000,
         {
-            "BTC/USD actual": 7003.26282108,
-            "ETH/USD actual": 172.40518585117647
+            "BTC/USD actual": 7323.848512733029,
+            "ETH/USD actual": 177.5141579069697
         }
     ],
     [
         1583971200000,
         {
-            "BTC/USD actual": 6853.454554927647,
-            "ETH/USD actual": 167.08759185294116
+            "BTC/USD actual": 7220.4226466793925,
+            "ETH/USD actual": 173.4352948157576
         }
     ],
     [
         1584057600000,
         {
-            "BTC/USD actual": 6703.534133198235,
-            "ETH/USD actual": 161.65032418176472
+            "BTC/USD actual": 7121.481184759999,
+            "ETH/USD actual": 169.74399778606062
         }
     ],
     [
         1584144000000,
         {
-            "BTC/USD actual": 6513.608760981177,
-            "ETH/USD actual": 155.42185950529415
+            "BTC/USD actual": 7049.3885439236365,
+            "ETH/USD actual": 166.96908438030303
         }
     ],
     [
         1584230400000,
         {
-            "BTC/USD actual": 6357.253201764117,
-            "ETH/USD actual": 149.01492802352942
+            "BTC/USD actual": 6978.388090604546,
+            "ETH/USD actual": 164.12643505454548
         }
     ],
     [
         1584316800000,
         {
-            "BTC/USD actual": 6232.1291604399985,
-            "ETH/USD actual": 143.22241526058826
+            "BTC/USD actual": 6916.608116023333,
+            "ETH/USD actual": 161.3650191321212
         }
     ],
     [
         1584403200000,
         {
-            "BTC/USD actual": 6153.059546058823,
-            "ETH/USD actual": 139.50892019352943
+            "BTC/USD actual": 6864.36995894909,
+            "ETH/USD actual": 159.06688047242423
         }
     ],
     [
         1584489600000,
         {
-            "BTC/USD actual": 6093.536639285882,
-            "ETH/USD actual": 135.63767009058822
+            "BTC/USD actual": 6810.201992608484,
+            "ETH/USD actual": 156.7645441536364
         }
     ],
     [
         1584576000000,
         {
-            "BTC/USD actual": 6010.155914862353,
-            "ETH/USD actual": 131.56216606882353
+            "BTC/USD actual": 6748.301108687273,
+            "ETH/USD actual": 154.11473739969696
         }
     ],
     [
         1584662400000,
         {
-            "BTC/USD actual": 5911.17237398294,
-            "ETH/USD actual": 127.81672654941178
+            "BTC/USD actual": 6688.401040558182,
+            "ETH/USD actual": 151.67451746727275
         }
     ],
     [
         1584748800000,
         {
-            "BTC/USD actual": 5982.689912632353,
-            "ETH/USD actual": 128.71241755411768
+            "BTC/USD actual": 6645.36779679394,
+            "ETH/USD actual": 150.06297062636364
         }
     ],
     [
         1584835200000,
         {
-            "BTC/USD actual": 6036.530706651177,
-            "ETH/USD actual": 128.58081007588237
+            "BTC/USD actual": 6588.812933692424,
+            "ETH/USD actual": 148.13017198333336
         }
     ],
     [
         1584921600000,
         {
-            "BTC/USD actual": 6111.874161275882,
-            "ETH/USD actual": 129.23308751529413
+            "BTC/USD actual": 6534.6179040551515,
+            "ETH/USD actual": 145.94374602515154
         }
     ],
     [
         1585008000000,
         {
-            "BTC/USD actual": 6189.678684414116,
-            "ETH/USD actual": 129.96098780235292
+            "BTC/USD actual": 6486.513080098182,
+            "ETH/USD actual": 143.91539140727272
         }
     ],
     [
         1585094400000,
         {
-            "BTC/USD actual": 6293.5459974835285,
-            "ETH/USD actual": 131.78316267294116
+            "BTC/USD actual": 6451.279373244848,
+            "ETH/USD actual": 142.65939384484847
         }
     ],
     [
         1585180800000,
         {
-            "BTC/USD actual": 6375.771572222352,
-            "ETH/USD actual": 133.2942788047059
+            "BTC/USD actual": 6425.835039017878,
+            "ETH/USD actual": 141.3214456190909
         }
     ],
     [
         1585267200000,
         {
-            "BTC/USD actual": 6461.052979537647,
-            "ETH/USD actual": 134.8260986017647
+            "BTC/USD actual": 6396.2912801642415,
+            "ETH/USD actual": 140.0603083790909
         }
     ],
     [
         1585353600000,
         {
-            "BTC/USD actual": 6494.922895950588,
-            "ETH/USD actual": 135.17027882705884
+            "BTC/USD actual": 6363.656671743332,
+            "ETH/USD actual": 138.90270235151513
         }
     ],
     [
         1585440000000,
         {
-            "BTC/USD actual": 6561.498767121177,
-            "ETH/USD actual": 137.42713042941176
+            "BTC/USD actual": 6425.644343975453,
+            "ETH/USD actual": 140.39674590363634
         }
     ],
     [
         1585526400000,
         {
-            "BTC/USD actual": 6619.9334753952935,
-            "ETH/USD actual": 139.33626927000003
+            "BTC/USD actual": 6460.1267912387875,
+            "ETH/USD actual": 140.95599264363636
         }
     ],
     [
         1585612800000,
         {
-            "BTC/USD actual": 6709.945667372941,
-            "ETH/USD actual": 142.32620744823532
+            "BTC/USD actual": 6519.186566136968,
+            "ETH/USD actual": 142.4775843954545
         }
     ],
     [
         1585699200000,
         {
-            "BTC/USD actual": 6757.899351711765,
-            "ETH/USD actual": 144.32678161176474
+            "BTC/USD actual": 6570.482939674849,
+            "ETH/USD actual": 143.9108876936364
         }
     ],
     [
         1585785600000,
         {
-            "BTC/USD actual": 6763.819325879999,
-            "ETH/USD actual": 145.4505128735294
+            "BTC/USD actual": 6637.846362680301,
+            "ETH/USD actual": 146.2506760839394
         }
     ],
     [
         1585872000000,
         {
-            "BTC/USD actual": 6775.443431737058,
-            "ETH/USD actual": 146.74859051588234
+            "BTC/USD actual": 6692.057073557271,
+            "ETH/USD actual": 148.18492987030305
         }
     ],
     [
         1585958400000,
         {
-            "BTC/USD actual": 6786.3845550099995,
-            "ETH/USD actual": 148.0546648176471
+            "BTC/USD actual": 6735.158843431515,
+            "ETH/USD actual": 149.75910246909095
         }
     ],
     [
         1586044800000,
         {
-            "BTC/USD actual": 6809.61968661647,
-            "ETH/USD actual": 149.5402044435294
+            "BTC/USD actual": 6755.126604386061,
+            "ETH/USD actual": 150.78468938909094
         }
     ],
     [
         1586131200000,
         {
-            "BTC/USD actual": 6846.286704184706,
-            "ETH/USD actual": 151.14831946705883
+            "BTC/USD actual": 6783.363736864243,
+            "ETH/USD actual": 152.28930031454547
         }
     ],
     [
         1586217600000,
         {
-            "BTC/USD actual": 6880.413689667059,
-            "ETH/USD actual": 152.82780749352943
+            "BTC/USD actual": 6824.816980791818,
+            "ETH/USD actual": 153.99831613515153
         }
     ],
     [
         1586304000000,
         {
-            "BTC/USD actual": 6922.425339010588,
-            "ETH/USD actual": 155.18697820470587
+            "BTC/USD actual": 6875.6096265960605,
+            "ETH/USD actual": 155.9688869930303
         }
     ],
     [
         1586390400000,
         {
-            "BTC/USD actual": 6956.915447067058,
-            "ETH/USD actual": 157.3966934464706
+            "BTC/USD actual": 6907.36726632788,
+            "ETH/USD actual": 157.72043817939394
         }
     ],
     [
         1586476800000,
         {
-            "BTC/USD actual": 6991.7633959658815,
-            "ETH/USD actual": 160.44255618588235
+            "BTC/USD actual": 6935.3963670930325,
+            "ETH/USD actual": 159.4614792327272
         }
     ],
     [
         1586563200000,
         {
-            "BTC/USD actual": 7011.214525048823,
-            "ETH/USD actual": 162.72707905941178
+            "BTC/USD actual": 6968.7274170539395,
+            "ETH/USD actual": 161.28789160181813
         }
     ],
     [
         1586649600000,
         {
-            "BTC/USD actual": 7017.209204331176,
-            "ETH/USD actual": 164.3950033829412
+            "BTC/USD actual": 7000.519256777274,
+            "ETH/USD actual": 163.10860424969692
         }
     ],
     [
         1586736000000,
         {
-            "BTC/USD actual": 7016.512312730589,
-            "ETH/USD actual": 165.94097500705882
+            "BTC/USD actual": 7070.909088779395,
+            "ETH/USD actual": 165.6549029733333
         }
     ],
     [
         1586822400000,
         {
-            "BTC/USD actual": 7037.793906580589,
-            "ETH/USD actual": 168.2809938505882
+            "BTC/USD actual": 7142.894261959696,
+            "ETH/USD actual": 167.9277086475757
         }
     ],
     [
         1586908800000,
         {
-            "BTC/USD actual": 7051.876666841177,
-            "ETH/USD actual": 169.28952428705884
+            "BTC/USD actual": 7227.163626286363,
+            "ETH/USD actual": 170.57601761696966
         }
     ],
     [
         1586995200000,
         {
-            "BTC/USD actual": 7070.331753088237,
-            "ETH/USD actual": 170.6381886417647
+            "BTC/USD actual": 7305.319244125151,
+            "ETH/USD actual": 173.05434507303028
         }
     ],
     [
         1587081600000,
         {
-            "BTC/USD actual": 7080.825493234706,
-            "ETH/USD actual": 171.8755657347059
+            "BTC/USD actual": 7379.74190551909,
+            "ETH/USD actual": 175.37821133333333
         }
     ],
     [
         1587168000000,
         {
-            "BTC/USD actual": 7103.490835194706,
-            "ETH/USD actual": 173.40011515705885
+            "BTC/USD actual": 7446.835174853334,
+            "ETH/USD actual": 177.5247299187879
         }
     ],
     [
         1587254400000,
         {
-            "BTC/USD actual": 7157.517513452941,
-            "ETH/USD actual": 175.67012172176473
+            "BTC/USD actual": 7514.262727527575,
+            "ETH/USD actual": 179.46107587727275
         }
     ],
     [
         1587340800000,
         {
-            "BTC/USD actual": 7209.100120818824,
-            "ETH/USD actual": 177.93038978529412
+            "BTC/USD actual": 7587.500455488485,
+            "ETH/USD actual": 181.18763972303032
         }
     ],
     [
         1587427200000,
         {
-            "BTC/USD actual": 7319.708131585882,
-            "ETH/USD actual": 181.24579086941176
+            "BTC/USD actual": 7682.273647873637,
+            "ETH/USD actual": 183.23810737181822
         }
     ],
     [
         1587513600000,
         {
-            "BTC/USD actual": 7423.8100491088235,
-            "ETH/USD actual": 184.15938583
+            "BTC/USD actual": 7774.123006811211,
+            "ETH/USD actual": 185.3148674618182
         }
     ],
     [
         1587600000000,
         {
-            "BTC/USD actual": 7538.580284177058,
-            "ETH/USD actual": 187.29570970352938
+            "BTC/USD actual": 7840.800526125757,
+            "ETH/USD actual": 186.48180887787885
         }
     ],
     [
         1587686400000,
         {
-            "BTC/USD actual": 7677.19840931294,
-            "ETH/USD actual": 190.88937655647055
+            "BTC/USD actual": 7886.962224021515,
+            "ETH/USD actual": 187.18094030848488
         }
     ],
     [
         1587772800000,
         {
-            "BTC/USD actual": 7782.3639377235295,
-            "ETH/USD actual": 193.09901039470586
+            "BTC/USD actual": 7923.285051784848,
+            "ETH/USD actual": 187.55753945333333
         }
     ],
     [
         1587859200000,
         {
-            "BTC/USD actual": 7890.833023290001,
-            "ETH/USD actual": 195.21138741588237
+            "BTC/USD actual": 7968.891209480305,
+            "ETH/USD actual": 188.14131036030307
         }
     ],
     [
         1587945600000,
         {
-            "BTC/USD actual": 7994.824823363529,
-            "ETH/USD actual": 196.25040933058824
+            "BTC/USD actual": 8042.886207516669,
+            "ETH/USD actual": 189.40537192727274
         }
     ],
     [
         1588032000000,
         {
-            "BTC/USD actual": 8113.985195971176,
-            "ETH/USD actual": 197.3583626364706
+            "BTC/USD actual": 8130.779590082426,
+            "ETH/USD actual": 190.7614840542424
         }
     ],
     [
         1588118400000,
         {
-            "BTC/USD actual": 8299.56995286647,
-            "ETH/USD actual": 199.81475517764707
+            "BTC/USD actual": 8203.67802262879,
+            "ETH/USD actual": 191.83783640575757
         }
     ],
     [
         1588204800000,
         {
-            "BTC/USD actual": 8472.97473595235,
-            "ETH/USD actual": 202.19944802705882
+            "BTC/USD actual": 8280.216660578788,
+            "ETH/USD actual": 193.16378770484846
         }
     ],
     [
         1588291200000,
         {
-            "BTC/USD actual": 8614.17018157,
-            "ETH/USD actual": 203.8008235229412
+            "BTC/USD actual": 8364.98215039,
+            "ETH/USD actual": 194.62937002727273
         }
     ],
     [
         1588377600000,
         {
-            "BTC/USD actual": 8681.7448299,
-            "ETH/USD actual": 203.74959854764705
+            "BTC/USD actual": 8458.854182090607,
+            "ETH/USD actual": 196.5005963260606
         }
     ],
     [
         1588464000000,
         {
-            "BTC/USD actual": 8743.668551562942,
-            "ETH/USD actual": 203.64535634176468
+            "BTC/USD actual": 8539.515716879392,
+            "ETH/USD actual": 197.77806703303028
         }
     ],
     [
         1588550400000,
         {
-            "BTC/USD actual": 8818.504653125296,
-            "ETH/USD actual": 203.37906290411763
+            "BTC/USD actual": 8614.419083726063,
+            "ETH/USD actual": 198.9559450621212
         }
     ],
     [
         1588636800000,
         {
-            "BTC/USD actual": 8913.652545525883,
-            "ETH/USD actual": 203.57689280999998
+            "BTC/USD actual": 8668.996788717577,
+            "ETH/USD actual": 199.28144314484842
         }
     ],
     [
         1588723200000,
         {
-            "BTC/USD actual": 9031.191767615885,
-            "ETH/USD actual": 203.96203468823532
+            "BTC/USD actual": 8730.689599326062,
+            "ETH/USD actual": 200.09774047969694
         }
     ],
     [
         1588809600000,
         {
-            "BTC/USD actual": 9121.928041662943,
-            "ETH/USD actual": 203.82317429705887
+            "BTC/USD actual": 8801.511740858788,
+            "ETH/USD actual": 201.19130203515152
         }
     ],
     [
         1588896000000,
         {
-            "BTC/USD actual": 9157.099090697646,
-            "ETH/USD actual": 202.93980421647058
+            "BTC/USD actual": 8857.754354673634,
+            "ETH/USD actual": 202.0573882333333
         }
     ],
     [
         1588982400000,
         {
-            "BTC/USD actual": 9218.574958196472,
-            "ETH/USD actual": 202.9809562629412
+            "BTC/USD actual": 8911.160194979087,
+            "ETH/USD actual": 202.70268886121212
         }
     ],
     [
         1589068800000,
         {
-            "BTC/USD actual": 9271.34241564,
-            "ETH/USD actual": 203.15198969352943
+            "BTC/USD actual": 8949.573442205452,
+            "ETH/USD actual": 203.07622556484847
         }
     ],
     [
         1589155200000,
         {
-            "BTC/USD actual": 9318.218492004115,
-            "ETH/USD actual": 203.1800855388235
+            "BTC/USD actual": 9000.915361435756,
+            "ETH/USD actual": 203.70599453515155
         }
     ],
     [
         1589241600000,
         {
-            "BTC/USD actual": 9353.641734174706,
-            "ETH/USD actual": 203.1652353905882
+            "BTC/USD actual": 9062.531040990603,
+            "ETH/USD actual": 204.49261774121211
         }
     ],
     [
         1589328000000,
         {
-            "BTC/USD actual": 9364.194764055293,
-            "ETH/USD actual": 202.67617597764703
+            "BTC/USD actual": 9114.789522369696,
+            "ETH/USD actual": 205.22061028272725
         }
     ],
     [
         1589414400000,
         {
-            "BTC/USD actual": 9372.513746775294,
-            "ETH/USD actual": 202.78648681705883
+            "BTC/USD actual": 9172.57309247212,
+            "ETH/USD actual": 206.64177315818182
         }
     ],
     [
         1589500800000,
         {
-            "BTC/USD actual": 9373.819346520586,
-            "ETH/USD actual": 203.22564198882355
+            "BTC/USD actual": 9223.448210807574,
+            "ETH/USD actual": 207.6883203912121
         }
     ],
     [
         1589587200000,
         {
-            "BTC/USD actual": 9298.327802401174,
-            "ETH/USD actual": 202.47252020882354
+            "BTC/USD actual": 9266.660003224242,
+            "ETH/USD actual": 208.6879771475757
         }
     ],
     [
         1589673600000,
         {
-            "BTC/USD actual": 9244.983742435881,
-            "ETH/USD actual": 202.03382362588238
+            "BTC/USD actual": 9293.841127147578,
+            "ETH/USD actual": 209.6386642024242
         }
     ],
     [
         1589760000000,
         {
-            "BTC/USD actual": 9204.200562760587,
-            "ETH/USD actual": 201.50221550294123
+            "BTC/USD actual": 9319.319044758182,
+            "ETH/USD actual": 210.6294196069697
         }
     ],
     [
         1589846400000,
         {
-            "BTC/USD actual": 9232.711372774706,
-            "ETH/USD actual": 202.71623508176475
+            "BTC/USD actual": 9343.770345992425,
+            "ETH/USD actual": 211.51127337393936
         }
     ],
     [
         1589932800000,
         {
-            "BTC/USD actual": 9292.30300169294,
-            "ETH/USD actual": 204.74954123470593
+            "BTC/USD actual": 9365.301998810306,
+            "ETH/USD actual": 212.41938172969697
         }
     ],
     [
         1590019200000,
         {
-            "BTC/USD actual": 9327.881677862355,
-            "ETH/USD actual": 206.55405030058824
+            "BTC/USD actual": 9389.284731126363,
+            "ETH/USD actual": 213.48487720484846
         }
     ],
     [
         1590105600000,
         {
-            "BTC/USD actual": 9350.439113660588,
-            "ETH/USD actual": 209.12901822882353
+            "BTC/USD actual": 9411.248161276062,
+            "ETH/USD actual": 214.67716735606058
         }
     ],
     [
         1590192000000,
         {
-            "BTC/USD actual": 9330.162737520588,
-            "ETH/USD actual": 210.78836620411764
+            "BTC/USD actual": 9430.177034644848,
+            "ETH/USD actual": 216.1116688442424
         }
     ],
     [
         1590278400000,
         {
-            "BTC/USD actual": 9383.14374097706,
-            "ETH/USD actual": 213.95488760352941
+            "BTC/USD actual": 9423.52330475606,
+            "ETH/USD actual": 217.06949885333333
         }
     ],
     [
         1590364800000,
         {
-            "BTC/USD actual": 9391.434013624708,
-            "ETH/USD actual": 216.1400284429412
+            "BTC/USD actual": 9426.198181958785,
+            "ETH/USD actual": 218.1781818330303
         }
     ],
     [
         1590451200000,
         {
-            "BTC/USD actual": 9391.116608538825,
-            "ETH/USD actual": 218.35462947588238
+            "BTC/USD actual": 9418.055890644544,
+            "ETH/USD actual": 218.79112846151511
         }
     ],
     [
         1590537600000,
         {
-            "BTC/USD actual": 9394.976845122354,
-            "ETH/USD actual": 220.0277496494118
+            "BTC/USD actual": 9440.461457105755,
+            "ETH/USD actual": 220.30037461424243
         }
     ],
     [
         1590624000000,
         {
-            "BTC/USD actual": 9385.360837942353,
-            "ETH/USD actual": 221.52038598235296
+            "BTC/USD actual": 9467.961469500906,
+            "ETH/USD actual": 221.88796071484848
         }
     ],
     [
         1590710400000,
         {
-            "BTC/USD actual": 9394.983985890589,
-            "ETH/USD actual": 223.41460863411763
+            "BTC/USD actual": 9483.473616295149,
+            "ETH/USD actual": 223.15054661848487
         }
     ],
     [
         1590796800000,
         {
-            "BTC/USD actual": 9435.665723035883,
-            "ETH/USD actual": 226.13622691705882
+            "BTC/USD actual": 9486.910926716966,
+            "ETH/USD actual": 224.0920002024242
         }
     ],
     [
         1590883200000,
         {
-            "BTC/USD actual": 9471.813746884116,
-            "ETH/USD actual": 228.44422357941176
+            "BTC/USD actual": 9478.902605216059,
+            "ETH/USD actual": 225.06337889515152
         }
     ],
     [
         1590969600000,
         {
-            "BTC/USD actual": 9507.004165137645,
-            "ETH/USD actual": 230.63713723647055
+            "BTC/USD actual": 9483.362709669998,
+            "ETH/USD actual": 226.25018442090908
         }
     ],
     [
         1591056000000,
         {
-            "BTC/USD actual": 9576.42451832941,
-            "ETH/USD actual": 233.49275325
+            "BTC/USD actual": 9483.274169207878,
+            "ETH/USD actual": 227.18180681515148
         }
     ],
     [
         1591142400000,
         {
-            "BTC/USD actual": 9598.144179038234,
-            "ETH/USD actual": 235.0313239235294
+            "BTC/USD actual": 9472.080602368183,
+            "ETH/USD actual": 227.8411330196969
         }
     ],
     [
         1591228800000,
         {
-            "BTC/USD actual": 9634.645094118234,
-            "ETH/USD actual": 237.18471140823533
+            "BTC/USD actual": 9460.994965738484,
+            "ETH/USD actual": 228.26789341363633
         }
     ],
     [
         1591315200000,
         {
-            "BTC/USD actual": 9650.287467218823,
-            "ETH/USD actual": 238.93976127882354
+            "BTC/USD actual": 9446.103121795455,
+            "ETH/USD actual": 228.6645032024242
         }
     ],
     [
         1591401600000,
         {
-            "BTC/USD actual": 9635.628475775293,
-            "ETH/USD actual": 239.59739543058825
+            "BTC/USD actual": 9451.710370017274,
+            "ETH/USD actual": 229.67901178363633
         }
     ],
     [
         1591488000000,
         {
-            "BTC/USD actual": 9636.005859847059,
-            "ETH/USD actual": 240.20959088941174
+            "BTC/USD actual": 9468.878989225455,
+            "ETH/USD actual": 231.032450520606
         }
     ],
     [
         1591574400000,
         {
-            "BTC/USD actual": 9625.831410001178,
-            "ETH/USD actual": 239.72162229529408
+            "BTC/USD actual": 9472.602651983638,
+            "ETH/USD actual": 231.85741482090904
         }
     ],
     [
         1591660800000,
         {
-            "BTC/USD actual": 9626.467951219412,
-            "ETH/USD actual": 239.85502800176468
+            "BTC/USD actual": 9474.540442156971,
+            "ETH/USD actual": 232.63124350575754
         }
     ],
     [
         1591747200000,
         {
-            "BTC/USD actual": 9577.585412901177,
-            "ETH/USD actual": 238.83959121823526
+            "BTC/USD actual": 9487.96821561,
+            "ETH/USD actual": 233.53815449424243
         }
     ],
     [
         1591833600000,
         {
-            "BTC/USD actual": 9564.569233624708,
-            "ETH/USD actual": 238.31516043764702
+            "BTC/USD actual": 9491.170074213944,
+            "ETH/USD actual": 234.04557985181822
         }
     ],
     [
         1591920000000,
         {
-            "BTC/USD actual": 9546.360379895881,
-            "ETH/USD actual": 237.39138002411764
+            "BTC/USD actual": 9499.420761811518,
+            "ETH/USD actual": 234.77269740212122
         }
     ],
     [
         1592006400000,
         {
-            "BTC/USD actual": 9516.86446856294,
-            "ETH/USD actual": 236.47753167647056
+            "BTC/USD actual": 9498.709348716975,
+            "ETH/USD actual": 235.36225245818184
         }
     ],
     [
         1592092800000,
         {
-            "BTC/USD actual": 9521.37563122353,
-            "ETH/USD actual": 236.66922314235293
+            "BTC/USD actual": 9485.274868802124,
+            "ETH/USD actual": 235.51908981454548
         }
     ],
     [
         1592179200000,
         {
-            "BTC/USD actual": 9518.701265071175,
-            "ETH/USD actual": 236.7391124141176
+            "BTC/USD actual": 9479.632775292122,
+            "ETH/USD actual": 235.83745977909095
         }
     ],
     [
         1592265600000,
         {
-            "BTC/USD actual": 9491.613640501764,
-            "ETH/USD actual": 236.13637895470586
+            "BTC/USD actual": 9461.178348923033,
+            "ETH/USD actual": 235.31539403303034
         }
     ],
     [
         1592352000000,
         {
-            "BTC/USD actual": 9459.936549338236,
-            "ETH/USD actual": 235.29305162588233
+            "BTC/USD actual": 9449.54742446667,
+            "ETH/USD actual": 235.11869280030305
         }
     ],
     [
         1592438400000,
         {
-            "BTC/USD actual": 9423.426747000001,
-            "ETH/USD actual": 234.44108704117647
+            "BTC/USD actual": 9417.039750686972,
+            "ETH/USD actual": 234.53831405212122
         }
     ],
     [
         1592524800000,
         {
-            "BTC/USD actual": 9371.105650931178,
-            "ETH/USD actual": 232.8352433094118
+            "BTC/USD actual": 9403.524198818486,
+            "ETH/USD actual": 234.2404983509091
         }
     ],
     [
         1592611200000,
         {
-            "BTC/USD actual": 9362.144136202356,
-            "ETH/USD actual": 232.52526109352945
+            "BTC/USD actual": 9393.84215981303,
+            "ETH/USD actual": 234.1550615721212
         }
     ],
     [
         1592697600000,
         {
-            "BTC/USD actual": 9345.780809431766,
-            "ETH/USD actual": 231.95399795529414
+            "BTC/USD actual": 9377.698133307273,
+            "ETH/USD actual": 234.03805319151513
         }
     ],
     [
         1592784000000,
         {
-            "BTC/USD actual": 9325.911365042355,
-            "ETH/USD actual": 231.20996831058827
+            "BTC/USD actual": 9372.323982764241,
+            "ETH/USD actual": 234.2535280521212
         }
     ],
     [
         1592870400000,
         {
-            "BTC/USD actual": 9320.42592768,
-            "ETH/USD actual": 231.18158761235298
+            "BTC/USD actual": 9359.259082640909,
+            "ETH/USD actual": 234.25529992818178
         }
     ],
     [
         1592956800000,
         {
-            "BTC/USD actual": 9300.487639119414,
-            "ETH/USD actual": 230.9156062529412
+            "BTC/USD actual": 9345.28309035091,
+            "ETH/USD actual": 234.14697674212115
         }
     ],
     [
         1593043200000,
         {
-            "BTC/USD actual": 9273.179151359998,
-            "ETH/USD actual": 230.3075049611765
+            "BTC/USD actual": 9328.75612551394,
+            "ETH/USD actual": 233.92543353090906
         }
     ],
     [
         1593129600000,
         {
-            "BTC/USD actual": 9254.399173539412,
-            "ETH/USD actual": 230.04360982882352
+            "BTC/USD actual": 9314.417071146972,
+            "ETH/USD actual": 233.8934494081818
         }
     ],
     [
         1593216000000,
         {
-            "BTC/USD actual": 9236.625247574704,
-            "ETH/USD actual": 229.84219436529412
+            "BTC/USD actual": 9294.551152685757,
+            "ETH/USD actual": 233.63305979424237
         }
     ],
     [
         1593302400000,
         {
-            "BTC/USD actual": 9239.241984755294,
-            "ETH/USD actual": 230.61107901882352
+            "BTC/USD actual": 9294.19716353394,
+            "ETH/USD actual": 233.94248164787876
         }
     ],
     [
         1593388800000,
         {
-            "BTC/USD actual": 9233.282993932353,
-            "ETH/USD actual": 231.22864804176467
+            "BTC/USD actual": 9285.979126349697,
+            "ETH/USD actual": 233.96819015484846
         }
     ],
     [
         1593475200000,
         {
-            "BTC/USD actual": 9242.142509234705,
-            "ETH/USD actual": 232.36966951411762
+            "BTC/USD actual": 9275.627903459696,
+            "ETH/USD actual": 233.82831389939392
         }
     ],
     [
         1593561600000,
         {
-            "BTC/USD actual": 9215.519722159997,
-            "ETH/USD actual": 232.29799150294116
+            "BTC/USD actual": 9270.286923306061,
+            "ETH/USD actual": 233.8635184563636
         }
     ],
     [
         1593648000000,
         {
-            "BTC/USD actual": 9195.744272279411,
-            "ETH/USD actual": 232.1820719352941
+            "BTC/USD actual": 9262.608139901817,
+            "ETH/USD actual": 234.00919433151512
         }
     ],
     [
         1593734400000,
         {
-            "BTC/USD actual": 9192.582254325293,
-            "ETH/USD actual": 232.45861284
+            "BTC/USD actual": 9253.170952055454,
+            "ETH/USD actual": 234.1259082351515
         }
     ],
     [
         1593820800000,
         {
-            "BTC/USD actual": 9196.176444941766,
-            "ETH/USD actual": 233.08730163529412
+            "BTC/USD actual": 9244.24205456303,
+            "ETH/USD actual": 234.1968196348485
         }
     ],
     [
         1593907200000,
         {
-            "BTC/USD actual": 9200.967866770588,
-            "ETH/USD actual": 233.67698118529407
+            "BTC/USD actual": 9244.68947467697,
+            "ETH/USD actual": 234.63846122939398
         }
     ],
     [
         1593993600000,
         {
-            "BTC/USD actual": 9215.784999482941,
-            "ETH/USD actual": 234.83119211588235
+            "BTC/USD actual": 9251.834787092725,
+            "ETH/USD actual": 235.72044500787885
         }
     ],
     [
         1594080000000,
         {
-            "BTC/USD actual": 9220.317213515882,
-            "ETH/USD actual": 235.62302086941173
+            "BTC/USD actual": 9259.568916395452,
+            "ETH/USD actual": 237.1376629678788
         }
     ],
     [
         1594166400000,
         {
-            "BTC/USD actual": 9217.247014660587,
-            "ETH/USD actual": 235.96211584117648
+            "BTC/USD actual": 9267.59596155333,
+            "ETH/USD actual": 238.7102149048485
         }
     ],
     [
         1594252800000,
         {
-            "BTC/USD actual": 9218.298934518234,
-            "ETH/USD actual": 236.38363926470586
+            "BTC/USD actual": 9268.158108471513,
+            "ETH/USD actual": 240.60363335181822
         }
     ],
     [
         1594339200000,
         {
-            "BTC/USD actual": 9214.722744089411,
-            "ETH/USD actual": 236.66060502058824
+            "BTC/USD actual": 9277.75658790242,
+            "ETH/USD actual": 242.67188057696976
         }
     ],
     [
         1594425600000,
         {
-            "BTC/USD actual": 9222.052345493528,
-            "ETH/USD actual": 237.41262045235294
+            "BTC/USD actual": 9330.948569679087,
+            "ETH/USD actual": 245.3305598951515
         }
     ],
     [
         1594512000000,
         {
-            "BTC/USD actual": 9227.933997877059,
-            "ETH/USD actual": 238.06550950411767
+            "BTC/USD actual": 9382.14168206818,
+            "ETH/USD actual": 247.91467340545455
         }
     ],
     [
         1594598400000,
         {
-            "BTC/USD actual": 9243.023112411176,
-            "ETH/USD actual": 239.03399456235297
+            "BTC/USD actual": 9441.357247510605,
+            "ETH/USD actual": 250.60454191484848
         }
     ],
     [
         1594684800000,
         {
-            "BTC/USD actual": 9270.113316745294,
-            "ETH/USD actual": 241.18799806588243
+            "BTC/USD actual": 9505.352494207575,
+            "ETH/USD actual": 254.07445807212125
         }
     ],
     [
         1594771200000,
         {
-            "BTC/USD actual": 9285.712319144117,
-            "ETH/USD actual": 243.1811356747059
+            "BTC/USD actual": 9573.10776266697,
+            "ETH/USD actual": 257.7686611430303
         }
     ],
     [
         1594857600000,
         {
-            "BTC/USD actual": 9303.13672339353,
-            "ETH/USD actual": 245.54702206117648
+            "BTC/USD actual": 9652.596057568486,
+            "ETH/USD actual": 262.6022086560606
         }
     ],
     [
         1594944000000,
         {
-            "BTC/USD actual": 9319.171287008236,
-            "ETH/USD actual": 248.99589813588238
+            "BTC/USD actual": 9710.98671878182,
+            "ETH/USD actual": 267.04195106727275
         }
     ],
     [
         1595030400000,
         {
-            "BTC/USD actual": 9360.490539990587,
-            "ETH/USD actual": 253.07718073235296
+            "BTC/USD actual": 9771.441350199093,
+            "ETH/USD actual": 271.7377558351515
         }
     ],
     [
         1595116800000,
         {
-            "BTC/USD actual": 9463.78780625647,
-            "ETH/USD actual": 257.84568742823524
+            "BTC/USD actual": 9835.291782127579,
+            "ETH/USD actual": 276.6857539921212
         }
     ],
     [
         1595203200000,
         {
-            "BTC/USD actual": 9563.56733559059,
-            "ETH/USD actual": 262.44863491176466
+            "BTC/USD actual": 9916.711579989698,
+            "ETH/USD actual": 282.0199287357575
         }
     ],
     [
         1595289600000,
         {
-            "BTC/USD actual": 9669.84003052941,
-            "ETH/USD actual": 266.88026661294117
+            "BTC/USD actual": 9996.47293063697,
+            "ETH/USD actual": 287.04327314272723
         }
     ],
     [
         1595376000000,
         {
-            "BTC/USD actual": 9780.308255061767,
-            "ETH/USD actual": 272.51560467235294
+            "BTC/USD actual": 10072.924889821517,
+            "ETH/USD actual": 291.64017711333327
         }
     ],
     [
         1595462400000,
         {
-            "BTC/USD actual": 9903.558828637058,
-            "ETH/USD actual": 278.7760801135295
+            "BTC/USD actual": 10146.358128189091,
+            "ETH/USD actual": 296.3537430669697
         }
     ],
     [
         1595548800000,
         {
-            "BTC/USD actual": 10057.448970032941,
-            "ETH/USD actual": 287.5376809282353
+            "BTC/USD actual": 10219.992332500304,
+            "ETH/USD actual": 300.9255268742424
         }
     ],
     [
         1595635200000,
         {
-            "BTC/USD actual": 10171.019653608824,
-            "ETH/USD actual": 295.6834992835295
+            "BTC/USD actual": 10294.512087637273,
+            "ETH/USD actual": 305.43101414484846
         }
     ],
     [
         1595721600000,
         {
-            "BTC/USD actual": 10293.255109295884,
-            "ETH/USD actual": 304.7021660535294
+            "BTC/USD actual": 10359.58052671788,
+            "ETH/USD actual": 309.5779354075757
         }
     ],
     [
         1595808000000,
         {
-            "BTC/USD actual": 10412.167650498825,
-            "ETH/USD actual": 313.7583397117647
+            "BTC/USD actual": 10428.719616370305,
+            "ETH/USD actual": 314.00826165787873
         }
     ],
     [
         1595894400000,
         {
-            "BTC/USD actual": 10561.228605585295,
-            "ETH/USD actual": 323.27825063882347
+            "BTC/USD actual": 10506.223238712728,
+            "ETH/USD actual": 319.63602334272724
         }
     ],
     [
         1595980800000,
         {
-            "BTC/USD actual": 10714.612050624115,
-            "ETH/USD actual": 332.62790193235287
+            "BTC/USD actual": 10581.055800893333,
+            "ETH/USD actual": 325.56627261909085
         }
     ],
     [
         1596067200000,
         {
-            "BTC/USD actual": 10844.376347561176,
-            "ETH/USD actual": 340.49258402235284
+            "BTC/USD actual": 10660.554596204543,
+            "ETH/USD actual": 331.41660678151516
         }
     ],
     [
         1596153600000,
         {
-            "BTC/USD actual": 10975.669646883529,
-            "ETH/USD actual": 348.31101054529404
+            "BTC/USD actual": 10741.242052763635,
+            "ETH/USD actual": 337.2764468627273
         }
     ],
     [
         1596240000000,
         {
-            "BTC/USD actual": 11097.634331077057,
-            "ETH/USD actual": 355.0521485658823
+            "BTC/USD actual": 10835.456843821212,
+            "ETH/USD actual": 343.12698835000003
         }
     ],
     [
         1596326400000,
         {
-            "BTC/USD actual": 11235.56793045647,
-            "ETH/USD actual": 361.886515097647
+            "BTC/USD actual": 10920.923668403331,
+            "ETH/USD actual": 348.84738433939395
         }
     ],
     [
         1596412800000,
         {
-            "BTC/USD actual": 11334.16323993235,
-            "ETH/USD actual": 366.1892837288235
+            "BTC/USD actual": 10999.904239720909,
+            "ETH/USD actual": 354.1557497087879
         }
     ],
     [
         1596499200000,
         {
-            "BTC/USD actual": 11429.966621658232,
-            "ETH/USD actual": 370.6585763864706
+            "BTC/USD actual": 11081.419099614544,
+            "ETH/USD actual": 359.62189328333335
         }
     ],
     [
         1596585600000,
         {
-            "BTC/USD actual": 11473.997788331762,
-            "ETH/USD actual": 376.6986301205883
+            "BTC/USD actual": 11151.456477701817,
+            "ETH/USD actual": 364.1280138154546
         }
     ],
     [
         1596672000000,
         {
-            "BTC/USD actual": 11523.480322661173,
-            "ETH/USD actual": 383.82275893235294
+            "BTC/USD actual": 11227.580234605757,
+            "ETH/USD actual": 368.96086513757575
         }
     ],
     [
         1596758400000,
         {
-            "BTC/USD actual": 11567.645073058822,
-            "ETH/USD actual": 390.54746004411766
+            "BTC/USD actual": 11295.986276353031,
+            "ETH/USD actual": 373.35790676242425
         }
     ],
     [
         1596844800000,
         {
-            "BTC/USD actual": 11614.864730797646,
-            "ETH/USD actual": 396.3409350623529
+            "BTC/USD actual": 11363.224934962424,
+            "ETH/USD actual": 377.70614802272735
         }
     ],
     [
         1596931200000,
         {
-            "BTC/USD actual": 11670.759547521175,
-            "ETH/USD actual": 401.3185972123529
+            "BTC/USD actual": 11415.239469231818,
+            "ETH/USD actual": 380.96843307000006
         }
     ],
     [
         1597017600000,
         {
-            "BTC/USD actual": 11679.294729810588,
-            "ETH/USD actual": 403.37922157941176
+            "BTC/USD actual": 11473.19237886091,
+            "ETH/USD actual": 384.19050044484845
         }
     ],
     [
         1597104000000,
         {
-            "BTC/USD actual": 11720.315298694119,
-            "ETH/USD actual": 405.48689545117645
+            "BTC/USD actual": 11522.295828217577,
+            "ETH/USD actual": 386.53830636636366
         }
     ],
     [
         1597190400000,
         {
-            "BTC/USD actual": 11757.620728248827,
-            "ETH/USD actual": 407.2592247729412
+            "BTC/USD actual": 11570.573432610001,
+            "ETH/USD actual": 389.08776551272723
         }
     ],
     [
         1597276800000,
         {
-            "BTC/USD actual": 11776.960283961178,
-            "ETH/USD actual": 407.15347775647064
+            "BTC/USD actual": 11583.688786541516,
+            "ETH/USD actual": 391.4061051963636
         }
     ],
     [
         1597363200000,
         {
-            "BTC/USD actual": 11772.561386249414,
-            "ETH/USD actual": 406.8332095782353
+            "BTC/USD actual": 11607.496039335758,
+            "ETH/USD actual": 394.7882087575757
         }
     ],
     [
         1597449600000,
         {
-            "BTC/USD actual": 11765.60784233059,
-            "ETH/USD actual": 406.5859304123529
+            "BTC/USD actual": 11624.052079138784,
+            "ETH/USD actual": 398.2982466506061
         }
     ],
     [
         1597536000000,
         {
-            "BTC/USD actual": 11774.813404371764,
-            "ETH/USD actual": 408.2572357135294
+            "BTC/USD actual": 11648.630746639392,
+            "ETH/USD actual": 402.55527020515154
         }
     ],
     [
         1597622400000,
         {
-            "BTC/USD actual": 11748.834922344702,
-            "ETH/USD actual": 407.43318097470586
+            "BTC/USD actual": 11650.043832244546,
+            "ETH/USD actual": 405.3760459760606
         }
     ],
     [
         1597708800000,
         {
-            "BTC/USD actual": 11735.819166328823,
-            "ETH/USD actual": 407.1790295805882
+            "BTC/USD actual": 11600.576319685151,
+            "ETH/USD actual": 405.2281926460607
         }
     ],
     [
         1597795200000,
         {
-            "BTC/USD actual": 11702.51619519353,
-            "ETH/USD actual": 406.43946538941174
+            "BTC/USD actual": 11583.037250268182,
+            "ETH/USD actual": 405.6929515621212
         }
     ],
     [
         1597881600000,
         {
-            "BTC/USD actual": 11711.241474957647,
-            "ETH/USD actual": 407.4197921129412
+            "BTC/USD actual": 11550.890212017575,
+            "ETH/USD actual": 404.1597025809091
         }
     ],
     [
         1597968000000,
         {
-            "BTC/USD actual": 11705.786783647649,
-            "ETH/USD actual": 408.0885601794118
+            "BTC/USD actual": 11522.434133759692,
+            "ETH/USD actual": 403.0405964463636
         }
     ],
     [
         1598054400000,
         {
-            "BTC/USD actual": 11701.332183858824,
-            "ETH/USD actual": 408.3322889523529
+            "BTC/USD actual": 11480.917077901207,
+            "ETH/USD actual": 401.60649495636363
         }
     ],
     [
         1598140800000,
         {
-            "BTC/USD actual": 11694.479864770588,
-            "ETH/USD actual": 408.06586326235293
+            "BTC/USD actual": 11431.169739316663,
+            "ETH/USD actual": 399.86132209818186
         }
     ],
     [
         1598227200000,
         {
-            "BTC/USD actual": 11698.338429435295,
-            "ETH/USD actual": 410.60830425941174
+            "BTC/USD actual": 11389.536309216965,
+            "ETH/USD actual": 399.0030680042425
         }
     ],
     [
         1598313600000,
         {
-            "BTC/USD actual": 11667.703459394119,
-            "ETH/USD actual": 410.96941956882347
+            "BTC/USD actual": 11346.376065342423,
+            "ETH/USD actual": 398.1189968939395
         }
     ],
     [
         1598400000000,
         {
-            "BTC/USD actual": 11542.680893768824,
-            "ETH/USD actual": 408.08707750294116
+            "BTC/USD actual": 11307.278435036364,
+            "ETH/USD actual": 397.6253579718183
         }
     ],
     [
         1598486400000,
         {
-            "BTC/USD actual": 11456.298959581765,
-            "ETH/USD actual": 406.03077683352933
+            "BTC/USD actual": 11263.343519587877,
+            "ETH/USD actual": 397.38544703969717
         }
     ],
     [
         1598572800000,
         {
-            "BTC/USD actual": 11362.816114342353,
-            "ETH/USD actual": 401.76866280529407
+            "BTC/USD actual": 11231.415014629698,
+            "ETH/USD actual": 397.0074647436365
         }
     ],
     [
         1598659200000,
         {
-            "BTC/USD actual": 11268.255657957057,
-            "ETH/USD actual": 398.04170467529406
+            "BTC/USD actual": 11204.411725261214,
+            "ETH/USD actual": 396.6990243775758
         }
     ],
     [
         1598745600000,
         {
-            "BTC/USD actual": 11200.769770678235,
-            "ETH/USD actual": 396.0305963829411
+            "BTC/USD actual": 11173.880531895153,
+            "ETH/USD actual": 394.8576252163637
         }
     ],
     [
         1598832000000,
         {
-            "BTC/USD actual": 11109.815206827645,
-            "ETH/USD actual": 392.6111419147059
+            "BTC/USD actual": 11149.200209769697,
+            "ETH/USD actual": 392.63455338696974
         }
     ],
     [
         1598918400000,
         {
-            "BTC/USD actual": 11025.973470179408,
-            "ETH/USD actual": 390.27436760941174
+            "BTC/USD actual": 11121.448807977877,
+            "ETH/USD actual": 391.33124181969697
         }
     ],
     [
         1599004800000,
         {
-            "BTC/USD actual": 10942.963017621174,
-            "ETH/USD actual": 387.9359524717647
+            "BTC/USD actual": 11091.769109060304,
+            "ETH/USD actual": 389.84151305060607
         }
     ],
     [
         1599091200000,
         {
-            "BTC/USD actual": 10888.06291175647,
-            "ETH/USD actual": 387.3861792576471
+            "BTC/USD actual": 11054.866571525454,
+            "ETH/USD actual": 388.4447963684848
         }
     ],
     [
         1599177600000,
         {
-            "BTC/USD actual": 10828.214262455882,
-            "ETH/USD actual": 387.50023495823535
+            "BTC/USD actual": 11023.601575178787,
+            "ETH/USD actual": 386.8926160781818
         }
     ],
     [
         1599264000000,
         {
-            "BTC/USD actual": 10769.512248850002,
-            "ETH/USD actual": 386.51176763764715
+            "BTC/USD actual": 10982.935049139694,
+            "ETH/USD actual": 384.8417376657575
         }
     ],
     [
         1599350400000,
         {
-            "BTC/USD actual": 10719.182130922352,
-            "ETH/USD actual": 385.4333730064706
+            "BTC/USD actual": 10942.521243236057,
+            "ETH/USD actual": 382.66334341878786
         }
     ],
     [
         1599436800000,
         {
-            "BTC/USD actual": 10678.487646959413,
-            "ETH/USD actual": 383.39863957117655
+            "BTC/USD actual": 10903.451896541514,
+            "ETH/USD actual": 380.62367222666666
         }
     ],
     [
         1599523200000,
         {
-            "BTC/USD actual": 10633.847241738826,
-            "ETH/USD actual": 379.64213380117644
+            "BTC/USD actual": 10875.159210021213,
+            "ETH/USD actual": 379.21758302696963
         }
     ],
     [
         1599609600000,
         {
-            "BTC/USD actual": 10592.00342904059,
-            "ETH/USD actual": 377.0232741958824
+            "BTC/USD actual": 10846.085009291515,
+            "ETH/USD actual": 378.04331073454546
         }
     ],
     [
         1599696000000,
         {
-            "BTC/USD actual": 10533.898022555883,
-            "ETH/USD actual": 371.66128882117647
+            "BTC/USD actual": 10815.050722388787,
+            "ETH/USD actual": 376.41806430393933
         }
     ],
     [
         1599782400000,
         {
-            "BTC/USD actual": 10515.41545318412,
-            "ETH/USD actual": 368.4520538564706
+            "BTC/USD actual": 10798.529667237877,
+            "ETH/USD actual": 375.64726198030297
         }
     ],
     [
         1599868800000,
         {
-            "BTC/USD actual": 10559.284931651177,
-            "ETH/USD actual": 367.7866317711764
+            "BTC/USD actual": 10775.413539902424,
+            "ETH/USD actual": 374.6848423263636
         }
     ],
     [
         1599955200000,
         {
-            "BTC/USD actual": 10555.411025915293,
-            "ETH/USD actual": 365.0110096523529
+            "BTC/USD actual": 10760.605717742425,
+            "ETH/USD actual": 373.9805004239394
         }
     ],
     [
         1600041600000,
         {
-            "BTC/USD actual": 10576.669200614117,
-            "ETH/USD actual": 365.53099816411765
+            "BTC/USD actual": 10737.71696382788,
+            "ETH/USD actual": 372.8986107081818
         }
     ],
     [
         1600128000000,
         {
-            "BTC/USD actual": 10575.406529361175,
-            "ETH/USD actual": 363.63827191823526
+            "BTC/USD actual": 10711.729527976364,
+            "ETH/USD actual": 371.51266093
         }
     ],
     [
         1600214400000,
         {
-            "BTC/USD actual": 10596.67846624706,
-            "ETH/USD actual": 363.3723805388235
+            "BTC/USD actual": 10677.105637730607,
+            "ETH/USD actual": 368.9876152175757
         }
     ],
     [
         1600300800000,
         {
-            "BTC/USD actual": 10629.855131105296,
-            "ETH/USD actual": 364.2333201182353
+            "BTC/USD actual": 10643.624421493636,
+            "ETH/USD actual": 366.326032970606
         }
     ],
     [
         1600387200000,
         {
-            "BTC/USD actual": 10659.635500528822,
-            "ETH/USD actual": 364.41575794235297
+            "BTC/USD actual": 10605.692829599393,
+            "ETH/USD actual": 362.5928352360605
         }
     ],
     [
         1600473600000,
         {
-            "BTC/USD actual": 10685.368384847647,
-            "ETH/USD actual": 363.81157790705885
+            "BTC/USD actual": 10587.471542052426,
+            "ETH/USD actual": 359.98270958393937
         }
     ],
     [
         1600560000000,
         {
-            "BTC/USD actual": 10703.375546362942,
-            "ETH/USD actual": 362.64744038647063
+            "BTC/USD actual": 10600.465533828792,
+            "ETH/USD actual": 358.7208378572727
         }
     ],
     [
         1600646400000,
         {
-            "BTC/USD actual": 10726.613403375884,
-            "ETH/USD actual": 361.00633372352945
+            "BTC/USD actual": 10606.14168265061,
+            "ETH/USD actual": 357.33982824424237
         }
     ],
     [
         1600732800000,
         {
-            "BTC/USD actual": 10752.886435165883,
-            "ETH/USD actual": 360.62025192647064
+            "BTC/USD actual": 10629.217761896365,
+            "ETH/USD actual": 357.81797559424245
         }
     ],
     [
         1600819200000,
         {
-            "BTC/USD actual": 10749.403694800587,
-            "ETH/USD actual": 359.19738407529417
+            "BTC/USD actual": 10653.442908611214,
+            "ETH/USD actual": 358.2011025506061
         }
     ],
     [
         1600905600000,
         {
-            "BTC/USD actual": 10737.004448127649,
-            "ETH/USD actual": 358.1140342488236
+            "BTC/USD actual": 10681.349352207577,
+            "ETH/USD actual": 358.71959649727273
         }
     ],
     [
         1600992000000,
         {
-            "BTC/USD actual": 10713.068040470002,
-            "ETH/USD actual": 356.9963824541177
+            "BTC/USD actual": 10719.111836104245,
+            "ETH/USD actual": 359.8384388212121
         }
     ],
     [
         1601078400000,
         {
-            "BTC/USD actual": 10697.165059641766,
-            "ETH/USD actual": 354.8219855970588
+            "BTC/USD actual": 10758.939843740001,
+            "ETH/USD actual": 360.92499332242426
         }
     ],
     [
         1601164800000,
         {
-            "BTC/USD actual": 10688.772888143532,
-            "ETH/USD actual": 353.00821283941184
+            "BTC/USD actual": 10791.783499052428,
+            "ETH/USD actual": 361.3280273572728
         }
     ],
     [
         1601251200000,
         {
-            "BTC/USD actual": 10660.608291181179,
-            "ETH/USD actual": 350.38762862823535
+            "BTC/USD actual": 10823.135978690607,
+            "ETH/USD actual": 361.48268167
         }
     ],
     [
         1601337600000,
         {
-            "BTC/USD actual": 10645.935638791767,
-            "ETH/USD actual": 348.66360045
+            "BTC/USD actual": 10855.229325704244,
+            "ETH/USD actual": 361.17890384818185
         }
     ],
     [
         1601424000000,
         {
-            "BTC/USD actual": 10676.188439105295,
-            "ETH/USD actual": 349.3107717252941
+            "BTC/USD actual": 10885.33899226303,
+            "ETH/USD actual": 361.1528438078788
         }
     ],
     [
         1601510400000,
         {
-            "BTC/USD actual": 10707.103596626472,
-            "ETH/USD actual": 350.5561782841176
+            "BTC/USD actual": 10906.178171887272,
+            "ETH/USD actual": 360.88905669303034
         }
     ],
     [
         1601596800000,
         {
-            "BTC/USD actual": 10769.629537559413,
-            "ETH/USD actual": 353.5109199670588
+            "BTC/USD actual": 10928.209986506665,
+            "ETH/USD actual": 361.32443588727284
         }
     ],
     [
         1601683200000,
         {
-            "BTC/USD actual": 10806.899716282942,
-            "ETH/USD actual": 354.99280316235286
+            "BTC/USD actual": 10952.413583203937,
+            "ETH/USD actual": 361.75424310787884
         }
     ],
     [
         1601769600000,
         {
-            "BTC/USD actual": 10856.809325285294,
-            "ETH/USD actual": 357.0446926329411
+            "BTC/USD actual": 10982.044899546361,
+            "ETH/USD actual": 361.12512787454546
         }
     ],
     [
         1601856000000,
         {
-            "BTC/USD actual": 10897.797231144708,
-            "ETH/USD actual": 358.64352781058824
+            "BTC/USD actual": 11038.700497054846,
+            "ETH/USD actual": 361.3321615366667
         }
     ],
     [
         1601942400000,
         {
-            "BTC/USD actual": 10935.828104576469,
-            "ETH/USD actual": 359.8902292435294
+            "BTC/USD actual": 11096.34554696424,
+            "ETH/USD actual": 362.21468245000005
         }
     ],
     [
         1602028800000,
         {
-            "BTC/USD actual": 10983.150787835883,
-            "ETH/USD actual": 361.28282497117647
+            "BTC/USD actual": 11157.393981029694,
+            "ETH/USD actual": 363.37960218333336
         }
     ],
     [
         1602115200000,
         {
-            "BTC/USD actual": 11011.641546448824,
-            "ETH/USD actual": 361.6110224417647
+            "BTC/USD actual": 11239.427014678786,
+            "ETH/USD actual": 365.56975152696975
         }
     ],
     [
         1602201600000,
         {
-            "BTC/USD actual": 11046.195064214118,
-            "ETH/USD actual": 362.12070932999995
+            "BTC/USD actual": 11315.40698135333,
+            "ETH/USD actual": 367.4507622600001
         }
     ],
     [
         1602288000000,
         {
-            "BTC/USD actual": 11098.714419400587,
-            "ETH/USD actual": 363.6214968411765
+            "BTC/USD actual": 11401.190998788483,
+            "ETH/USD actual": 369.64523587606067
         }
     ],
     [
         1602374400000,
         {
-            "BTC/USD actual": 11168.268547657646,
-            "ETH/USD actual": 365.6008820588236
+            "BTC/USD actual": 11489.81933888242,
+            "ETH/USD actual": 371.3021050684849
         }
     ],
     [
         1602460800000,
         {
-            "BTC/USD actual": 11248.937298201765,
-            "ETH/USD actual": 366.9273995976471
+            "BTC/USD actual": 11568.193802453634,
+            "ETH/USD actual": 372.4053082678788
         }
     ],
     [
         1602547200000,
         {
-            "BTC/USD actual": 11374.442318204705,
-            "ETH/USD actual": 369.21409869882353
+            "BTC/USD actual": 11650.879258293937,
+            "ETH/USD actual": 373.41568662545455
         }
     ],
     [
         1602633600000,
         {
-            "BTC/USD actual": 11503.229698012941,
-            "ETH/USD actual": 372.78470706705883
+            "BTC/USD actual": 11735.268315226667,
+            "ETH/USD actual": 374.17058106969705
         }
     ],
     [
         1602720000000,
         {
-            "BTC/USD actual": 11640.381329158823,
-            "ETH/USD actual": 376.8301154629412
+            "BTC/USD actual": 11829.129163751515,
+            "ETH/USD actual": 375.1542476421212
         }
     ],
     [
         1602806400000,
         {
-            "BTC/USD actual": 11784.72961161706,
-            "ETH/USD actual": 380.9867430835294
+            "BTC/USD actual": 11917.682952272726,
+            "ETH/USD actual": 376.26833779969695
         }
     ],
     [
         1602892800000,
         {
-            "BTC/USD actual": 11908.683567795295,
-            "ETH/USD actual": 384.2299369858824
+            "BTC/USD actual": 12002.019428080604,
+            "ETH/USD actual": 376.98347103969695
         }
     ],
     [
         1602979200000,
         {
-            "BTC/USD actual": 12026.917527940588,
-            "ETH/USD actual": 385.8533542558823
+            "BTC/USD actual": 12105.354457750907,
+            "ETH/USD actual": 378.0484943118181
         }
     ],
     [
         1603065600000,
         {
-            "BTC/USD actual": 12166.061381557056,
-            "ETH/USD actual": 387.7972501182353
+            "BTC/USD actual": 12213.907110784543,
+            "ETH/USD actual": 379.780475120909
         }
     ],
     [
         1603152000000,
         {
-            "BTC/USD actual": 12278.073065783528,
-            "ETH/USD actual": 388.62783139705886
+            "BTC/USD actual": 12366.800102338484,
+            "ETH/USD actual": 381.920920150909
         }
     ],
     [
         1603238400000,
         {
-            "BTC/USD actual": 12391.047305251175,
-            "ETH/USD actual": 388.66239788352937
+            "BTC/USD actual": 12515.78372338121,
+            "ETH/USD actual": 385.064646171212
         }
     ],
     [
         1603324800000,
         {
-            "BTC/USD actual": 12516.838910362352,
-            "ETH/USD actual": 388.7412409958823
+            "BTC/USD actual": 12638.23084593909,
+            "ETH/USD actual": 387.54977816151506
         }
     ],
     [
         1603411200000,
         {
-            "BTC/USD actual": 12656.185846775294,
-            "ETH/USD actual": 389.18636256764705
+            "BTC/USD actual": 12786.15178578606,
+            "ETH/USD actual": 391.0015897678787
         }
     ],
     [
         1603497600000,
         {
-            "BTC/USD actual": 12789.023384361764,
-            "ETH/USD actual": 390.29758786470586
+            "BTC/USD actual": 12927.451888144544,
+            "ETH/USD actual": 394.1157788857575
         }
     ],
     [
         1603584000000,
         {
-            "BTC/USD actual": 12920.560222341175,
-            "ETH/USD actual": 391.3502930235294
+            "BTC/USD actual": 13060.181817680908,
+            "ETH/USD actual": 397.1367166945454
         }
     ],
     [
         1603670400000,
         {
-            "BTC/USD actual": 13077.21648500647,
-            "ETH/USD actual": 392.5068806294117
+            "BTC/USD actual": 13201.014093377271,
+            "ETH/USD actual": 400.11991369
         }
     ],
     [
         1603756800000,
         {
-            "BTC/USD actual": 13232.769454078822,
-            "ETH/USD actual": 393.94046334941174
+            "BTC/USD actual": 13352.65072350121,
+            "ETH/USD actual": 402.90520242393933
         }
     ],
     [
         1603843200000,
         {
-            "BTC/USD actual": 13458.641871731175,
-            "ETH/USD actual": 396.14346142
+            "BTC/USD actual": 13502.838352287574,
+            "ETH/USD actual": 406.00725036606053
         }
     ],
     [
         1603929600000,
         {
-            "BTC/USD actual": 13674.422776497646,
-            "ETH/USD actual": 401.2928152317647
+            "BTC/USD actual": 13640.190921383939,
+            "ETH/USD actual": 408.2479874821212
         }
     ],
     [
         1604016000000,
         {
-            "BTC/USD actual": 13793.74356538941,
-            "ETH/USD actual": 403.90123334647063
+            "BTC/USD actual": 13777.599036285152,
+            "ETH/USD actual": 410.2805202212121
         }
     ],
     [
         1604102400000,
         {
-            "BTC/USD actual": 13940.820401835294,
-            "ETH/USD actual": 406.2680957747059
+            "BTC/USD actual": 13937.95174255697,
+            "ETH/USD actual": 412.7513609306061
         }
     ],
     [
         1604188800000,
         {
-            "BTC/USD actual": 14081.930399661764,
-            "ETH/USD actual": 408.3279434605883
+            "BTC/USD actual": 14124.978821443332,
+            "ETH/USD actual": 415.92715278818184
         }
     ],
     [
         1604275200000,
         {
-            "BTC/USD actual": 14210.594821403529,
-            "ETH/USD actual": 410.5878217564707
+            "BTC/USD actual": 14320.644628480606,
+            "ETH/USD actual": 419.3583678642424
         }
     ],
     [
         1604361600000,
         {
-            "BTC/USD actual": 14367.399755261176,
-            "ETH/USD actual": 413.97276635411765
+            "BTC/USD actual": 14516.235362088486,
+            "ETH/USD actual": 422.48934224303025
         }
     ],
     [
         1604448000000,
         {
-            "BTC/USD actual": 14557.757238472353,
-            "ETH/USD actual": 418.074384442353
+            "BTC/USD actual": 14733.16705941697,
+            "ETH/USD actual": 426.48317897393935
         }
     ],
     [
         1604534400000,
         {
-            "BTC/USD actual": 14714.524859951765,
-            "ETH/USD actual": 422.361614622353
+            "BTC/USD actual": 14943.60190146212,
+            "ETH/USD actual": 431.7229978645454
         }
     ],
     [
         1604620800000,
         {
-            "BTC/USD actual": 14878.92137967941,
-            "ETH/USD actual": 426.6216581664707
+            "BTC/USD actual": 15140.683037017878,
+            "ETH/USD actual": 437.5173661866666
         }
     ],
     [
         1604707200000,
         {
-            "BTC/USD actual": 15026.135623715882,
-            "ETH/USD actual": 430.2046753788236
+            "BTC/USD actual": 15309.577668805758,
+            "ETH/USD actual": 444.10780276121204
         }
     ],
     [
         1604793600000,
         {
-            "BTC/USD actual": 15211.625345864704,
-            "ETH/USD actual": 434.7823313264707
+            "BTC/USD actual": 15496.65569319515,
+            "ETH/USD actual": 449.8822889857575
         }
     ],
     [
         1604880000000,
         {
-            "BTC/USD actual": 15439.800123355293,
-            "ETH/USD actual": 440.4302290782354
+            "BTC/USD actual": 15672.002127721515,
+            "ETH/USD actual": 454.7169166696969
         }
     ],
     [
         1604966400000,
         {
-            "BTC/USD actual": 15676.214212028823,
-            "ETH/USD actual": 445.2563749200001
+            "BTC/USD actual": 15794.893285033637,
+            "ETH/USD actual": 457.99035982787876
         }
     ],
     [
         1605052800000,
         {
-            "BTC/USD actual": 15926.731877288234,
-            "ETH/USD actual": 450.4556357835295
+            "BTC/USD actual": 15919.589849023332,
+            "ETH/USD actual": 461.4055912457576
         }
     ],
     [
         1605139200000,
         {
-            "BTC/USD actual": 16199.762410869997,
-            "ETH/USD actual": 457.6417670676471
+            "BTC/USD actual": 16061.020787991512,
+            "ETH/USD actual": 465.8013662724242
         }
     ],
     [
         1605225600000,
         {
-            "BTC/USD actual": 16467.08784720823,
-            "ETH/USD actual": 466.4304850317647
+            "BTC/USD actual": 16198.260843955753,
+            "ETH/USD actual": 471.02224339242423
         }
     ],
     [
         1605312000000,
         {
-            "BTC/USD actual": 16633.533583167646,
-            "ETH/USD actual": 474.8499124905883
+            "BTC/USD actual": 16392.99411296788,
+            "ETH/USD actual": 477.93335398606064
         }
     ],
     [
         1605398400000,
         {
-            "BTC/USD actual": 16797.689388734707,
-            "ETH/USD actual": 483.8272850205882
+            "BTC/USD actual": 16554.52811124636,
+            "ETH/USD actual": 483.95867014969696
         }
     ],
     [
         1605484800000,
         {
-            "BTC/USD actual": 17051.936754451173,
-            "ETH/USD actual": 493.78311043176484
+            "BTC/USD actual": 16726.069001481814,
+            "ETH/USD actual": 490.46912807666666
         }
     ],
     [
         1605571200000,
         {
-            "BTC/USD actual": 17242.32611056294,
-            "ETH/USD actual": 500.51280886058834
+            "BTC/USD actual": 16897.23795502,
+            "ETH/USD actual": 497.4378742912121
         }
     ],
     [
         1605657600000,
         {
-            "BTC/USD actual": 17350.939382048822,
-            "ETH/USD actual": 504.9785766770589
+            "BTC/USD actual": 17045.511362270005,
+            "ETH/USD actual": 502.6166012915152
         }
     ],
     [
         1605744000000,
         {
-            "BTC/USD actual": 17459.299158048234,
-            "ETH/USD actual": 508.9871640558825
+            "BTC/USD actual": 17215.012940156364,
+            "ETH/USD actual": 509.09192480484853
         }
     ],
     [
         1605830400000,
         {
-            "BTC/USD actual": 17578.69522925059,
-            "ETH/USD actual": 513.3526445629412
+            "BTC/USD actual": 17377.373230654546,
+            "ETH/USD actual": 515.5794018715152
         }
     ],
     [
         1605916800000,
         {
-            "BTC/USD actual": 17689.89279185117,
-            "ETH/USD actual": 520.024447292353
+            "BTC/USD actual": 17529.578673705757,
+            "ETH/USD actual": 521.2931088912122
         }
     ],
     [
         1606003200000,
         {
-            "BTC/USD actual": 17888.375424751175,
-            "ETH/USD actual": 528.2490913652941
+            "BTC/USD actual": 17612.080854883032,
+            "ETH/USD actual": 525.4719931936364
         }
     ],
     [
         1606089600000,
         {
-            "BTC/USD actual": 18048.290085572353,
-            "ETH/USD actual": 535.6301936499999
+            "BTC/USD actual": 17701.705275336062,
+            "ETH/USD actual": 529.0192959430303
         }
     ],
     [
         1606176000000,
         {
-            "BTC/USD actual": 18240.339431038235,
-            "ETH/USD actual": 544.4014797741175
+            "BTC/USD actual": 17805.051343023337,
+            "ETH/USD actual": 532.7531317942424
         }
     ],
     [
         1606262400000,
         {
-            "BTC/USD actual": 18400.68261214471,
-            "ETH/USD actual": 553.5778296794117
+            "BTC/USD actual": 17882.444191766364,
+            "ETH/USD actual": 535.468058890909
         }
     ],
     [
         1606348800000,
         {
-            "BTC/USD actual": 18458.29243420177,
-            "ETH/USD actual": 558.5771055476471
+            "BTC/USD actual": 17987.914177004543,
+            "ETH/USD actual": 539.2193536930301
         }
     ],
     [
         1606435200000,
         {
-            "BTC/USD actual": 18539.039886182356,
-            "ETH/USD actual": 565.5389623788235
+            "BTC/USD actual": 18104.739637966966,
+            "ETH/USD actual": 543.4555120730301
         }
     ],
     [
         1606521600000,
         {
-            "BTC/USD actual": 18631.189994575885,
-            "ETH/USD actual": 573.2111140258824
+            "BTC/USD actual": 18212.86502800394,
+            "ETH/USD actual": 547.1656769448483
         }
     ],
     [
         1606608000000,
         {
-            "BTC/USD actual": 18661.097881815884,
-            "ETH/USD actual": 577.9832684829412
+            "BTC/USD actual": 18308.04029481091,
+            "ETH/USD actual": 550.998131210606
         }
     ],
     [
         1606694400000,
         {
-            "BTC/USD actual": 18638.63042837176,
-            "ETH/USD actual": 578.1268052941176
+            "BTC/USD actual": 18460.127263360304,
+            "ETH/USD actual": 555.8602429269696
         }
     ],
     [
         1606780800000,
         {
-            "BTC/USD actual": 18645.818886174115,
-            "ETH/USD actual": 578.9142082882353
+            "BTC/USD actual": 18664.382842638486,
+            "ETH/USD actual": 561.3704156366666
         }
     ],
     [
         1606867200000,
         {
-            "BTC/USD actual": 18637.898344752943,
-            "ETH/USD actual": 575.9774602929413
+            "BTC/USD actual": 18881.591485200606,
+            "ETH/USD actual": 567.6131481115151
         }
     ],
     [
         1606953600000,
         {
-            "BTC/USD actual": 18572.056899061765,
-            "ETH/USD actual": 572.4051785317647
+            "BTC/USD actual": 19097.36200606606,
+            "ETH/USD actual": 573.6155092866666
         }
     ],
     [
         1607040000000,
         {
-            "BTC/USD actual": 18577.524377681766,
-            "ETH/USD actual": 572.3620859176472
+            "BTC/USD actual": 19272.64916928849,
+            "ETH/USD actual": 578.3249039521212
         }
     ],
     [
         1607126400000,
         {
-            "BTC/USD actual": 18694.414212391763,
-            "ETH/USD actual": 576.49076435
+            "BTC/USD actual": 19422.2774666203,
+            "ETH/USD actual": 582.2389815093939
         }
     ],
     [
         1607212800000,
         {
-            "BTC/USD actual": 18819.05157328235,
-            "ETH/USD actual": 580.4482268288236
+            "BTC/USD actual": 19604.047508191816,
+            "ETH/USD actual": 587.2370489463635
         }
     ],
     [
         1607299200000,
         {
-            "BTC/USD actual": 18919.61863406294,
-            "ETH/USD actual": 583.4563399105883
+            "BTC/USD actual": 19742.403877073026,
+            "ETH/USD actual": 589.5248572757575
         }
     ],
     [
         1607385600000,
         {
-            "BTC/USD actual": 19105.20673291353,
-            "ETH/USD actual": 587.0471431305882
+            "BTC/USD actual": 19894.531987403636,
+            "ETH/USD actual": 591.3433980184849
         }
     ],
     [
         1607472000000,
         {
-            "BTC/USD actual": 19288.087737275295,
-            "ETH/USD actual": 588.587719017647
+            "BTC/USD actual": 20084.84527799818,
+            "ETH/USD actual": 593.3718352966666
         }
     ],
     [
         1607558400000,
         {
-            "BTC/USD actual": 19543.376290803528,
-            "ETH/USD actual": 592.592779657647
+            "BTC/USD actual": 20329.336727363632,
+            "ETH/USD actual": 594.195912199697
         }
     ],
     [
         1607644800000,
         {
-            "BTC/USD actual": 19814.723531234118,
-            "ETH/USD actual": 596.1841301458824
+            "BTC/USD actual": 20544.24515507091,
+            "ETH/USD actual": 596.5852042084849
         }
     ],
     [
         1607731200000,
         {
-            "BTC/USD actual": 20050.892480464707,
-            "ETH/USD actual": 597.4462278317648
+            "BTC/USD actual": 20796.342694489394,
+            "ETH/USD actual": 601.4570296769698
         }
     ],
     [
         1607817600000,
         {
-            "BTC/USD actual": 20289.936649885294,
-            "ETH/USD actual": 599.8174659311765
+            "BTC/USD actual": 21103.722333835154,
+            "ETH/USD actual": 607.8320234960607
         }
     ],
     [
         1607904000000,
         {
-            "BTC/USD actual": 20564.269568180585,
-            "ETH/USD actual": 602.1491120582353
+            "BTC/USD actual": 21459.268540622725,
+            "ETH/USD actual": 614.9088476309091
         }
     ],
     [
         1607990400000,
         {
-            "BTC/USD actual": 20790.704253917647,
-            "ETH/USD actual": 601.1829452052942
+            "BTC/USD actual": 21799.69392391606,
+            "ETH/USD actual": 620.9422262403031
         }
     ],
     [
         1608076800000,
         {
-            "BTC/USD actual": 21057.879573798236,
-            "ETH/USD actual": 602.4104580435296
+            "BTC/USD actual": 22139.418263799696,
+            "ETH/USD actual": 625.6294220372727
         }
     ],
     [
         1608163200000,
         {
-            "BTC/USD actual": 21433.60569862647,
-            "ETH/USD actual": 606.6554883376472
+            "BTC/USD actual": 22518.313722037878,
+            "ETH/USD actual": 630.4211889442423
         }
     ],
     [
         1608249600000,
         {
-            "BTC/USD actual": 21898.38573678824,
-            "ETH/USD actual": 610.3465989305884
+            "BTC/USD actual": 22951.199813155752,
+            "ETH/USD actual": 642.3455472584847
         }
     ],
     [
         1608336000000,
         {
-            "BTC/USD actual": 22369.195330778824,
-            "ETH/USD actual": 617.6924274711765
+            "BTC/USD actual": 23338.308637919687,
+            "ETH/USD actual": 655.8027320093937
         }
     ],
     [
         1608422400000,
         {
-            "BTC/USD actual": 22898.71732173118,
-            "ETH/USD actual": 628.6090462688236
+            "BTC/USD actual": 23779.965485557266,
+            "ETH/USD actual": 670.5460052199999
         }
     ],
     [
         1608508800000,
         {
-            "BTC/USD actual": 23399.2728629553,
-            "ETH/USD actual": 638.1678768829413
+            "BTC/USD actual": 24330.425101519988,
+            "ETH/USD actual": 690.0325979357573
         }
     ],
     [
         1608595200000,
         {
-            "BTC/USD actual": 23971.031733791766,
-            "ETH/USD actual": 647.6906977858823
+            "BTC/USD actual": 24946.153671673324,
+            "ETH/USD actual": 709.0783597372726
         }
     ],
     [
         1608681600000,
         {
-            "BTC/USD actual": 24541.36308602118,
-            "ETH/USD actual": 656.5659461364705
+            "BTC/USD actual": 25589.712913986354,
+            "ETH/USD actual": 727.7070568278785
         }
     ],
     [
         1608768000000,
         {
-            "BTC/USD actual": 25127.273555182357,
-            "ETH/USD actual": 664.8969530147058
+            "BTC/USD actual": 26228.79751919575,
+            "ETH/USD actual": 748.6084933845453
         }
     ],
     [
         1608854400000,
         {
-            "BTC/USD actual": 25766.03149159588,
-            "ETH/USD actual": 672.9850453988234
+            "BTC/USD actual": 26830.515862202723,
+            "ETH/USD actual": 769.8360611039394
         }
     ],
     [
         1608940800000,
         {
-            "BTC/USD actual": 26369.75832245882,
-            "ETH/USD actual": 692.8172138570587
+            "BTC/USD actual": 27342.42296615484,
+            "ETH/USD actual": 785.4400006733334
         }
     ],
     [
         1609027200000,
         {
-            "BTC/USD actual": 26891.613903963524,
-            "ETH/USD actual": 715.5930249876469
+            "BTC/USD actual": 27821.492992418178,
+            "ETH/USD actual": 800.3274755433333
         }
     ],
     [
         1609113600000,
         {
-            "BTC/USD actual": 27490.442307627643,
-            "ETH/USD actual": 741.737027667647
+            "BTC/USD actual": 28407.748072095445,
+            "ETH/USD actual": 818.0751087115152
         }
     ],
     [
         1609200000000,
         {
-            "BTC/USD actual": 28276.328067357055,
-            "ETH/USD actual": 775.4214526923529
+            "BTC/USD actual": 29023.414718514538,
+            "ETH/USD actual": 838.1492374027274
         }
     ],
     [
         1609286400000,
         {
-            "BTC/USD actual": 29261.85840187353,
-            "ETH/USD actual": 811.7565789388236
+            "BTC/USD actual": 29556.21307138181,
+            "ETH/USD actual": 855.6486612033335
         }
     ],
     [
         1609372800000,
         {
-            "BTC/USD actual": 30250.422841118238,
-            "ETH/USD actual": 845.8881881488235
+            "BTC/USD actual": 30063.579849769994,
+            "ETH/USD actual": 875.089609317273
         }
     ],
     [
         1609459200000,
         {
-            "BTC/USD actual": 31252.332598877645,
-            "ETH/USD actual": 886.7926797529411
+            "BTC/USD actual": 30560.290656711506,
+            "ETH/USD actual": 894.6139388672729
         }
     ],
     [
         1609545600000,
         {
-            "BTC/USD actual": 32102.599126511184,
-            "ETH/USD actual": 924.6125630482353
+            "BTC/USD actual": 31022.996959337266,
+            "ETH/USD actual": 913.4193741545457
         }
     ],
     [
         1609632000000,
         {
-            "BTC/USD actual": 32734.057927890004,
-            "ETH/USD actual": 951.7524116664707
+            "BTC/USD actual": 31419.854731170904,
+            "ETH/USD actual": 935.3909304218183
         }
     ],
     [
         1609718400000,
         {
-            "BTC/USD actual": 33181.49580044706,
-            "ETH/USD actual": 976.1152009011763
+            "BTC/USD actual": 31794.831768881508,
+            "ETH/USD actual": 957.2941653715153
         }
     ],
     [
         1609804800000,
         {
-            "BTC/USD actual": 33836.503737991756,
-            "ETH/USD actual": 1002.3561696258824
+            "BTC/USD actual": 32007.287339422724,
+            "ETH/USD actual": 971.0047135375759
         }
     ],
     [
         1609891200000,
         {
-            "BTC/USD actual": 34547.72301255412,
-            "ETH/USD actual": 1031.8234303264708
+            "BTC/USD actual": 32296.30744396878,
+            "ETH/USD actual": 989.0663999933332
         }
     ],
     [
         1609977600000,
         {
-            "BTC/USD actual": 35102.19034998235,
-            "ETH/USD actual": 1057.5465904876473
+            "BTC/USD actual": 32580.696851385455,
+            "ETH/USD actual": 1008.0442431406061
         }
     ],
     [
         1610064000000,
         {
-            "BTC/USD actual": 35521.538232215295,
-            "ETH/USD actual": 1085.504999514118
+            "BTC/USD actual": 32837.50686016636,
+            "ETH/USD actual": 1030.982876729091
         }
     ],
     [
         1610150400000,
         {
-            "BTC/USD actual": 35925.482880077645,
-            "ETH/USD actual": 1114.7014291276473
+            "BTC/USD actual": 33111.253956356966,
+            "ETH/USD actual": 1053.171810551212
         }
     ],
     [
         1610236800000,
         {
-            "BTC/USD actual": 36349.80067131,
-            "ETH/USD actual": 1145.698226652353
+            "BTC/USD actual": 33377.586501105754,
+            "ETH/USD actual": 1076.0608686627274
         }
     ],
     [
         1610323200000,
         {
-            "BTC/USD actual": 36567.54969618059,
-            "ETH/USD actual": 1180.587805415294
+            "BTC/USD actual": 33550.58847575333,
+            "ETH/USD actual": 1094.6556518839395
         }
     ],
     [
         1610409600000,
         {
-            "BTC/USD actual": 36710.42655780059,
-            "ETH/USD actual": 1203.9636265829413
+            "BTC/USD actual": 33761.870354186365,
+            "ETH/USD actual": 1115.7172422248484
         }
     ],
     [
         1610496000000,
         {
-            "BTC/USD actual": 36642.74101062236,
-            "ETH/USD actual": 1208.0468001711763
+            "BTC/USD actual": 34004.4934733894,
+            "ETH/USD actual": 1136.7909661175759
         }
     ],
     [
         1610582400000,
         {
-            "BTC/USD actual": 36582.61654775529,
-            "ETH/USD actual": 1215.7504574947059
+            "BTC/USD actual": 34224.91945463272,
+            "ETH/USD actual": 1156.477371883939
         }
     ],
     [
         1610668800000,
         {
-            "BTC/USD actual": 36305.15260889588,
-            "ETH/USD actual": 1217.1341229023526
+            "BTC/USD actual": 34400.95608259969,
+            "ETH/USD actual": 1174.147425961818
         }
     ],
     [
         1610755200000,
         {
-            "BTC/USD actual": 36106.944176343124,
-            "ETH/USD actual": 1216.5998161518746
+            "BTC/USD actual": 34573.18145803843,
+            "ETH/USD actual": 1187.31990549375
         }
     ],
     [
         1610841600000,
         {
-            "BTC/USD actual": 35805.627135242,
-            "ETH/USD actual": 1216.5699217493332
+            "BTC/USD actual": 34753.890944826446,
+            "ETH/USD actual": 1201.8383228132257
         }
     ],
     [
         1610928000000,
         {
-            "BTC/USD actual": 35486.66476376143,
-            "ETH/USD actual": 1211.9497198049996
+            "BTC/USD actual": 34932.11171872266,
+            "ETH/USD actual": 1217.5358497803331
         }
     ],
     [
         1611014400000,
         {
-            "BTC/USD actual": 35279.652840066155,
-            "ETH/USD actual": 1208.6142307999996
+            "BTC/USD actual": 35025.96911897965,
+            "ETH/USD actual": 1232.8034212289656
         }
     ],
     [
         1611100800000,
         {
-            "BTC/USD actual": 35266.019060230836,
-            "ETH/USD actual": 1218.6367263966665
+            "BTC/USD actual": 35095.50265222071,
+            "ETH/USD actual": 1241.8326639975
         }
     ],
     [
         1611187200000,
         {
-            "BTC/USD actual": 35375.83640662545,
-            "ETH/USD actual": 1233.937285621818
+            "BTC/USD actual": 35209.95684389926,
+            "ETH/USD actual": 1249.242924907037
         }
     ],
     [
         1611273600000,
         {
-            "BTC/USD actual": 35174.658505358,
-            "ETH/USD actual": 1244.3290684119997
+            "BTC/USD actual": 35255.584637537686,
+            "ETH/USD actual": 1254.8611325373074
         }
     ],
     [
         1611360000000,
         {
-            "BTC/USD actual": 34734.75397220889,
-            "ETH/USD actual": 1245.824129942222
+            "BTC/USD actual": 35192.852491456,
+            "ETH/USD actual": 1256.6262819727997
         }
     ],
     [
         1611446400000,
         {
-            "BTC/USD predicted": 34276.605819429984,
-            "ETH/USD predicted": 1246.7469406302073
+            "BTC/USD actual": 35014.36769819416,
+            "ETH/USD actual": 1257.9155841004165
         }
     ],
     [
         1611532800000,
         {
-            "BTC/USD predicted": 33842.05522095793,
-            "ETH/USD predicted": 1248.301303485697
+            "BTC/USD actual": 34770.35325929565,
+            "ETH/USD actual": 1259.6924254878259
         }
     ],
     [
         1611619200000,
         {
-            "BTC/USD predicted": 33430.415528877835,
-            "ETH/USD predicted": 1249.6881662169028
+            "BTC/USD actual": 34520.31930126499,
+            "ETH/USD actual": 1258.7124107840907
         }
     ],
     [
         1611705600000,
         {
-            "BTC/USD predicted": 33040.18470657145,
-            "ETH/USD predicted": 1251.0170805505813
+            "BTC/USD actual": 34346.1526121919,
+            "ETH/USD actual": 1258.874379065714
         }
     ],
     [
         1611792000000,
         {
-            "BTC/USD predicted": 32670.4130905559,
-            "ETH/USD predicted": 1252.277630819036
+            "BTC/USD actual": 34291.297332897,
+            "ETH/USD actual": 1267.4008838369998
         }
     ],
     [
         1611878400000,
         {
-            "BTC/USD predicted": 32319.936892013204,
-            "ETH/USD predicted": 1253.4750108369897
+            "BTC/USD actual": 34303.574653055264,
+            "ETH/USD actual": 1278.8256369378946
         }
     ],
     [
         1611964800000,
         {
-            "BTC/USD predicted": 31987.799980285745,
-            "ETH/USD predicted": 1254.612164978394
+            "BTC/USD actual": 34132.23905493055,
+            "ETH/USD actual": 1287.0926468944444
         }
     ],
     [
         1612051200000,
         {
-            "BTC/USD predicted": 31673.01447718779,
-            "ETH/USD predicted": 1255.6921516485713
+            "BTC/USD actual": 33838.02962853235,
+            "ETH/USD actual": 1290.3996546741175
         }
     ],
     [
         1612137600000,
         {
-            "BTC/USD predicted": 31374.68963683371,
-            "ETH/USD predicted": 1256.7178409501018
+            "BTC/USD predicted": 33539.33390272288,
+            "ETH/USD predicted": 1293.3909812944787
         }
     ],
     [
         1612224000000,
         {
-            "BTC/USD predicted": 31091.95595243248,
-            "ETH/USD predicted": 1257.6919632420038
+            "BTC/USD predicted": 33247.74363035411,
+            "ETH/USD predicted": 1296.4907289954751
         }
     ],
     [
         1612310400000,
         {
-            "BTC/USD predicted": 30824.003464892452,
-            "ETH/USD predicted": 1258.6171110130501
+            "BTC/USD predicted": 32963.32363098867,
+            "ETH/USD predicted": 1299.5157364640984
         }
     ],
     [
         1612396800000,
         {
-            "BTC/USD predicted": 30570.056708003176,
-            "ETH/USD predicted": 1259.4957464923527
+            "BTC/USD predicted": 32685.77512382728,
+            "ETH/USD predicted": 1302.4645775882707
         }
     ],
     [
         1612483200000,
         {
-            "BTC/USD predicted": 30329.38511919679,
-            "ETH/USD predicted": 1260.3302081087309
+            "BTC/USD predicted": 32414.996280460327,
+            "ETH/USD predicted": 1305.3391110046941
         }
     ],
     [
         1612569600000,
         {
-            "BTC/USD predicted": 30101.293893603626,
-            "ETH/USD predicted": 1261.1227167266343
+            "BTC/USD predicted": 32150.788357142723,
+            "ETH/USD predicted": 1308.1412081048838
         }
     ],
     [
         1612656000000,
         {
-            "BTC/USD predicted": 29885.12589929836,
-            "ETH/USD predicted": 1261.875381555198
+            "BTC/USD predicted": 31893.009519127805,
+            "ETH/USD predicted": 1310.872694215579
         }
     ],
     [
         1612742400000,
         {
-            "BTC/USD predicted": 29680.257601460893,
-            "ETH/USD predicted": 1262.5902057619776
+            "BTC/USD predicted": 31641.494092785088,
+            "ETH/USD predicted": 1313.5353486865438
         }
     ],
     [
         1612828800000,
         {
-            "BTC/USD predicted": 29486.09847873843,
-            "ETH/USD predicted": 1263.2690918042192
+            "BTC/USD predicted": 31396.094729473356,
+            "ETH/USD predicted": 1316.1309060294752
         }
     ],
     [
         1612915200000,
         {
-            "BTC/USD predicted": 29302.08864481626,
-            "ETH/USD predicted": 1263.913846492126
+            "BTC/USD predicted": 31156.66017122652,
+            "ETH/USD predicted": 1318.661057047532
         }
     ],
     [
         1613001600000,
         {
-            "BTC/USD predicted": 29127.697610350013,
-            "ETH/USD predicted": 1264.5261857975638
+            "BTC/USD predicted": 30923.046762421436,
+            "ETH/USD predicted": 1321.1274499367541
         }
     ],
     [
         1613088000000,
         {
-            "BTC/USD predicted": 28962.422544051748,
-            "ETH/USD predicted": 1265.1077394210072
+            "BTC/USD predicted": 30695.11228302413,
+            "ETH/USD predicted": 1323.5316913597335
         }
     ],
     [
         1613174400000,
         {
-            "BTC/USD predicted": 28805.786939489648,
-            "ETH/USD predicted": 1265.660055128878
+            "BTC/USD predicted": 30472.719048030332,
+            "ETH/USD predicted": 1325.8753474922291
         }
     ],
     [
         1613260800000,
         {
-            "BTC/USD predicted": 28657.33917634001,
-            "ETH/USD predicted": 1266.184602872824
+            "BTC/USD predicted": 30255.73215492721,
+            "ETH/USD predicted": 1328.1599450434094
         }
     ],
     [
         1613347200000,
         {
-            "BTC/USD predicted": 28516.65125439172,
-            "ETH/USD predicted": 1266.6827787018972
+            "BTC/USD predicted": 30044.0202765572,
+            "ETH/USD predicted": 1330.3869722503832
         }
     ],
     [
         1613433600000,
         {
-            "BTC/USD predicted": 28383.317539431264,
-            "ETH/USD predicted": 1267.1559084780467
+            "BTC/USD predicted": 29837.455123323492,
+            "ETH/USD predicted": 1332.5578798476708
         }
     ],
     [
         1613520000000,
         {
-            "BTC/USD predicted": 28256.953604908234,
-            "ETH/USD predicted": 1267.6052514048117
+            "BTC/USD predicted": 29635.91160559136,
+            "ETH/USD predicted": 1334.6740820122436
         }
     ],
     [
         1613606400000,
         {
-            "BTC/USD predicted": 28137.19511732689,
-            "ETH/USD predicted": 1268.0320033786081
+            "BTC/USD predicted": 29439.267632112118,
+            "ETH/USD predicted": 1336.736957284751
         }
     ],
     [
         1613692800000,
         {
-            "BTC/USD predicted": 28023.696789266643,
-            "ETH/USD predicted": 1268.4373001715282
+            "BTC/USD predicted": 29247.40410199101,
+            "ETH/USD predicted": 1338.7478494675313
         }
     ],
     [
         1613779200000,
         {
-            "BTC/USD predicted": 27916.131381918727,
-            "ETH/USD predicted": 1268.8222204541223
+            "BTC/USD predicted": 29060.204798007304,
+            "ETH/USD predicted": 1340.7080684999946
         }
     ],
     [
         1613865600000,
         {
-            "BTC/USD predicted": 27814.18876266509,
-            "ETH/USD predicted": 1269.1877886662091
+            "BTC/USD predicted": 28877.556334318302,
+            "ETH/USD predicted": 1342.618891311946
         }
     ],
     [
         1613952000000,
         {
-            "BTC/USD predicted": 27717.575010305503,
-            "ETH/USD predicted": 1269.5349777433544
+            "BTC/USD predicted": 28699.348078298146,
+            "ETH/USD predicted": 1344.4815626554062
         }
     ],
     [
         1614038400000,
         {
-            "BTC/USD predicted": 27626.01156795638,
-            "ETH/USD predicted": 1269.8647117062744
+            "BTC/USD predicted": 28525.47208849539,
+            "ETH/USD predicted": 1346.2972959154688
         }
     ],
     [
         1614124800000,
         {
-            "BTC/USD predicted": 27539.234439729807,
-            "ETH/USD predicted": 1270.177868120056
+            "BTC/USD predicted": 28355.823046648704,
+            "ETH/USD predicted": 1348.0672739007284
         }
     ],
     [
         1614211200000,
         {
-            "BTC/USD predicted": 27456.993429683338,
-            "ETH/USD predicted": 1270.4752804297377
+            "BTC/USD predicted": 28190.29819525892,
+            "ETH/USD predicted": 1349.7926496137864
         }
     ],
     [
         1614297600000,
         {
-            "BTC/USD predicted": 27379.05142039722,
-            "ETH/USD predicted": 1270.7577401784686
+            "BTC/USD predicted": 28028.79727463334,
+            "ETH/USD predicted": 1351.4745470023424
         }
     ],
     [
         1614384000000,
         {
-            "BTC/USD predicted": 27305.183689349036,
-            "ETH/USD predicted": 1271.0259991141477
+            "BTC/USD predicted": 27871.22246253219,
+            "ETH/USD predicted": 1353.1140616913597
         }
     ],
     [
         1614470400000,
         {
-            "BTC/USD predicted": 27235.17726097557,
-            "ETH/USD predicted": 1271.2807711901517
+            "BTC/USD predicted": 27717.478314720775,
+            "ETH/USD predicted": 1354.7122616967777
         }
     ],
     [
         1614556800000,
         {
-            "BTC/USD predicted": 27168.83029263124,
-            "ETH/USD predicted": 1271.5227344654738
+            "BTC/USD predicted": 27567.471707261004,
+            "ETH/USD predicted": 1356.2701881212427
         }
     ],
     [
         1614643200000,
         {
-            "BTC/USD predicted": 27105.951492629516,
-            "ETH/USD predicted": 1271.7525329093337
+            "BTC/USD predicted": 27421.11178005168,
+            "ETH/USD predicted": 1357.7888558323039
         }
     ],
     [
         1614729600000,
         {
-            "BTC/USD predicted": 27046.359568713524,
-            "ETH/USD predicted": 1271.970778115058
+            "BTC/USD predicted": 27278.30988182211,
+            "ETH/USD predicted": 1359.269254123521
         }
     ],
     [
         1614816000000,
         {
-            "BTC/USD predicted": 26989.88270535218,
-            "ETH/USD predicted": 1272.1780509277958
+            "BTC/USD predicted": 27138.979516420583,
+            "ETH/USD predicted": 1360.7123473589115
         }
     ],
     [
         1614902400000,
         {
-            "BTC/USD predicted": 26936.358068362355,
-            "ETH/USD predicted": 1272.3749029903997
+            "BTC/USD predicted": 27003.036290430766,
+            "ETH/USD predicted": 1362.119075601159
         }
     ],
     [
         1614988800000,
         {
-            "BTC/USD predicted": 26885.63133542454,
-            "ETH/USD predicted": 1272.5618582115867
+            "BTC/USD predicted": 26870.397862049955,
+            "ETH/USD predicted": 1363.4903552239903
+        }
+    ],
+    [
+        1615075200000,
+        {
+            "BTC/USD predicted": 26740.983891216158,
+            "ETH/USD predicted": 1364.8270795091214
+        }
+    ],
+    [
+        1615161600000,
+        {
+            "BTC/USD predicted": 26614.71599094442,
+            "ETH/USD predicted": 1366.1301192281617
+        }
+    ],
+    [
+        1615248000000,
+        {
+            "BTC/USD predicted": 26491.517679847853,
+            "ETH/USD predicted": 1367.4003232098523
+        }
+    ],
+    [
+        1615334400000,
+        {
+            "BTC/USD predicted": 26371.314335811978,
+            "ETH/USD predicted": 1368.6385188930133
+        }
+    ],
+    [
+        1615420800000,
+        {
+            "BTC/USD predicted": 26254.033150795738,
+            "ETH/USD predicted": 1369.8455128655546
+        }
+    ],
+    [
+        1615507200000,
+        {
+            "BTC/USD predicted": 26139.603086731055,
+            "ETH/USD predicted": 1371.0220913899054
+        }
+    ],
+    [
+        1615593600000,
+        {
+            "BTC/USD predicted": 26027.954832494586,
+            "ETH/USD predicted": 1372.1690209152025
+        }
+    ],
+    [
+        1615680000000,
+        {
+            "BTC/USD predicted": 25919.02076192547,
+            "ETH/USD predicted": 1373.2870485765727
         }
     ]
 ]
